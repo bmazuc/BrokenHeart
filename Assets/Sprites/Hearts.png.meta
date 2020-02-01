@@ -1,19 +1,34 @@
 fileFormatVersion: 2
-guid: 644a048ae3023494184b7bff93e5f3a4
+guid: 038ed24f47bcf444cb0ab6351e332e06
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8420411575145093250
-    second: Bouton_play_0
+      213: 4432793351920879750
+    second: Hearts_0
   - first:
-      213: -6897957357168002003
-    second: Bouton_play_1
+      213: 5642012044021194823
+    second: Hearts_1
   - first:
-      213: 1767756316929344816
-    second: Bouton_play_2
+      213: 8124259339964715380
+    second: Hearts_2
   - first:
-      213: -2096280640651338138
-    second: Bouton_play_3
+      213: 7685371531485235544
+    second: Hearts_3
+  - first:
+      213: 4160753575623616581
+    second: Hearts_4
+  - first:
+      213: 366615594880959974
+    second: Hearts_5
+  - first:
+      213: -35186699611894704
+    second: Hearts_6
+  - first:
+      213: 3631281003583422710
+    second: Hearts_7
+  - first:
+      213: 4183679337717486878
+    second: Hearts_8
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -110,13 +125,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Bouton_play_0
+      name: Hearts_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 512
-        width: 512
-        height: 512
+        y: 682.6666
+        width: 341.33334
+        height: 341.33334
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +139,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3963c451c1d715743a40dda72c7ea7b5
-      internalID: -8420411575145093250
+      spriteID: 025615120195544479ad8e265e5c6ffa
+      internalID: 4432793351920879750
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bouton_play_1
+      name: Hearts_1
       rect:
         serializedVersion: 2
-        x: 512
-        y: 512
-        width: 512
-        height: 512
+        x: 341
+        y: 682.6666
+        width: 341.33334
+        height: 341.33334
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,20 +160,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5bb33013a676b304eb3996d518761bd2
-      internalID: -6897957357168002003
+      spriteID: 0938924a46e320841ae214d2c267f74e
+      internalID: 5642012044021194823
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bouton_play_2
+      name: Hearts_2
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 682.6666
+        width: 341.33334
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9b680899f38574e87a7841bfa9a6b9
+      internalID: 8124259339964715380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts_3
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 512
-        height: 512
+        y: 341.66666
+        width: 341.33334
+        height: 341.33334
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,20 +202,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d5511a5e877e565449f957f8573cbf9e
-      internalID: 1767756316929344816
+      spriteID: 812c6cf00e5c6dc48bd818472f687bff
+      internalID: 7685371531485235544
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Bouton_play_3
+      name: Hearts_4
       rect:
         serializedVersion: 2
-        x: 512
-        y: 0
-        width: 512
-        height: 512
+        x: 341
+        y: 341.66666
+        width: 341.33334
+        height: 341.33334
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,8 +223,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 733d718fcb550d24abe70a73c010750f
-      internalID: -2096280640651338138
+      spriteID: 5236f3a04218e6543bc19bff0c90e221
+      internalID: 4160753575623616581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts_5
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 341.66666
+        width: 341.33334
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f497a68a27f1b4cb84e18a6eb74c32
+      internalID: 366615594880959974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.6666565
+        width: 341.33334
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbdb2513099d9f4b86f20669051d8a8
+      internalID: -35186699611894704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0.6666565
+        width: 341.33334
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb4c938bea65cd46b5ed1697618fc6d
+      internalID: 3631281003583422710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hearts_8
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 0.6666565
+        width: 341.33334
+        height: 341.33334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e19c7e0c40c607479f1d3d1dc6ae97f
+      internalID: 4183679337717486878
       vertices: []
       indices: 
       edges: []
@@ -196,7 +316,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: acf6a491485f77c40aadae7e860639da
+    spriteID: bd68720772406b246b4d4c49a3542b23
     internalID: 0
     vertices: []
     indices: 
