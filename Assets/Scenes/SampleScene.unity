@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311953, g: 0.38074014, b: 0.3587274, a: 1}
+  m_IndirectSpecularColor: {r: 0.37311947, g: 0.38074005, b: 0.35872722, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1981,6 +1981,71 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 577518604}
   m_CullTransparentMesh: 0
+--- !u!1 &578797347
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 578797349}
+  - component: {fileID: 578797348}
+  m_Layer: 0
+  m_Name: control
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &578797348
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 578797347}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 432bf686048ceb84ca973d33d355adc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  place:
+    months: []
+    defaultEvent:
+      pj: []
+      ex: []
+      ami: []
+      maman: []
+      centreville: []
+  selfEsteem: {fileID: 11400000, guid: a250da92bd65044448891fe8858a599e, type: 2}
+  attention: {fileID: 11400000, guid: aadf6e311c3f119489049f40491d3ed7, type: 2}
+  buttonMaison: {fileID: 233063311}
+  buttonMaman: {fileID: 1623022744}
+  buttonEx: {fileID: 1679664323}
+  buttonAmi: {fileID: 146814741}
+  buttonVille: {fileID: 124566962}
+  date: {fileID: 461030339}
+  EventOne: {fileID: 586474494}
+  EventTwo: {fileID: 1345720813}
+  EventThree: {fileID: 378886393}
+  EventFour: {fileID: 846766211}
+  EventFive: {fileID: 653966701}
+  EventBilan: {fileID: 1073481758}
+--- !u!4 &578797349
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 578797347}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &586474492
 GameObject:
   m_ObjectHideFlags: 0
