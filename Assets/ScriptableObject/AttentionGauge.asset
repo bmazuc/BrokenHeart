@@ -15,3 +15,5 @@ MonoBehaviour:
   currentValue: 0
   maxValue: 5
   minValue: -5
+  lowValue: -2
+  highValue: 2

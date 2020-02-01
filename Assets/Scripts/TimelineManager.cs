@@ -16,27 +16,27 @@ public class TimelineManager : MonoBehaviour
 
     private Event GetPJDefaultEvent()
     {
-        return timeline.defaultEvent.pj[selfEsteem.Value + (attention.Value * 3)];
+        return timeline.defaultEvent.pj[selfEsteem.GetDefaultEventId() + (attention.GetDefaultEventId() * 3)];
     }
 
     private Event GetExDefaultEvent()
     {
-        return timeline.defaultEvent.ex[selfEsteem.Value + (attention.Value * 3)];
+        return timeline.defaultEvent.ex[selfEsteem.GetDefaultEventId() + (attention.GetDefaultEventId() * 3)];
     }
 
     private Event GetFriendDefaultEvent()
     {
-        return timeline.defaultEvent.ami[selfEsteem.Value + (attention.Value * 3)];
+        return timeline.defaultEvent.ami[selfEsteem.GetDefaultEventId() + (attention.GetDefaultEventId() * 3)];
     }
 
     private Event GetMomDefaultEvent()
     {
-        return timeline.defaultEvent.maman[selfEsteem.Value + (attention.Value * 3)];
+        return timeline.defaultEvent.maman[selfEsteem.GetDefaultEventId() + (attention.GetDefaultEventId() * 3)];
     }
 
     private Event GetCenterTownDefaultEvent()
     {
-        return timeline.defaultEvent.centreville[selfEsteem.Value + (attention.Value * 3)];
+        return timeline.defaultEvent.centreville[selfEsteem.GetDefaultEventId() + (attention.GetDefaultEventId() * 3)];
     }
 
     private void Update()
