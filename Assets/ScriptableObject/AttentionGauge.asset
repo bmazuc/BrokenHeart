@@ -12,6 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1669ff1fc95a0ff47ad465dcd2af966f, type: 3}
   m_Name: AttentionGauge
   m_EditorClassIdentifier: 
-  currentValue: 0
-  maxValue: 5
-  minValue: -5
+  currentValue: 50
+  maxValue: 100
+  minValue: 0
+  lowValue: 25
+  highValue: 75
