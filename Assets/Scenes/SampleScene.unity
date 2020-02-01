@@ -1366,6 +1366,7 @@ GameObject:
   - component: {fileID: 339929820}
   - component: {fileID: 339929819}
   - component: {fileID: 339929818}
+  - component: {fileID: 339929821}
   m_Layer: 5
   m_Name: HEART_Panel
   m_TagString: Untagged
@@ -1448,6 +1449,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 339929816}
   m_CullTransparentMesh: 0
+--- !u!114 &339929821
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 339929816}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e58b54c8e884a45b97fa36b3709a67, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gauge: {fileID: 11400000, guid: aadf6e311c3f119489049f40491d3ed7, type: 2}
+  parameter: SeekingAttention
 --- !u!1 &376535933
 GameObject:
   m_ObjectHideFlags: 0
@@ -4176,6 +4191,7 @@ GameObject:
   - component: {fileID: 1380683510}
   - component: {fileID: 1380683509}
   - component: {fileID: 1380683511}
+  - component: {fileID: 1380683512}
   m_Layer: 5
   m_Name: Heart
   m_TagString: Untagged
@@ -4258,6 +4274,20 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &1380683512
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1380683507}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62e58b54c8e884a45b97fa36b3709a67, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gauge: {fileID: 11400000, guid: a250da92bd65044448891fe8858a599e, type: 2}
+  parameter: SelfConfidence
 --- !u!1 &1386926999
 GameObject:
   m_ObjectHideFlags: 0
