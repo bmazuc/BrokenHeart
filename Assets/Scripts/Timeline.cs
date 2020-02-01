@@ -26,7 +26,18 @@ public class Month
 }
 
 [System.Serializable]
+public class DefaultEvent
+{
+    public Event[] pj;
+    public Event[] ex;
+    public Event[] ami;
+    public Event[] maman;
+    public Event[] centreville;
+}
+
+[System.Serializable]
 public class Timeline
 {
     public Month[] months;
+    public DefaultEvent defaultEvent;
 }
