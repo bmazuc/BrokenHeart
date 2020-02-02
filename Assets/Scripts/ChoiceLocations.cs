@@ -143,7 +143,9 @@ public class ChoiceLocations : MonoBehaviour
     void Update()
     {
         //Touch touch = Input.GetTouch(0);
-        //pin.transform.position = touch.position;
+        //Vector3 pinPosition = Camera.main.ScreenToWorldPoint(touch.position);
+        //pinPosition.z = 0;
+        //pin.transform.position = pinPosition;
 
         if (move)
         {
@@ -219,6 +221,7 @@ public class ChoiceLocations : MonoBehaviour
 
     void ActionMaison()
     {
+        pin.transform.position = buttonMaison.transform.position;
         Event ev = months[month].days[day].hour[hour].events["pj"];
 
         if (ev.text == "" || ev.text == "rien")
@@ -242,6 +245,7 @@ public class ChoiceLocations : MonoBehaviour
 
     void ActionMaman()
     {
+        pin.transform.position = buttonMaman.transform.position;
         Event ev = months[month].days[day].hour[hour].events["maman"];
 
         if (ev.text == "" || ev.text == "rien")
@@ -264,6 +268,7 @@ public class ChoiceLocations : MonoBehaviour
 
     void ActionEx()
     {
+        pin.transform.position = buttonEx.transform.position;
         Event ev = months[month].days[day].hour[hour].events["ex"];
 
         if (ev.text == "" || ev.text == "rien")
@@ -287,6 +292,7 @@ public class ChoiceLocations : MonoBehaviour
 
     void ActionAmi()
     {
+        pin.transform.position = buttonAmi.transform.position;
         Event ev = months[month].days[day].hour[hour].events["ami"];
 
         if (ev.text == "" || ev.text == "rien")
@@ -311,6 +317,7 @@ public class ChoiceLocations : MonoBehaviour
 
     void ActionVille()
     {
+        pin.transform.position = buttonVille.transform.position;
         Event ev = months[month].days[day].hour[hour].events["centreVille"];
 
         if (ev.text == "" || ev.text == "rien")
