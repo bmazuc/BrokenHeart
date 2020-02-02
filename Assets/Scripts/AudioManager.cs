@@ -4,14 +4,23 @@ using UnityEngine;
 
 public class AudioManager : MonoBehaviour
 {
-    private AudioManager instance;
-    public AudioManager Instance
+    [SerializeField] private AudioSource[] sources;
+
+    public void Mute()
     {
-        get { return instance; }
+        int length = sources.Length;
+        for (int i = 0; i < length; ++i)
+        {
+            sources[i].mute = true;
+        }
     }
 
-    public void Init()
+    public void Play()
     {
-        instance = this;
+        int length = sources.Length;
+        for (int i = 0; i < length; ++i)
+        {
+            sources[i].mute = false;
+        }
     }
 }
