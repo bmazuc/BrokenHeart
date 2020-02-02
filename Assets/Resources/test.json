@@ -1,0 +1,767 @@
+{
+  "months": [
+    {
+      "days": [
+        {
+          "hour": [
+            {
+              "time": "9h",
+              "pj": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "Avec Anna on s'est mis d'accord pour tout arréter",
+                "text2": "Mais elle était quand même plus d'accord que moi."
+              },
+              "ex": {
+                "selfEsteem": "-35",
+                "attention": "-35",
+                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text2": "Je me suis fait ghoster. Mais en vrai."
+              },
+              "ami": {
+                "selfEsteem": "10",
+                "attention": "20",
+                "text": "Je suis allé chez Seb, et on a fait de la musique.",
+                "text2": "Lui à l'accordéon, moi au triangle, on a tout déchiré."
+              },
+              "maman": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "",
+                "text2": ""
+              },
+              "centreVille": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "",
+                "text2": ""
+              }
+            },
+            {
+              "time": "12h",
+              "pj": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "Je ne me sens pas de me lever aujourd'hui.",
+                "text2": "Je suis resté au lit sous la couette."
+              },
+              "ex": {
+                "selfEsteem": "-35",
+                "attention": "-35",
+                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text2": "Je me suis fait ghoster. Mais en vrai."
+              },
+              "ami": {
+                "selfEsteem": "5",
+                "attention": "10",
+                "text": "Seb m'a emmené au grec aujourd'hui.",
+                "text2": "Il m'a offert le repas, du coup c'était encore meilleur !"
+              },
+              "maman": {
+                "selfEsteem": "5",
+                "attention": "-10",
+                "text": "Maman m'a recruté pour faire le jardin.",
+                "text2": "Je ne voulais pas au début, mais finalement ça m'a détendu."
+              },
+              "centreVille": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "J'étais sorti faire un tour en ville et il s'est mis à pleuvoir des cordes.",
+                "text2": "En avril ne te découvre pas d'un fil. Mais on est en été, pas en avril."
+              }
+            },
+            {
+              "time": "15h",
+              "pj": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "Rien ne vaut une bonne glace devant la télé.",
+                "text2": "J'ai presque fini le pot de glace au charbon."
+              },
+              "ex": {
+                "selfEsteem": "-35",
+                "attention": "-35",
+                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text2": "Je me suis fait ghoster. Mais en vrai."
+              },
+              "ami": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "",
+                "text2": ""
+              },
+              "maman": {
+                "selfEsteem": "5",
+                "attention": "-10",
+                "text": "Maman m'a recruté pour faire le jardin.",
+                "text2": "Je ne voulais pas au début, mais finalement ça m'a détendu."
+              },
+              "centreVille": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "J'étais sorti faire un tour en ville et il s'est mis à pleuvoir des cordes.",
+                "text2": "En avril ne te découvre pas d'un fil. Mais on est en été, pas en avril."
+              }
+            },
+            {
+              "time": "18h",
+              "pj": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "Le passé revient me hanter.",
+                "text2": "La farandole des souvenirs vient me prendre la tête."
+              },
+              "ex": {
+                "selfEsteem": "-35",
+                "attention": "-35",
+                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text2": "Je me suis fait ghoster. Mais en vrai."
+              },
+              "ami": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "",
+                "text2": ""
+              },
+              "maman": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "",
+                "text2": ""
+              },
+              "centreVille": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "J'étais sorti faire un tour en ville et il s'est mis à pleuvoir des cordes.",
+                "text2": "En avril ne te découvre pas d'un fil. Mais on est en été, pas en avril."
+              }
+            },
+            {
+              "time": "21h",
+              "pj": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "J'aime tellement le chocolat.",
+                "text2": "Je me suis enfilé une tablette entière."
+              },
+              "ex": {
+                "selfEsteem": "25",
+                "attention": "10",
+                "text": "Anna était bourrée.",
+                "text2": "Je ne devrais pas, mais je crois qu'au fond ça me rassure, qu'elle n'aille pas bien non plus."
+              },
+              "ami": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "",
+                "text2": ""
+              },
+              "maman": {
+                "selfEsteem": "-15",
+                "attention": "-20",
+                "text": "Maman regardait son émission 'Question pour un chaton', je me suis assis avec elle.",
+                "text2": " Ils étaient tellement perchés... Comme des chats. C'était sympa."
+              },
+              "centreVille": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "J'étais sorti faire un tour en ville et il s'est mis à pleuvoir des cordes.",
+                "text2": "En avril ne te découvre pas d'un fil. Mais on est en été, pas en avril."
+              }
+            }
+          ]
+        },
+        {
+          "hour": [
+            {
+              "time": "9h",
+              "pj": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "Je ne me sens pas de me lever aujourd'hui.",
+                "text2": "Je suis resté au lit sous la couette."
+              },
+              "ex": {
+                "selfEsteem": "-35",
+                "attention": "-35",
+                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text2": "Je me suis fait ghoster. Mais en vrai."
+              },
+              "ami": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "",
+                "text2": ""
+              },
+              "maman": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "",
+                "text2": ""
+              },
+              "centreVille": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "J'étais sorti faire un tour en ville et il s'est mis à pleuvoir des cordes.",
+                "text2": "En avril ne te découvre pas d'un fil. Mais on est en été, pas en avril."
+              }
+            },
+            {
+              "time": "12h",
+              "pj": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "Rien ne vaut une bonne glace devant la télé.",
+                "text2": "J'ai presque fini le pot de glace au charbon."
+              },
+              "ex": {
+                "selfEsteem": "-35",
+                "attention": "-35",
+                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text2": "Je me suis fait ghoster. Mais en vrai."
+              },
+              "ami": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "",
+                "text2": ""
+              },
+              "maman": {
+                "selfEsteem": "-5",
+                "attention": "-10",
+                "text": "Maman a invité son amie à la maison aujourd'hui.",
+                "text2": "Ca faisait longtemps que je n'avais pas vu Francine."
+              },
+              "centreVille": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "J'étais sorti faire un tour en ville et il s'est mis à pleuvoir des cordes.",
+                "text2": "En avril ne te découvre pas d'un fil. Mais on est en été, pas en avril."
+              }
+            },
+            {
+              "time": "15h",
+              "pj": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "",
+                "text2": ""
+              },
+              "ex": {
+                "selfEsteem": "-35",
+                "attention": "-35",
+                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text2": "Je me suis fait ghoster. Mais en vrai."
+              },
+              "ami": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "",
+                "text2": ""
+              },
+              "maman": {
+                "selfEsteem": "-5",
+                "attention": "-10",
+                "text": "Maman a invité son amie à la maison aujourd'hui.",
+                "text2": "Ca faisait longtemps que je n'avais pas vu Francine."
+              },
+              "centreVille": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "J'étais sorti faire un tour en ville et il s'est mis à pleuvoir des cordes.",
+                "text2": "En avril ne te découvre pas d'un fil. Mais on est en été, pas en avril."
+              }
+            },
+            {
+              "time": "18h",
+              "pj": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "",
+                "text2": ""
+              },
+              "ex": {
+                "selfEsteem": "-35",
+                "attention": "-35",
+                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text2": "Je me suis fait ghoster. Mais en vrai."
+              },
+              "ami": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "",
+                "text2": ""
+              },
+              "maman": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "",
+                "text2": ""
+              },
+              "centreVille": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "J'étais sorti faire un tour en ville et il s'est mis à pleuvoir des cordes.",
+                "text2": "En avril ne te découvre pas d'un fil. Mais on est en été, pas en avril."
+              }
+            },
+            {
+              "time": "21h",
+              "pj": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "J'aime tellement le chocolat.",
+                "text2": "Je me suis enfilé une tablette entière."
+              },
+              "ex": {
+                "selfEsteem": "-35",
+                "attention": "-35",
+                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text2": "Je me suis fait ghoster. Mais en vrai."
+              },
+              "ami": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "",
+                "text2": ""
+              },
+              "maman": {
+                "selfEsteem": "-15",
+                "attention": "-20",
+                "text": "Maman regardait son émission 'Question pour un chaton', je me suis assis avec elle.",
+                "text2": " Ils étaient tellement perchés... Comme des chats. C'était sympa."
+              },
+              "centreVille": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "J'étais sorti faire un tour en ville et il pleut toujours des cordes.",
+                "text2": "Au moins, il y a de beaux reflets."
+              }
+            }
+          ]
+        },
+        {
+          "hour": [
+            {
+              "time": "9h",
+              "pj": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "Je ne me sens pas de me lever aujourd'hui.",
+                "text2": "Je suis resté au lit sous la couette. Je pourrais aller chez Seb plus tard."
+              },
+              "ex": {
+                "selfEsteem": "-35",
+                "attention": "-35",
+                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text2": "Je me suis fait ghoster. Mais en vrai."
+              },
+              "ami": {
+                "selfEsteem": "5",
+                "attention": "15",
+                "text": "C'était l'anniv de Seb aujourd'hui",
+                "text2": "Je le charie sur son âge, mais il a pas l'air vexé."
+              },
+              "maman": {
+                "selfEsteem": "5",
+                "attention": "10",
+                "text": "Maman avait l'air radieuse aujourd'hui.",
+                "text2": "J'adore quand elle est comme ça."
+              },
+              "centreVille": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "Aujourd'hui je me suis rendu à l'expo 'Les Jeux Antiques'.",
+                "text2": "Je me coucherai moins bête !"
+              }
+            },
+            {
+              "time": "12h",
+              "pj": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "Les souvenirs de nous qui tournent.",
+                "text2": "Tu soules Anna. Tu me manques."
+              },
+              "ex": {
+                "selfEsteem": "-35",
+                "attention": "-35",
+                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text2": "Je me suis fait ghoster. Mais en vrai."
+              },
+              "ami": {
+                "selfEsteem": "5",
+                "attention": "15",
+                "text": "C'est l'anniv de Seb aujourd'hui",
+                "text2": "C'est... Génial? J'avais oublié comme il est génial."
+              },
+              "maman": {
+                "selfEsteem": "5",
+                "attention": "10",
+                "text": "Maman avait l'air radieuse aujourd'hui.",
+                "text2": "J'adore quand elle est comme ça."
+              },
+              "centreVille": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "J'ai enfin pu voir ce film",
+                "text2": "Cela faisait si longtemps qu'on l'annoncait !"
+              }
+            },
+            {
+              "time": "15h",
+              "pj": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "",
+                "text2": ""
+              },
+              "ex": {
+                "selfEsteem": "-35",
+                "attention": "-35",
+                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text2": "Je me suis fait ghoster. Mais en vrai."
+              },
+              "ami": {
+                "selfEsteem": "5",
+                "attention": "15",
+                "text": "C'est encore l'anniv de Seb aujourd'hui",
+                "text2": "Ya du monde et c'est léger. C'est fun."
+              },
+              "maman": {
+                "selfEsteem": "5",
+                "attention": "10",
+                "text": "Maman avait l'air radieuse aujourd'hui.",
+                "text2": "J'adore quand elle est comme ça."
+              },
+              "centreVille": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "Aujourd'hui je me suis rendu à l'expo 'Les Jeux Antiques'.",
+                "text2": "Je me coucherai moins bête !"
+              }
+            },
+            {
+              "time": "18h",
+              "pj": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "",
+                "text2": ""
+              },
+              "ex": {
+                "selfEsteem": "-35",
+                "attention": "-35",
+                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text2": "Je me suis fait ghoster. Mais en vrai."
+              },
+              "ami": {
+                "selfEsteem": "5",
+                "attention": "15",
+                "text": "Anniv de Seb aujourd'hui",
+                "text2": "C'était... Génial? J'avais oublié comme il est génial."
+              },
+              "maman": {
+                "selfEsteem": "5",
+                "attention": "10",
+                "text": "Maman avait l'air radieuse aujourd'hui.",
+                "text2": "J'adore quand elle est comme ça."
+              },
+              "centreVille": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "Aujourd'hui je me suis rendu à l'expo 'Les Jeux Antiques'.",
+                "text2": "Je me coucherai moins bête !"
+              }
+            },
+            {
+              "time": "21h",
+              "pj": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "Rien ne vaut une bonne glace devant la télé.",
+                "text2": "J'ai envoyé la photo avec du riban cadeau à Seb."
+              },
+              "ex": {
+                "selfEsteem": "-35",
+                "attention": "-35",
+                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text2": "Je Je devrais être chez Seb."
+              },
+              "ami": {
+                "selfEsteem": "5",
+                "attention": "15",
+                "text": "C'était l'anniv de Seb aujourd'hui",
+                "text2": "Dernier verre avant la fin du monde !"
+              },
+              "maman": {
+                "selfEsteem": "-15",
+                "attention": "-20",
+                "text": "Maman regardait son émission 'Question pour un chaton', je me suis assis avec elle.",
+                "text2": "Ca commence à être répétitif, mais je compte les rires de maman."
+              },
+              "centreVille": {
+                "attention": "1",
+                "selfEsteem": "1",
+                "text": "",
+                "text2": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "defaultEvent": {
+    "pj": [
+      {
+        "selfEsteem": "20",
+        "attention": "5",
+        "text": "Je suis resté à la maison",
+        "text2": "Je devrais sortir pour embellir le quartier."
+      },
+      {
+        "selfEsteem": "10",
+        "attention": "0",
+        "text": "Je suis resté à la maison",
+        "text2": "La vie ne se passe pas trop mal, je pense que je vais faire un tour."
+      },
+      {
+        "selfEsteem": "-15",
+        "attention": "-5",
+        "text": "Je suis resté à la maison",
+        "text2": "Pourquoi sortir pour échouer alors que je peux rester à l'intérieur pour le même résultat."
+      },
+      {
+        "selfEsteem": "0",
+        "attention": "5",
+        "text": "Je suis resté à la maison",
+        "text2": "Je devrais sortir pour qu'on me voie."
+      },
+      {
+        "selfEsteem": "0",
+        "attention": "0",
+        "text": "Je suis resté à la maison",
+        "text2": "Il faut que je suive le planning."
+      },
+      {
+        "selfEsteem": "0",
+        "attention": "-10",
+        "text": "Je suis resté à la maison",
+        "text2": "Que le temps est long lorsqu'on s'ennuie."
+      },
+      {
+        "selfEsteem": "0",
+        "attention": "0",
+        "text": "Je suis resté à la maison",
+        "text2": "Etre ou ne pas être ? Ne pas être, très certainement. Mais chez moi au moins."
+      },
+      {
+        "selfEsteem": "1",
+        "attention": "1",
+        "text": "Je suis resté à la maison",
+        "text2": "Je devrais sortir pour embellir le quartier."
+      }
+    ],
+    "ex": [
+      {
+        "selfEsteem": "10",
+        "attention": "10",
+        "text": "Je suis allé chez Anna",
+        "text2": "Je lui ai expliqué à quel point sa vie sera insipide sans moi, elle m'a giflé."
+      },
+      {
+        "selfEsteem": "10",
+        "attention": "10",
+        "text": "Je suis allé chez Anna",
+        "text2": "Peut-être que finalement, un silence vaut bien cent mots."
+      },
+      {
+        "selfEsteem": "-10",
+        "attention": "-20",
+        "text": "Je suis allé chez Anna",
+        "text2": "Elle m'a trouvé si sombre qu'elle m'a foutu dehors."
+      },
+      {
+        "selfEsteem": "15",
+        "attention": "0",
+        "text": "Je suis allé chez Anna",
+        "text2": "Tout ce temps perdu avec elle. Mais ne lui faisons pas plus de mal, elle est déjà si fragile."
+      },
+      {
+        "selfEsteem": "10",
+        "attention": "10",
+        "text": "Je suis allé chez Anna",
+        "text2": "On s'est remémorés quelques souvenirs. Ca fait bizarre. J'ai souri et je suis parti. Le coeur lourd, l'âme légère ? Ou bien est-ce le contraire ?"
+      },
+      {
+        "selfEsteem": "-10",
+        "attention": "-10",
+        "text": "Je suis allé chez Anna",
+        "text2": "J'ai voulu lui raconter toutes mes misères, mais ça ne valait pas le coup, alors je m'en suis allé."
+      },
+      {
+        "selfEsteem": "-10",
+        "attention": "-25",
+        "text": "Je suis allé chez Anna",
+        "text2": "Aucun mot n'a pu sortir. J'ai plus de cafards en moi qu'Oggy. Ca doit se voir, puisqu'elle a prétexté un rendez-vous urgent pour sortir."
+      },
+      {
+        "selfEsteem": "1",
+        "attention": "1",
+        "text": "Je suis allé chez Anna",
+        "text2": "Je devrais sortir pour embellir le quartier."
+      }
+    ],
+    "ami": [
+      {
+        "selfEsteem": "-10",
+        "attention": "5",
+        "text": "Je suis allé chez Seb",
+        "text2": "Je lui ai expliqué comment gérer sa vie, il m'a envoyé bouler."
+      },
+      {
+        "selfEsteem": "15",
+        "attention": "5",
+        "text": "Je suis allé chez Seb",
+        "text2": "Sébastien devait s'entraîner pour le concours de commissaire, avec ses questions à répétition. C'était limite gênant."
+      },
+      {
+        "selfEsteem": "10",
+        "attention": "15",
+        "text": "Je suis allé chez Seb",
+        "text2": "Il n'a suffit que de quelques mots pour que Seb me prenne dans les bras."
+      },
+      {
+        "selfEsteem": "-15",
+        "attention": "0",
+        "text": "Je suis allé chez Seb",
+        "text2": "On s'est disputés. Mais ai-je perdu quelque chose ?"
+      },
+      {
+        "selfEsteem": "10",
+        "attention": "20",
+        "text": "Je suis allé chez Seb",
+        "text2": "Jouer de la contrebasse avec son ami, c'est le feu. Bon, peut-être pas. Mais ça change quand même les idées."
+      },
+      {
+        "selfEsteem": "-10",
+        "attention": "-10",
+        "text": "Je suis allé chez Seb",
+        "text2": "Les secondes passent lentement. J'ai l'impression d'être là depuis 5 heures, mais ça ne fait que 30 secondes. Aie. Si seulement je pouvais lui dire."
+      },
+      {
+        "selfEsteem": "10",
+        "attention": "15",
+        "text": "Je suis allé chez Seb",
+        "text2": "Sébastien m'a parlé de tout et de rien. Comme je ne répondais pas, il m'a regardé longuement, et on est restés comme ça."
+      },
+      {
+        "selfEsteem": "1",
+        "attention": "1",
+        "text": "Je suis allé chez Seb",
+        "text2": "Je devrais sortir pour embellir le quartier."
+      }
+    ],
+    "maman": [
+      {
+        "selfEsteem": "-10",
+        "attention": "-15",
+        "text": "Je suis allé chez maman",
+        "text2": "J'ai tenté de lui montrer ma perfection, elle a pleuré."
+      },
+      {
+        "selfEsteem": "20",
+        "attention": "20",
+        "text": "Je suis allé chez maman",
+        "text2": "A peine étais-je rentré que ses premiers mots furent : 'Mon fils, tu t'es enfin repris'. C'est vrai."
+      },
+      {
+        "selfEsteem": "-10",
+        "attention": "10",
+        "text": "Je suis allé chez maman",
+        "text2": "Elle a tenté de me remonter le moral, mais il n'y a plus rien à réparer. Et voilà qu'elle pleure."
+      },
+      {
+        "selfEsteem": "-20",
+        "attention": "-20",
+        "text": "Je suis allé chez maman",
+        "text2": "Maman pleure. Comme d'habitude. Elle se complaît dans sa tristesse."
+      },
+      {
+        "selfEsteem": "10",
+        "attention": "15",
+        "text": "Je suis allé chez maman",
+        "text2": "Avec elle, je me sens si fragile, et paradoxalement si fort. J'ose à peine y penser."
+      },
+      {
+        "selfEsteem": "-20",
+        "attention": "-10",
+        "text": "Je suis allé chez maman",
+        "text2": "Je n'ai rien dit, mais mes yeux parlaient tant pour moi que maman a tout compris. Et je m'en veux tellement de la voir pleurer par ma faute."
+      },
+      {
+        "selfEsteem": "-30",
+        "attention": "-25",
+        "text": "Je suis allé chez maman",
+        "text2": "Si papa était là, je suis sûr qu'il pleurait avec maman en me voyant."
+      },
+      {
+        "selfEsteem": "1",
+        "attention": "1",
+        "text": "Je suis allé au centre ville",
+        "text2": "Je devrais sortir pour embellir le quartier."
+      }
+    ],
+    "centreville": [
+      {
+        "selfEsteem": "1",
+        "attention": "1",
+        "text": "Je suis allé au centre ville",
+        "text2": "Cette rue est bien trop sale pour que je me risque à l'emprunter."
+      },
+      {
+        "selfEsteem": "1",
+        "attention": "1",
+        "text": "Je suis allé au centre ville",
+        "text2": "C'est toujours si plaisant de me promener ici."
+      },
+      {
+        "selfEsteem": "1",
+        "attention": "1",
+        "text": "Je suis allé au centre ville",
+        "text2": "Tous ces rats qui grouillent... J'y suis bien à ma place."
+      },
+      {
+        "selfEsteem": "1",
+        "attention": "1",
+        "text": "Je suis allé au centre ville",
+        "text2": "Ces rues risquent de me saborder mon moral."
+      },
+      {
+        "selfEsteem": "1",
+        "attention": "1",
+        "text": "Je suis allé au centre ville",
+        "text2": "Je ressens un tel sentiment de bonheur en ces lieux."
+      },
+      {
+        "selfEsteem": "1",
+        "attention": "1",
+        "text": "Je suis allé au centre ville",
+        "text2": "Tout le monde me regarde. Ils voient la misère en moi."
+      },
+      {
+        "selfEsteem": "1",
+        "attention": "1",
+        "text": "Je suis allé au centre ville",
+        "text2": "Pourquoi suis-je ici ?"
+      },
+      {
+        "selfEsteem": "1",
+        "attention": "1",
+        "text": "Je suis allé au centre ville",
+        "text2": "Je devrais sortir pour embellir le quartier."
+      }
+    ]
+  }
+}

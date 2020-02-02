@@ -8,4 +8,5 @@ public class Event
     public int selfEsteem;
     public int attention;
     public string text;
+    public string text2;
 }
