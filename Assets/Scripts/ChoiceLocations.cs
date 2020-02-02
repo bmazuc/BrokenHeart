@@ -98,7 +98,6 @@ public class ChoiceLocations : MonoBehaviour
     void LoadJson()
     {
         TextAsset json = Resources.Load<TextAsset>("test");
-        Debug.Log(json.text);
         loadedJson = JsonUtility.FromJson<LoadedJSON>(json.text);
 
         defaultEvent = new Dictionary<string, Event[]>();
