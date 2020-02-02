@@ -1,3 +1,9 @@
+//    private Event GetDefaultEvent(string key)
+//    {
+//        return defaultEvent[key][selfEsteem.GetDefaultEventId() + (attention.GetDefaultEventId() * 3)];
+//    }
+//}
+
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -5,7 +11,7 @@ using UnityEngine.UI;
 
 public class ChoiceLocations : MonoBehaviour
 {
-    public LoadedJSON loadedTimeline;
+    public LoadedJSON loadedJson;
     public Gauge selfEsteem;
     public Gauge attention;
 
@@ -14,7 +20,7 @@ public class ChoiceLocations : MonoBehaviour
 
     int jour;
     int mois;
-
+    
     bool move;
     int time;
     string infoTime;
@@ -39,14 +45,10 @@ public class ChoiceLocations : MonoBehaviour
     int day;
     int hour;
 
-
-
-
     // Start is called before the first frame update
     void Start()
     {
         LoadJson();
-
 
         month = 0;
         day = 0;
@@ -77,20 +79,21 @@ public class ChoiceLocations : MonoBehaviour
     void LoadJson()
     {
         TextAsset json = Resources.Load<TextAsset>("timelines");
-        loadedTimeline = JsonUtility.FromJson<LoadedJSON>(json.text);
+        Debug.Log(json.text);
+        loadedJson = JsonUtility.FromJson<LoadedJSON>(json.text);
 
         defaultEvent = new Dictionary<string, Event[]>();
-        defaultEvent.Add("pj", loadedTimeline.defaultEvent.pj);
-        defaultEvent.Add("ex", loadedTimeline.defaultEvent.ex);
-        defaultEvent.Add("ami", loadedTimeline.defaultEvent.ami);
-        defaultEvent.Add("maman", loadedTimeline.defaultEvent.maman);
-        defaultEvent.Add("centreVille", loadedTimeline.defaultEvent.centreville);
+        defaultEvent.Add("pj", loadedJson.defaultEvent.pj);
+        defaultEvent.Add("ex", loadedJson.defaultEvent.ex);
+        defaultEvent.Add("ami", loadedJson.defaultEvent.ami);
+        defaultEvent.Add("maman", loadedJson.defaultEvent.maman);
+        defaultEvent.Add("centreVille", loadedJson.defaultEvent.centreville);
 
-        int length = loadedTimeline.months.Length;
+        int length = loadedJson.months.Length;
         months = new Month[length];
         for (int i = 0; i < length; ++i)
         {
-            LoadedMonth month = loadedTimeline.months[i];
+            LoadedMonth month = loadedJson.months[i];
             int dayLength = month.days.Length;
             months[i] = new Month();
             months[i].days = new Day[dayLength];
@@ -125,7 +128,7 @@ public class ChoiceLocations : MonoBehaviour
             textDisplay = infoTime;
 
 
-            if (time == 9)
+            if (time==9)
             {
                 EventOne.text = textDisplay;
             }
@@ -146,13 +149,9 @@ public class ChoiceLocations : MonoBehaviour
             {
                 EventFive.text = textDisplay;
                 EventBilan.text = "23 h : Bilan de la journée";
-
-            }
-
-
-
+            }        
+            
             if (mois < 10)
-
             {
                 date.text = jour + "/0" + mois;
             }
@@ -167,11 +166,9 @@ public class ChoiceLocations : MonoBehaviour
             hour++;
 
             if (time > 22)
-
             {
                 day++;
                 endDay();
-
             }
             if (jour > 31)
             {
@@ -186,7 +183,6 @@ public class ChoiceLocations : MonoBehaviour
 
     void ActionMaison()
     {
-
         Event ev = months[month].days[day].hour[hour].events["pj"];
 
         if (ev.text == "" || ev.text == "rien")
@@ -194,8 +190,7 @@ public class ChoiceLocations : MonoBehaviour
 
         if (imHere == "chez moi")
         {
-            infoTime = "je reste en un peu chez moi, " + ev.text;
-
+            infoTime = "je reste en un peu chez moi, " + ev.text ; 
         }
         else
         {
@@ -211,6 +206,7 @@ public class ChoiceLocations : MonoBehaviour
     void ActionMaman()
     {
         Event ev = months[month].days[day].hour[hour].events["maman"];
+
         if (ev.text == "" || ev.text == "rien")
             ev = GetDefaultEvent("maman");
 
@@ -231,6 +227,7 @@ public class ChoiceLocations : MonoBehaviour
     void ActionEx()
     {
         Event ev = months[month].days[day].hour[hour].events["ex"];
+
         if (ev.text == "" || ev.text == "rien")
             ev = GetDefaultEvent("ex");
 
@@ -248,16 +245,17 @@ public class ChoiceLocations : MonoBehaviour
         selfEsteem.Value += ev.selfEsteem;
         attention.Value += ev.attention;
     }
+
     void ActionAmi()
     {
         Event ev = months[month].days[day].hour[hour].events["ami"];
+
         if (ev.text == "" || ev.text == "rien")
             ev = GetDefaultEvent("ami");
 
         if (imHere == "je suis chez mon ami")
         {
             infoTime = "je suis toujours chez mon ami, " + ev.text;
-
         }
         else
         {
@@ -270,20 +268,21 @@ public class ChoiceLocations : MonoBehaviour
         attention.Value += ev.attention;
 
     }
+
     void ActionVille()
     {
         Event ev = months[month].days[day].hour[hour].events["centreVille"];
+
         if (ev.text == "" || ev.text == "rien")
             ev = GetDefaultEvent("centreVille");
 
         if (imHere == "je suis en ville")
         {
             infoTime = "je suis toujours en ville, " + ev.text;
-
         }
         else
         {
-            infoTime = ev.text;
+            infoTime = "je suis partie en ville, " + ev.text;
         }
         imHere = "je suis en ville";
         move = true;
@@ -308,12 +307,12 @@ public class ChoiceLocations : MonoBehaviour
         }
         time = 9;
         jour++;
-
+        
         EventOne.text = "";
         EventTwo.text = "";
         EventThree.text = "";
         EventFour.text = "";
-        EventFive.text = "";
+        EventFive.text = ""; 
         EventBilan.text = "";
 
     }
