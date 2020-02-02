@@ -7,6 +7,7 @@ using UnityEngine.UI;
 public class UIManager : MonoBehaviour
 {
     [SerializeField] private Canvas menuInGame;
+    [SerializeField] private Canvas popup;
 
     [Header("End")]
     [SerializeField] private Gauge selfEsteemGauge;
@@ -17,6 +18,11 @@ public class UIManager : MonoBehaviour
     [SerializeField] private Image attentionSlider;
     [SerializeField] private Canvas game;
     [SerializeField] private Canvas endGame;
+
+    public void CallPopup()
+    {
+        popup.gameObject.SetActive(true);
+    }
 
     public void End()
     {
