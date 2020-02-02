@@ -8,8 +8,8 @@
               "time": "9h",
 			  "planning":"ON S'EST QUITTES ANNA ET MOI",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-50",
+                "attention": "-50",
                 "text": "Avec Anna on s'est mis d'accord pour tout arréter",
 				"text2":"Mais elle était quand même plus d'accord que moi."
               },
@@ -42,8 +42,8 @@
               "time": "12h",
 			   "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-20",
+                "attention": "-10",
                 "text": "Je ne me sens pas de me lever aujourd'hui.",
 				"text2":"Je suis resté au lit sous la couette."
               },
@@ -66,8 +66,8 @@
 				"text2":"Je ne voulais pas au début, mais finalement ça m'a détendu."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "-2",
                 "text": "J'étais sorti faire un tour en ville et il s'est mis à pleuvoir des cordes.",
 				"text2":"En avril ne te découvre pas d'un fil. Mais on est en été, pas en avril."
               }
@@ -76,8 +76,8 @@
               "time": "15h",
 			   "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "10",
+                "attention": "10",
                 "text": "Rien ne vaut une bonne glace devant la télé.",
 				"text2":"J'ai presque fini le pot de glace au charbon."
               },
@@ -100,8 +100,8 @@
 				"text2":"Je ne voulais pas au début, mais finalement ça m'a détendu."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "-2",
                 "text": "J'étais sorti faire un tour en ville et il s'est mis à pleuvoir des cordes.",
 				"text2":"En avril ne te découvre pas d'un fil. Mais on est en été, pas en avril."
               }
@@ -110,8 +110,8 @@
               "time": "18h",
 			  "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-15",
+                "attention": "10",
                 "text": "Le passé revient me hanter.",
 				"text2":"La farandole des souvenirs vient me prendre la tête."
               },
@@ -134,8 +134,8 @@
 				"text2":""
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "-2",
                 "text": "J'étais sorti faire un tour en ville et il s'est mis à pleuvoir des cordes.",
 				"text2":"En avril ne te découvre pas d'un fil. Mais on est en été, pas en avril."
               }
@@ -144,8 +144,8 @@
               "time": "21h",
 			  "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "10",
+                "attention": "10",
                 "text": "J'aime tellement le chocolat.",
 				"text2":"Je me suis enfilé une tablette entière."
               },
@@ -168,8 +168,8 @@
 				"text2":" Ils étaient tellement perchés... Comme des chats. C'était sympa."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "-2",
                 "text": "J'étais sorti faire un tour en ville et il s'est mis à pleuvoir des cordes.",
 				"text2":"En avril ne te découvre pas d'un fil. Mais on est en été, pas en avril."
               }
@@ -182,8 +182,8 @@
               "time": "9h",
 			  "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-20",
+                "attention": "-10",
                 "text": "Je ne me sens pas de me lever aujourd'hui.",
 				"text2":"Je suis resté au lit sous la couette."
               },
@@ -206,8 +206,8 @@
 				"text2":""
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "-2",
                 "text": "J'étais sorti faire un tour en ville et il s'est mis à pleuvoir des cordes.",
 				"text2":"En avril ne te découvre pas d'un fil. Mais on est en été, pas en avril."
               }
@@ -216,8 +216,8 @@
               "time": "12h",
 			  "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "10",
+                "attention": "10",
                 "text": "Rien ne vaut une bonne glace devant la télé.",
 				"text2":"J'ai presque fini le pot de glace au charbon."
               },
@@ -240,8 +240,8 @@
 				"text2":"Ca faisait longtemps que je n'avais pas vu Francine."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "-2",
                 "text": "J'étais sorti faire un tour en ville et il s'est mis à pleuvoir des cordes.",
 				"text2":"En avril ne te découvre pas d'un fil. Mais on est en été, pas en avril."
               }
@@ -274,8 +274,8 @@
 				"text2":"Ca faisait longtemps que je n'avais pas vu Francine."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "-2",
                 "text": "J'étais sorti faire un tour en ville et il s'est mis à pleuvoir des cordes.",
 				"text2":"En avril ne te découvre pas d'un fil. Mais on est en été, pas en avril."
               }
@@ -308,8 +308,8 @@
 				"text2":""
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "-2",
                 "text": "J'étais sorti faire un tour en ville et il s'est mis à pleuvoir des cordes.",
 				"text2":"En avril ne te découvre pas d'un fil. Mais on est en été, pas en avril."
               }
@@ -318,8 +318,8 @@
               "time": "21h",
 			  "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "10",
+                "attention": "10",
                 "text": "J'aime tellement le chocolat.",
 				"text2":"Je me suis enfilé une tablette entière."
               },
@@ -342,8 +342,8 @@
 				"text2":" Ils étaient tellement perchés... Comme des chats. C'était sympa."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "-5",
                 "text": "J'étais sorti faire un tour en ville et il pleut toujours des cordes.",
 				"text2":"Au moins, il y a de beaux reflets."
               }
@@ -356,8 +356,8 @@
               "time": "9h",
 			  "planning":"ANNIV DE SEB (CHEZ SEB)",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-20",
+                "attention": "-10",
                 "text": "Je ne me sens pas de me lever aujourd'hui.",
 				"text2":"Je suis resté au lit sous la couette. Je pourrais aller chez Seb plus tard."
               },
@@ -380,8 +380,8 @@
 				"text2":"J'adore quand elle est comme ça."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo 'Les Jeux Antiques'.",
 				"text2":"Je me coucherai moins bête !"
               }
@@ -390,8 +390,8 @@
               "time": "12h",
 			  "planning":"ANNIV DE SEB (CHEZ SEB)",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-15",
+                "attention": "10",
                 "text": "Les souvenirs de nous qui tournent.",
 				"text2":"Tu soules Anna. Tu me manques."
               },
@@ -414,8 +414,8 @@
 				"text2":"J'adore quand elle est comme ça."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "10",
                 "text": "J'ai enfin pu voir ce film",
 				"text2":"Cela faisait si longtemps qu'on l'annoncait !"
               }
@@ -448,8 +448,8 @@
 				"text2":"J'adore quand elle est comme ça."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo 'Les Jeux Antiques'.",
 				"text2":"Je me coucherai moins bête !"
               }
@@ -482,8 +482,8 @@
 				"text2":"J'adore quand elle est comme ça."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo 'Les Jeux Antiques'.",
 				"text2":"Je me coucherai moins bête !"
               }
@@ -492,8 +492,8 @@
               "time": "21h",
 			  "planning":"ANNIV DE SEB (CHEZ SEB)",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "10",
+                "attention": "10",
                 "text": "Rien ne vaut une bonne glace devant la télé.",
                 "text2": "J'ai envoyé la photo avec du riban cadeau à Seb."
               },
@@ -530,8 +530,8 @@
               "time": "9h",
 			  "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-20",
+                "attention": "-10",
                 "text": "Je ne me sens pas de me lever aujourd'hui.",
 				"text2":"Je suis resté au lit sous la couette."
               },
@@ -554,8 +554,8 @@
 				"text2":""
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo 'Les Jeux Antiques'.",
 				"text2":"Je me coucherai moins bête !"
               }
@@ -588,8 +588,8 @@
 				"text2":"J'attrape les produits frais plus vite qu'une formule 1, mais c'était quand même chiant."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo 'Les Jeux Antiques'.",
 				"text2":"Je me coucherai moins bête !"
               }
@@ -622,8 +622,8 @@
 				"text2":"J'attrape les produits frais plus vite qu'une formule 1, mais c'était quand même chiant."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo 'Les Jeux Antiques'.",
 				"text2":"Je me coucherai moins bête !"
               }
@@ -656,8 +656,8 @@
 				"text2":""
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo 'Les Jeux Antiques'.",
 				"text2":"Je me coucherai moins bête !"
               }
@@ -666,8 +666,8 @@
               "time": "21h",
 			  "planning":"BBQ (CHEZ SEB)",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-10",
+                "attention": "5",
                 "text": "Ils ont passé un film badant à la télé.",
 				"text2":"J'en ai marre de chialer à la moindre merde quiche qui passe sur mon Netflix !"
               },
@@ -704,8 +704,8 @@
               "time": "9h",
 			  "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-20",
+                "attention": "-10",
                 "text": "Je ne me sens pas de me lever aujourd'hui.",
 				"text2":"Je suis resté au lit sous la couette."
               },
@@ -728,8 +728,8 @@
 				"text2":"Ou c'était peut-être hier."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo 'La Famille Adams'.",
 				"text2":"Je me coucherai moins bête."
               }
@@ -762,8 +762,8 @@
 				"text2":"Ou c'était peut-être hier."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo 'La Famille Adams'.",
 				"text2":"Je me coucherai moins bête."
               }
@@ -796,8 +796,8 @@
 				"text2":"Ou c'était peut-être hier."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo 'La Famille Adams'.",
 				"text2":"Je me coucherai moins bête."
               }
@@ -830,8 +830,8 @@
 				"text2":"Ou c'était peut-être hier."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo 'La Famille Adams'.",
 				"text2":"Je me coucherai moins bête."
               }
@@ -878,8 +878,8 @@
               "time": "9h",
 			  "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-20",
+                "attention": "-10",
                 "text": "Je ne me sens pas de me lever aujourd'hui.",
 				"text2":"Je suis resté au lit sous la couette."
               },
@@ -970,8 +970,8 @@
 				"text2":"Ou c'était peut-être hier."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo 'La Famille Adams'.",
 				"text2":"Je me coucherai moins bête."
               }
@@ -1004,8 +1004,8 @@
 				"text2":"Ou c'était peut-être hier."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo 'La Famille Adams'.",
 				"text2":"Je me coucherai moins bête."
               }
@@ -1052,8 +1052,8 @@
               "time": "9h",
 			  "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-20",
+                "attention": "-10",
                 "text": "Je ne me sens pas de me lever aujourd'hui.",
 				"text2":"Je suis resté au lit sous la couette."
               },
@@ -1076,8 +1076,8 @@
 				"text2":""
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo 'Batman'.",
 				"text2":"Je me coucherai moins bête."
               }
@@ -1144,8 +1144,8 @@
 				"text2":"Ca faisait longtemps que je n'avais pas vu Francine."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo 'Batman'.",
 				"text2":"Je me coucherai moins bête."
               }
@@ -1178,8 +1178,8 @@
 				"text2":"Ca faisait longtemps que je n'avais pas vu Francine."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo 'Batman'.",
 				"text2":"Je me coucherai moins bête."
               }
@@ -1212,8 +1212,8 @@
 				"text2":""
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo 'Batman'.",
 				"text2":"Je me coucherai moins bête."
               }
@@ -1226,8 +1226,8 @@
               "time": "9h",
 			  "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-20",
+                "attention": "-10",
                 "text": "Je ne me sens pas de me lever aujourd'hui.",
 				"text2":"Je suis resté au lit sous la couette."
               },
@@ -1250,8 +1250,8 @@
 				"text2":""
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo 'Batman'.",
 				"text2":"Je me coucherai moins bête."
               }
@@ -1352,8 +1352,8 @@
 				"text2":""
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo 'Batman'.",
 				"text2":"Je me coucherai moins bête."
               }
@@ -1400,8 +1400,8 @@
               "time": "9h",
 			  "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-20",
+                "attention": "-10",
                 "text": "Je ne me sens pas de me lever aujourd'hui.",
 				"text2":"Je suis resté au lit sous la couette."
               },
@@ -1492,8 +1492,8 @@
 				"text2":""
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo 'Batman'.",
 				"text2":"Je me coucherai moins bête."
               }
@@ -1526,8 +1526,8 @@
 				"text2":"Ca m'a soulé au début, mais en fait c'était marrant de la voir bouger le même meuble pendant 2 heures."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo 'Batman'.",
 				"text2":"Je me coucherai moins bête."
               }
@@ -1574,8 +1574,8 @@
               "time": "9h",
 			  "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-20",
+                "attention": "-10",
                 "text": "Je ne me sens pas de me lever aujourd'hui.",
 				"text2":"Je suis resté au lit sous la couette."
               },
@@ -1598,8 +1598,8 @@
 				"text2":""
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo 'Batman'.",
 				"text2":"Je me coucherai moins bête."
               }
@@ -1632,8 +1632,8 @@
 				"text2":"Je ne voulais pas au début, mais finalement ça m'a détendu."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo 'Batman'.",
 				"text2":"Je me coucherai moins bête."
               }
@@ -1666,8 +1666,8 @@
 				"text2":""
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo 'Batman'.",
 				"text2":"Je me coucherai moins bête."
               }
@@ -1700,8 +1700,8 @@
 				"text2":""
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo 'Batman'.",
 				"text2":"Je me coucherai moins bête."
               }
@@ -1734,8 +1734,8 @@
 				"text2":"Elle devrait arrêter de danser la tecktonik sur toutes les musiques."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo 'Batman'.",
 				"text2":"Je me coucherai moins bête."
               }
@@ -1748,8 +1748,8 @@
               "time": "9h",
 			  "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-20",
+                "attention": "-10",
                 "text": "Je ne me sens pas de me lever aujourd'hui.",
 				"text2":"Je suis resté au lit sous la couette."
               },
@@ -1772,8 +1772,8 @@
 				"text2":""
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "-5",
                 "text": "Il pleut il mouille.",
 				"text2":" Mais là, c'est même plus la fête à la grenouille. C'est celle de l'alligator. C'est impressionnant un orage."
               }
@@ -1840,8 +1840,8 @@
 				"text2":""
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "-5",
                 "text": "Il pleut il mouille.",
 				"text2":"L'orage dévore le monde, et cache mes angoisses."
               }
@@ -1874,8 +1874,8 @@
 				"text2":"Ca faisait longtemps que je n'avais pas vu Francine."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "-5",
                 "text": "Il pleure dans mon coeur comme il pleut sur la ville.",
 				"text2":"L'orage dévore le monde, et cache mes angoisses."
               }
@@ -1884,8 +1884,8 @@
               "time": "21h",
 			  "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-10",
+                "attention": "5",
                 "text": "Ils ont passé un film badant à la télé.",
 				"text2":"J'en ai marre de chialer à la moindre merde quiche qui passe sur mon Netflix !"
               },
@@ -1908,8 +1908,8 @@
 				"text2":"Ca commence à être répétitif, mais je compte les rires de maman."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "-5",
                 "text": "Il pleure dans mon coeur comme il pleut sur la ville.",
 				"text2":"L'orage dévore le monde, et cache mes angoisses."
               }
@@ -1922,8 +1922,8 @@
               "time": "9h",
 			  "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-20",
+                "attention": "-10",
                 "text": "Je ne me sens pas de me lever aujourd'hui.",
 				"text2":"Je suis resté au lit sous la couette."
               },
@@ -2096,8 +2096,8 @@
               "time": "9h",
 			  "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-20",
+                "attention": "-10",
                 "text": "Je ne me sens pas de me lever aujourd'hui.",
 				"text2":"Je suis resté au lit sous la couette."
               },
@@ -2261,7 +2261,7 @@
                 "text": "Je suis allé en ville et j'ai regardé l'orage.",
 				"text2":"J'ai sursauté aux tonnère. Les elcairs donnent envie de faire des photos."
               }
-              
+
             }
           ]
         },
@@ -2271,8 +2271,8 @@
               "time": "9h",
 			  "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-20",
+                "attention": "-10",
                 "text": "Je ne me sens pas de me lever aujourd'hui.",
 				"text2":"Je suis resté au lit sous la couette."
               },
@@ -2445,8 +2445,8 @@
               "time": "9h",
 			  "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-20",
+                "attention": "-10",
                 "text": "Je ne me sens pas de me lever aujourd'hui.",
 				"text2":"Je suis resté au lit sous la couette."
               },
@@ -2619,8 +2619,8 @@
               "time": "9h",
 			  "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-20",
+                "attention": "-10",
                 "text": "Je ne me sens pas de me lever aujourd'hui.",
 				"text2":"Je suis resté au lit sous la couette."
               },
@@ -2643,8 +2643,8 @@
 				"text2":""
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "5",
                 "text": "Il a fait grand soleil, je me suis arrêté dans un parc.",
 				"text2":"C'est étrange ce clame. Cette liberté... Cette solitude."
               }
@@ -2677,8 +2677,8 @@
 				"text2":""
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "5",
                 "text": "Il a fait grand soleil, je me suis arrêté dans un parc.",
 				"text2":"C'est étrange ce clame. Cette liberté... Cette solitude."
               }
@@ -2745,8 +2745,8 @@
 				"text2":"Elle devrait arrêter de danser la tecktonik sur toutes les musiques."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "5",
                 "text": "Il a fait grand soleil, je me suis arrêté dans un parc.",
 				"text2":"C'est étrange ce clame. Cette liberté... Cette solitude."
               }
@@ -2779,8 +2779,8 @@
 				"text2":"Ca commence à être répétitif, mais je compte les rires de maman."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "-2",
                 "text": "J'étais sorti faire un tour en ville et il s'est mis à pleuvoir des cordes.",
 				"text2":"En avril ne te découvre pas d'un fil. Mais on est en été, pas en avril."
               }
@@ -2794,8 +2794,8 @@
               "time": "9h",
 			  "planning":"ANNIVERSAIRE ANNA",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-20",
+                "attention": "-10",
                 "text": "Je ne me sens pas de me lever aujourd'hui.",
 				"text2":"Qu'est-ce qu'on est bien sous la couette !"
               },
@@ -2920,8 +2920,8 @@
 				"text2":"Elle doit sans doute escalader l'Everest."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "5",
                 "text": "Il a fait grand soleil, je me suis arrêté dans un parc.",
 				"text2":"C'est étrange ce clame. Cette liberté... Cette solitude."
               }
@@ -2954,8 +2954,8 @@
 				"text2":"De nuages en marécages, de vent d'Espagne en pluie d'équateur."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-10",
+                "attention": "5",
                 "text": "Pas envie de voir Anna, pas de Seb, donc boîte ce soir.",
 				"text2":"J'ai vu une femme resplendissante.Je n'ai pas osé l'aborder. J'espère la revoir."
               }
@@ -2968,8 +2968,8 @@
               "time": "9h",
 			  "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-20",
+                "attention": "-10",
                 "text": "Je ne me sens pas de me lever aujourd'hui.",
 				"text2":"Qu'est-ce qu'on est bien sous la couette !"
               },
@@ -3374,8 +3374,8 @@
 				"text2":"Elle doit se baigner dans la fontaine de Trévi."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "5",
+                "attention": "10",
                 "text": "J'ai parlé avec un mec super cool au bar.",
 				"text2":"J'espère qu'on se reverra."
               }
@@ -3664,8 +3664,8 @@
               "time": "9h",
 			  "planning":"ANNA RDV PRO (PAS CHEZ ELLE)",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-20",
+                "attention": "-10",
                 "text": "Je ne me sens pas de me lever aujourd'hui.",
 				"text2":"Le monde appartient à ceux qui se lèvent tard."
               },
@@ -3756,8 +3756,8 @@
 				"text2":"Mon petit papa, quand tu descendras du ciel..."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo.",
 				"text2":"J'ai appris plein de choses sur les lois browniennes !"
               }
@@ -3790,8 +3790,8 @@
 				"text2":"Son image reste dans mon coeur pour l'éternité."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo.",
 				"text2":"J'ai appris plein de choses sur les quokkas !"
               }
@@ -3964,8 +3964,8 @@
 				"text2":""
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo.",
 				"text2":"J'ai appris plein de choses sur l'art minimaliste !"
               }
@@ -4012,8 +4012,8 @@
               "time": "9h",
 			  "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-20",
+                "attention": "-10",
                 "text": "Je ne me sens pas de me lever aujourd'hui.",
 				"text2":"On est toujours mieux dans son lit."
               },
@@ -4036,8 +4036,8 @@
 				"text2":""
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo.",
 				"text2":"J'ai appris plein de choses sur les nains qui vont à la mine !"
               }
@@ -4104,8 +4104,8 @@
 				"text2":"J'ai l'impression d'être comme ces orchidées. Sauf que moi, on m'a piétiné."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo.",
 				"text2":"J'ai appris plein de choses sur le courant romantique !"
               }
@@ -4114,8 +4114,8 @@
               "time": "18h",
 			  "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "10",
+                "attention": "10",
                 "text": "J'aime tellement le chocolat.",
 				"text2":"Je ne pourrais pas m'en passer."
               },
@@ -4138,8 +4138,8 @@
 				"text2":""
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo.",
 				"text2":"J'ai appris plein de choses sur Morsang-sur-Orge !"
               }
@@ -4210,8 +4210,8 @@
 				"text2":""
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo.",
 				"text2":"J'ai appris à réparer plein de choses !"
               }
@@ -4278,8 +4278,8 @@
 				"text2":"Dommage, j'aurais aimé la voir seule."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "10",
                 "text": "Aujourd'hui je me suis rendu à l'expo.",
 				"text2":"J'ai appris plein de choses sur la boue !"
               }
@@ -4312,8 +4312,8 @@
 				"text2":""
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "-5",
                 "text": "Je voulais faire un tour au centre ville, mais un gros incendie a forcé les pompiers à bloquer toutes les rues.",
 				"text2":"J'espère qu'il n'y a pas eu de blessés."
               }
@@ -4346,8 +4346,8 @@
 				"text2":" C'était bizarre. Mais sympa."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "-5",
                 "text": "Je voulais faire un tour au centre ville, mais un gros incendie a forcé les pompiers à bloquer toutes les rues.",
 				"text2":"J'espère qu'ils vont réussir à l'arrêter vite."
               }
@@ -4384,8 +4384,8 @@
 				"text2":""
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "-5",
                 "text": "Le cinéma était fermé aujourd'hui...",
 				"text2":"Je suis dégouté, j'avais hâte de voir Henry Cover et le Prisme doré d'Ace Caban."
               }
@@ -4452,8 +4452,8 @@
 				"text2":"J'adore écouter du classique avec elle."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "-5",
                 "text": "Le cinéma était fermé aujourd'hui...",
 				"text2":"Moi qui l'attendais."
               }
@@ -4520,8 +4520,8 @@
 				"text2":" Ils étaient tellement perchés... Comme des chats. C'était sympa."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "5",
+                "attention": "10",
                 "text": "J'ai parlé avec un mec super cool au bar.",
 				"text2":"On devrait bientôt se revoir."
               }
@@ -4534,8 +4534,8 @@
               "time": "9h",
 			  "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-20",
+                "attention": "-10",
                 "text": "Je ne me sens pas de me lever aujourd'hui.",
 				"text2":"Je suis resté au lit sous la couette."
               },
@@ -4568,8 +4568,8 @@
               "time": "12h",
 			  "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-20",
+                "attention": "-10",
                 "text": "Je ne me sens pas de me lever aujourd'hui.",
 				"text2":"Je suis resté au lit sous la couette."
               },
@@ -4660,8 +4660,8 @@
 				"text2":""
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "5",
                 "text": "Belle journée au parc.",
 				"text2":"Sous le sunlight des tropiques, je m'en vais trouver les porcs épics."
               }
@@ -4834,8 +4834,8 @@
 				"text2":"On a fait une fête en petit comité. Elle était toute contente de souffler ses bougies."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "-5",
                 "text": "'avais besoin de prendre un peu l'air mais impossible avec ce temps de chien",
 				"text2":"Ô rage ! Ô désespoir ! Ô vieillesse ennemie !N'ai-je donc tant vécu que pour cette infamie ?"
               }
@@ -4844,8 +4844,8 @@
               "time": "21h",
 			  "planning":"FILS INDIGNE",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "10",
+                "attention": "10",
                 "text": "Rien ne vaut une bonne glace devant la télé.",
 				"text2":"Il faisait tellement chaud."
               },
@@ -5080,8 +5080,8 @@
 				"text2":"J'ai du rester avec elle et Margaux, que je n'aime pas du tout."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-20",
+                "attention": "10",
                 "text": "Il y a eu un tremblement de terre aujourd'hui en ville.",
 				"text2":"Ca a secoué."
               }
@@ -5090,8 +5090,8 @@
               "time": "12h",
 			  "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "10",
+                "attention": "10",
                 "text": "Rien ne vaut une bonne glace devant la télé.",
 				"text2":"La glace à la bière, la base."
               },
@@ -5114,8 +5114,8 @@
 				"text2":"J'adore la voir comme ça."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-20",
+                "attention": "10",
                 "text": "Il y a eu un tremblement de terre aujourd'hui en ville.",
 				"text2":"On ressent encore des secousses."
               }
@@ -5254,8 +5254,8 @@
 				"text2":"J'espère qu'elle va vite se remettre."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "-2",
                 "text": "J'étais sorti faire un tour en ville et il s'est mis à pleuvoir des cordes.",
 				"text2":"Evidemment, j'avais oublié mon parapluie."
               }
@@ -5288,8 +5288,8 @@
 				"text2":"J'espère qu'elle va vite se remettre."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "-2",
                 "text": "J'étais sorti faire un tour en ville et il s'est mis à pleuvoir des cordes.",
 				"text2":"Evidemment, j'avais oublié mon parapluie."
               }
@@ -5322,8 +5322,8 @@
 				"text2":"J'espère qu'elle va vite se remettre."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "-2",
                 "text": "J'étais sorti faire un tour en ville et il s'est mis à pleuvoir des cordes.",
 				"text2":"Evidemment, j'avais oublié mon parapluie."
               }
@@ -5390,8 +5390,8 @@
 				"text2":"J'espère qu'elle va vite se remettre."
               },
               "centreVille": {
-                "attention": "1",
-                "selfEsteem": "1",
+                "attention": "5",
+                "selfEsteem": "10",
                 "text": "J'ai parlé avec un mec super cool au bar.",
 				"text2":"On va se donner rendez-vous."
               }
@@ -5432,8 +5432,8 @@
 				"text2":"Ou c'était peut-être hier"
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "2",
                 "text": "Le vote, c'est comme une biscotte, ca s'effrite avant qu'on ait pu en profiter",
 				"text2":""
               }
@@ -5674,8 +5674,8 @@
 				"text2":"J'adore quand elle est comme ça"
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "5",
+                "attention": "10",
                 "text": "J'ai parlé avec un mec super cool au bar",
 				"text2":"J'espère qu'on se reverra"
               }
@@ -5742,8 +5742,8 @@
 				"text2":"Elle devrait arrêter de danser la tecktonik sur toutes les musiques. "
               },
               "centreVille": {
-                "attention": "1",
-                "selfEsteem": "1",
+                "attention": "10",
+                "selfEsteem": "15",
                 "text": "La fête foraine est arrivée en ville aujourd'hui !",
 				"text2":"J'ai hâte de faire les montagnes russes pas russes."
               }
@@ -5916,8 +5916,8 @@
 				"text2":"Je dois avouer que sa cuisine m'avait manqué."
               },
               "centreVille": {
-                "attention": "1",
-                "selfEsteem": "1",
+                "attention": "10",
+                "selfEsteem": "15",
                 "text": "La fête foraine est arrivée en ville aujourd'hui !",
 				"text2":"J'ai hâte de faire les montagnes russes pas russes."
               }
@@ -5930,8 +5930,8 @@
               "time": "9h",
 			  "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-20",
+                "attention": "-10",
                 "text": "Je ne me sens pas de me lever aujourd'hui",
 				"text2":"Je suis resté au lit sous la couette."
               },
@@ -5954,8 +5954,8 @@
 				"text2":""
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "-5",
                 "text": "J'avais besoin de prendre un peu l'air mais impossible avec ce temps de chien",
 				"text2": "Ô rage ! Ô désespoir ! Ô vieillesse ennemie ! N'ai-je donc tant vécu que pour cette infamie ?"
               }
@@ -5964,8 +5964,8 @@
               "time": "12h",
 			  "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-20",
+                "attention": "-10",
                 "text": "Je ne me sens pas de me lever aujourd'hui",
 				"text2":"Je suis resté au lit sous la couette."
               },
@@ -6022,8 +6022,8 @@
 				"text2":""
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-20",
+                "attention": "10",
                 "text": "Putain, je me suis fait percuté par un connard qui a grillé la priorité",
 				"text2":"Ma pauvre voiture, je n'ai plus qu'à racheter une capote neuve. "
               }
@@ -6056,8 +6056,8 @@
 				"text2":""
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "-5",
                 "text": "Le cinéma était fermé aujourd'hui ..",
 				"text2":"Je suis dégouté, j'avais hâte de voir Henry Cover et le Prisme doré d'Ace Caban."
               }
@@ -6312,8 +6312,8 @@
               "time": "12h",
 			  "planning":"APRES-MIDI FAMILLE",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-15",
+                "attention": "10",
                 "text": "Le passé revient me hanter",
 				"text2":"La farandole des souvenirs vient me prendre la tête. "
               },
@@ -6774,8 +6774,8 @@
 				"text2":"Au moins elle n'a pas changé, elle crie toujours pour rien."
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "25",
                 "text": "Seb m'a sorti en boite ce soir",
 				"text2":"J'ai revu la fille de l'autre fois. Et j'ai un peu abusé de la bibine."
               },
@@ -9468,8 +9468,8 @@
 				"text2":"de nuages en marécages, de vent d'Espagne en pluie d'équateur."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "-10",
                 "text": "Impossible de se déplacer en ville avec tous ces gens dehors",
 				"text2":"Tout ça pour avoir le droit de jeter leurs détritus par terre. "
               }
@@ -9536,8 +9536,8 @@
 				"text2":"de nuages en marécages, de vent d'Espagne en pluie d'équateur."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "-10",
                 "text": "Impossible de se déplacer en ville avec tous ces gens dehors",
 				"text2":"Tout ça pour avoir le droit de jeter leurs détritus par terre. "
               }
@@ -9710,8 +9710,8 @@
 				"text2":"de nuages en marécages, de vent d'Espagne en pluie d'équateur."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "5",
+                "attention": "10",
                 "text": "J'ai revu mec super cool au bar",
 				"text2":"C'était sympa"
               }
@@ -9850,10 +9850,10 @@
 				"text2":"de nuages en marécages, de vent d'Espagne en pluie d'équateur."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "J'aime cette fille, sur talons-aiguilles qui se déhanche. Ça met un peu de chaleur au fond de mon coeur",
-				"text2":""
+                "selfEsteem": "10",
+                "attention": "10",
+                "text": "J'aime cette fille, sur talons-aiguilles qui se déhanche.",
+				"text2":" Ça met un peu de chaleur au fond de mon coeur"
               }
             },
             {
@@ -10106,8 +10106,8 @@
               "time": "9h",
 			  "planning":"",
               "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "-20",
+                "attention": "-10",
                 "text": "Je ne me sens pas de me lever aujourd'hui",
 				"text2":"Je suis resté au lit sous la couette."
               },
@@ -10232,8 +10232,8 @@
 				"text2":""
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "5",
                 "text": "Il a fait grand soleil, je me suis arrêté dans un parc.",
 				"text2":"C'est étrange ce calme. Cette liberté... Cette solitude."
               }
@@ -10304,8 +10304,8 @@
 				"text2":"Je ne voulais pas au début, mais finalement ça m'a détendu."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "15",
+                "attention": "5",
                 "text": "Il a fait grand soleil, je me suis arrêté dans un parc.",
 				"text2":"C'est étrange ce clame. Cette liberté... Cette solitude."
               }
@@ -10546,8 +10546,8 @@
 				"text2":"Ca m'a soulé au début, mais en fait c'était marrant de la voir bouger le même meuble pendant 2 heures."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "-5",
                 "text": "Le cinéma était fermé aujourd'hui ..",
 				"text2":"e suis dégouté, j'avais hâte de voir Henry Cover et le Prisme doré d'Ace Caban."
               }
@@ -10580,8 +10580,8 @@
 				"text2":""
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
+                "selfEsteem": "0",
+                "attention": "-5",
                 "text": "Le cinéma était fermé aujourd'hui ..",
 				"text2":"e suis dégouté, j'avais hâte de voir Henry Cover et le Prisme doré d'Ace Caban."
               }
