@@ -34,13 +34,13 @@ public class ChoiceLocations : MonoBehaviour
     public Button buttonAmi;
     public Button buttonVille;
 
-    public Text date;
-    public Text EventOne;
-    public Text EventTwo;
-    public Text EventThree;
-    public Text EventFour;
-    public Text EventFive;
-    public Text EventBilan;
+    [SerializeField] private Text date;
+    [SerializeField] private Text EventOne;
+    [SerializeField] private Text EventTwo;
+    [SerializeField] private Text EventThree;
+    [SerializeField] private Text EventFour;
+    [SerializeField] private Text EventFive;
+    [SerializeField] private Text EventBilan;
 
     [SerializeField] private Text ReactionOne;
     [SerializeField] private Text ReactionTwo;
@@ -48,6 +48,12 @@ public class ChoiceLocations : MonoBehaviour
     [SerializeField] private Text ReactionFour;
     [SerializeField] private Text ReactionFive;
     [SerializeField] private Text ReactionBilan;
+
+    [SerializeField] private Text planningOne;
+    [SerializeField] private Text planningTwo;
+    [SerializeField] private Text planningThree;
+    [SerializeField] private Text planningFour;
+    [SerializeField] private Text planningFive;
 
     [SerializeField] private GameObject pin;
 
@@ -84,6 +90,7 @@ public class ChoiceLocations : MonoBehaviour
 
         date.text = jour + "/0" + mois;
 
+        StartNewDay();
         ActionMaison();
 
     }
@@ -121,6 +128,7 @@ public class ChoiceLocations : MonoBehaviour
                     months[i].days[j].hour[k] = new Hour();
                     Hour hour = months[i].days[j].hour[k];
                     hour.time = loadedHour.time;
+                    hour.planning = loadedHour.planning;
                     hour.events = new Dictionary<string, Event>();
                     hour.events.Add("pj", loadedHour.pj);
                     hour.events.Add("ex", loadedHour.ex);
@@ -304,8 +312,7 @@ public class ChoiceLocations : MonoBehaviour
 
     void ActionVille()
     {
-        uiMgr.End();
-        /*Event ev = months[month].days[day].hour[hour].events["centreVille"];
+        Event ev = months[month].days[day].hour[hour].events["centreVille"];
 
         if (ev.text == "" || ev.text == "rien")
             ev = GetDefaultEvent("centreVille");
@@ -323,7 +330,7 @@ public class ChoiceLocations : MonoBehaviour
         move = true;
 
         selfEsteem.Value += ev.selfEsteem;
-        attention.Value += ev.attention;*/
+        attention.Value += ev.attention;
     }
 
     void endDay()
@@ -355,7 +362,19 @@ public class ChoiceLocations : MonoBehaviour
         ReactionFive.text = "";
         ReactionBilan.text = "";
 
+        StartNewDay();
     }
+
+    void StartNewDay()
+    {
+        Day currentDay = months[month].days[day];
+        planningOne.text = currentDay.hour[0].planning;
+        planningTwo.text = currentDay.hour[1].planning;
+        planningThree.text = currentDay.hour[2].planning;
+        planningFour.text = currentDay.hour[3].planning;
+        planningFive.text = currentDay.hour[4].planning;
+
+}
 
     void EndGame()
     {

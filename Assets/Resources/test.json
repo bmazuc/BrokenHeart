@@ -6,6 +6,7 @@
           "hour": [
             {
               "time": "9h",
+              "planning": "Coucou",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -39,6 +40,7 @@
             },
             {
               "time": "12h",
+              "planning": "Coucou",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -72,6 +74,7 @@
             },
             {
               "time": "15h",
+              "planning": "Coucou",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -105,6 +108,7 @@
             },
             {
               "time": "18h",
+              "planning": "Coucou",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -138,6 +142,7 @@
             },
             {
               "time": "21h",
+              "planning": "Coucou",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -175,6 +180,7 @@
           "hour": [
             {
               "time": "9h",
+              "planning": "Coucou",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -208,6 +214,7 @@
             },
             {
               "time": "12h",
+              "planning": "Coucou",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -241,6 +248,7 @@
             },
             {
               "time": "15h",
+              "planning": "Coucou",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -274,6 +282,7 @@
             },
             {
               "time": "18h",
+              "planning": "Coucou",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -307,6 +316,7 @@
             },
             {
               "time": "21h",
+              "planning": "Coucou",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -344,6 +354,7 @@
           "hour": [
             {
               "time": "9h",
+              "planning": "Coucou",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -377,6 +388,7 @@
             },
             {
               "time": "12h",
+              "planning": "Coucou",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -410,6 +422,7 @@
             },
             {
               "time": "15h",
+              "planning": "Coucou",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -443,6 +456,7 @@
             },
             {
               "time": "18h",
+              "planning": "Coucou",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -476,6 +490,7 @@
             },
             {
               "time": "21h",
+              "planning": "Coucou",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",

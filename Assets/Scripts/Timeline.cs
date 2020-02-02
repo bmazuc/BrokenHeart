@@ -6,6 +6,7 @@ using UnityEngine;
 public class LoadedHour
 {
     public string time;
+    public string planning;
     public Event pj;
     public Event ex;
     public Event ami;
@@ -46,6 +47,7 @@ public class LoadedJSON
 public class Hour
 {
     public string time;
+    public string planning;
     public Dictionary<string, Event> events;
 }
 
