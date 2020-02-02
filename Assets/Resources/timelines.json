@@ -6,6 +6,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"ON S'EST QUITTES ANNA ET MOI",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -39,6 +40,7 @@
             },
             {
               "time": "12h",
+			   "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -72,6 +74,7 @@
             },
             {
               "time": "15h",
+			   "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -105,6 +108,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -138,6 +142,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -175,6 +180,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -208,6 +214,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -241,6 +248,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -274,6 +282,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -307,6 +316,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -344,6 +354,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"ANNIV DE SEB (CHEZ SEB)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -377,6 +388,7 @@
             },
             {
               "time": "12h",
+			  "planning":"ANNIV DE SEB (CHEZ SEB)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -410,6 +422,7 @@
             },
             {
               "time": "15h",
+			  "planning":"ANNIV DE SEB (CHEZ SEB)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -443,6 +456,7 @@
             },
             {
               "time": "18h",
+			  "planning":"ANNIV DE SEB (CHEZ SEB)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -476,6 +490,7 @@
             },
             {
               "time": "21h",
+			  "planning":"ANNIV DE SEB (CHEZ SEB)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -512,6 +527,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -545,6 +561,7 @@
             },
             {
               "time": "12h",
+			  "planning":"BBQ (CHEZ SEB)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -578,6 +595,7 @@
             },
             {
               "time": "15h",
+			  "planning":"BBQ (CHEZ SEB)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -611,6 +629,7 @@
             },
             {
               "time": "18h",
+			  "planning":"BBQ (CHEZ SEB)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -644,6 +663,7 @@
             },
             {
               "time": "21h",
+			  "planning":"BBQ (CHEZ SEB)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -681,6 +701,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -714,6 +735,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "-5",
                 "attention": "-10",
@@ -747,6 +769,7 @@
             },
             {
               "time": "15h",
+			  "planning":"EXPO (EN VILLE)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -780,6 +803,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -813,6 +837,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -850,6 +875,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -883,6 +909,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -916,6 +943,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -949,6 +977,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -982,6 +1011,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1019,6 +1049,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1052,6 +1083,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1085,6 +1117,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1118,6 +1151,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1151,6 +1185,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1188,6 +1223,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1221,6 +1257,7 @@
             },
             {
               "time": "12h",
+			  "planning":"DEJ CHEZ SEB",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1254,6 +1291,7 @@
             },
             {
               "time": "15h",
+			  "planning":"COURSES (PIAULE)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1287,6 +1325,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1320,6 +1359,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1357,6 +1397,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1390,6 +1431,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1423,6 +1465,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1456,6 +1499,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1489,6 +1533,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1526,6 +1571,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1559,6 +1605,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1592,6 +1639,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1625,6 +1673,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1658,6 +1707,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1695,6 +1745,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1728,6 +1779,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1761,6 +1813,7 @@
             },
             {
               "time": "15h",
+			  "planning":"REPARER EVIER (PIAULE) ENCORE",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1794,6 +1847,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1827,6 +1881,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1864,6 +1919,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1897,6 +1953,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1930,6 +1987,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1963,6 +2021,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1996,6 +2055,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -2033,6 +2093,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -2066,6 +2127,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -2099,6 +2161,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -2132,6 +2195,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -2165,6 +2229,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -2203,6 +2268,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -2236,6 +2302,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -2269,6 +2336,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -2302,6 +2370,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -2335,6 +2404,7 @@
             },
             {
               "time": "21h",
+			  "planning":"REPAS CHEZ MAMAN ?",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -2372,6 +2442,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -2405,6 +2476,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -2438,6 +2510,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -2471,6 +2544,7 @@
             },
             {
               "time": "18h",
+			  "planning":"FEUX D'ARTIFICES ANNULES ORAGES?",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -2504,6 +2578,7 @@
             },
             {
               "time": "21h",
+			  "planning":"REPAS CHEZ MAMAN",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -2541,6 +2616,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -2574,6 +2650,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -2607,6 +2684,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -2640,6 +2718,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -2673,6 +2752,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -2711,6 +2791,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"ANNIVERSAIRE ANNA",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -2744,6 +2825,7 @@
             },
             {
               "time": "12h",
+			  "planning":"MAMAN PART EN VOYAGE (PAS CHEZ ELLE)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -2777,6 +2859,7 @@
             },
             {
               "time": "15h",
+			  "planning":"ANNIVERSAIRE ANNA",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -2810,6 +2893,7 @@
             },
             {
               "time": "18h",
+			  "planning":"ANNIVERSAIRE ANNA",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -2843,6 +2927,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -2880,6 +2965,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -2913,6 +2999,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -2946,6 +3033,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -2979,6 +3067,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3012,6 +3101,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3049,6 +3139,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3082,6 +3173,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3115,6 +3207,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3148,6 +3241,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3181,6 +3275,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3218,6 +3313,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3251,6 +3347,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3284,6 +3381,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3317,6 +3415,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3350,6 +3449,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3387,6 +3487,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3420,6 +3521,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3453,6 +3555,7 @@
             },
             {
               "time": "15h",
+			  "planning":"MAMAN REVIENT DE VOYAGE",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3486,6 +3589,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3519,6 +3623,7 @@
             },
             {
               "time": "21h",
+			  "planning":"REPAS CHEZ MAMAN",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3556,6 +3661,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"ANNA RDV PRO (PAS CHEZ ELLE)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3589,6 +3695,7 @@
             },
             {
               "time": "12h",
+			  "planning":"ANNIVERSAIRE MORT PAPA",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3622,6 +3729,7 @@
             },
             {
               "time": "15h",
+			  "planning":"DEVRAIS ALLER VOIR MAMAN",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3655,6 +3763,7 @@
             },
             {
               "time": "18h",
+			  "planning":"DEVRAIS VRAIMENT",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3688,6 +3797,7 @@
             },
             {
               "time": "21h",
+			  "planning":"T'ES OU QUAND ON A BESOIN DE TOI",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3725,6 +3835,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"RDV A LA MAISON",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3758,6 +3869,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3791,6 +3903,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3824,6 +3937,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3857,6 +3971,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3894,6 +4009,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3927,6 +4043,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3960,6 +4077,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -3993,6 +4111,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -4026,6 +4145,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -4063,6 +4183,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -4096,6 +4217,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -4129,6 +4251,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -4162,6 +4285,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -4195,6 +4319,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -4232,6 +4357,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -4265,6 +4391,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -4298,6 +4425,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -4331,6 +4459,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -4364,6 +4493,7 @@
             },
             {
               "time": "21h",
+			  "planning":"FÊTE A LA PIAULE",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -4401,6 +4531,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -4434,6 +4565,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -4467,6 +4599,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -4500,6 +4633,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -4533,6 +4667,7 @@
             },
             {
               "time": "21h",
+			  "planning":"REPAS CHEZ MAMAN",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -4570,72 +4705,75 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"ANNIVERSAIRE MAMAN",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "Anna m'a quitté",
+                "text": "",
 				"text2":""
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "-5",
+                "text": "Anna est chez son amie. Elle ne devrait pas tarder à rentrer.",
+				"text2":"Je me demande si son amie lui a présenté quelqu'un."
               },
               "ami": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "15",
+                "attention": "15",
+                "text": "Maman fête son anniversaire aujourd'hui.",
+				"text2":"On a fait une fête en petit comité. Les bougies commencent à coûter plus chères que le gâteau."
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               }
             },
             {
               "time": "12h",
+			  "planning":"ANNIVERSAIRE MAMAN",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "-5",
+                "text": "Anna est chez son amie. Elle ne devrait pas tarder à rentrer.",
+				"text2":"Elles doivent bien s'amuser."
               },
               "ami": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "15",
+                "attention": "15",
+                "text": "Maman fête son anniversaire aujourd'hui.",
+				"text2":"On a fait une fête en petit comité. Les bougies commencent à coûter plus chères que le gâteau."
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Encore un déjeuner passé seul.",
+				"text2":"Mais ça va, j'ai l'habitude."
               }
             },
             {
               "time": "15h",
+			  "planning":"ANNIVERSAIRE MAMAN",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -4643,94 +4781,96 @@
 				"text2":""
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "-5",
+                "text": "Anna est chez son amie. Elle ne devrait pas tarder à rentrer.",
+				"text2":"C'est étrange d'ailleurs que je pense toujours à elle."
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "10",
+                "attention": "20",
+                "text": "Je suis allé chez Seb, et on a fait de la musique.",
+				"text2":"On a fait de la transe avec de la harpe et du violoncelle."
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "15",
+                "attention": "15",
+                "text": "Maman fête son anniversaire aujourd'hui.",
+				"text2":"On a fait une fête en petit comité. Les bougies commencent à coûter plus chères que le gâteau."
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               }
             },
             {
               "time": "18h",
+			  "planning":"ANNIVERSAIRE MAMAN",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "-5",
+                "text": "Anna est chez son amie. Elle ne devrait pas tarder à rentrer.",
+				"text2":"Je me demande si son amie lui a présenté quelqu'un."
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "10",
+                "attention": "20",
+                "text": "Je suis allé chez Seb, et on a fait de la musique.",
+				"text2":"On a fait de la musique classique avec de la basse et une accoustique."
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "15",
+                "attention": "15",
+                "text": "Maman fête son anniversaire aujourd'hui.",
+				"text2":"On a fait une fête en petit comité. Elle était toute contente de souffler ses bougies."
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "'avais besoin de prendre un peu l'air mais impossible avec ce temps de chien",
+				"text2":"Ô rage ! Ô désespoir ! Ô vieillesse ennemie !N'ai-je donc tant vécu que pour cette infamie ?"
               }
             },
             {
               "time": "21h",
+			  "planning":"FILS INDIGNE",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Rien ne vaut une bonne glace devant la télé.",
+				"text2":"Il faisait tellement chaud."
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "-5",
+                "text": "Anna est chez son amie. Elle ne devrait pas tarder à rentrer.",
+				"text2":"Enfin, je pense."
               },
               "ami": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "15",
+                "attention": "15",
+                "text": "Maman fête son anniversaire aujourd'hui.",
+				"text2":"On a fait une fête en petit comité. Elle s'amuse bien, ça se voit."
               },
               "centreVille": {
                 "attention": "1",
                 "selfEsteem": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Je pars faire un peu la fête en boîte.",
+				"text2":"Ils nous traînent au bout de la nuit, les verres à répétition !"
               }
             }
           ]
@@ -4739,166 +4879,346 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "Anna m'a quitté",
+                "text": "",
 				"text2":""
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "15",
+                "attention": "10",
+                "text": "Anna n'était pas du tout de bonne humeur aujourd'hui.",
+				"text2":"Ca lui arrive, je sais que la meilleure chose à faire est de la laisser avec elle."
               },
               "ami": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "maman": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "C'est le 29 Juillet aujourd'hui !",
+				"text2":"Je vais aller voir le défilé !"
               }
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "15",
+                "attention": "10",
+                "text": "Anna n'était pas du tout de bonne humeur aujourd'hui.",
+				"text2":"Ca lui arrive, je sais que la meilleure chose à faire est de la laisser avec elle-même."
               },
               "ami": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "maman": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Maman avait l'air radieuse aujourd'hui, d'une humeur superbe.",
+				"text2":"Ca fait plaisir de la voir comme ça."
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "C'est le 29 Juillet aujourd'hui !",
+				"text2":"J'attends avec impatience les feux d'artifice !"
               }
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "15",
+                "attention": "10",
+                "text": "Anna n'était pas du tout de bonne humeur aujourd'hui.",
+				"text2":"Je vais essayer de lui changer les idées, même si d'une certaine façon, j'aime la voir comme ça."
               },
               "ami": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "maman": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "Maman avait l'air radieuse aujourd'hui, d'une humeur superbe.",
+				"text2":"Ca fait plaisir de la voir comme ça."
+              },
+              "centreVille": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "C'est le 29 Juillet aujourd'hui !",
+				"text2":"Ca met une ambiance sympa dans la ville !"
+              }
+            },
+            {
+              "time": "18h",
+			  "planning":"",
+              "pj": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "",
+				"text2":""
+              },
+              "ex": {
+                "selfEsteem": "15",
+                "attention": "10",
+                "text": "Anna n'était pas du tout de bonne humeur aujourd'hui.",
+				"text2":"Ca lui arrive, je sais que la meilleure chose à faire est de la laisser avec elle-même."
+              },
+              "ami": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "",
+				"text2":""
+              },
+              "maman": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "",
 				"text2":""
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "C'est le 29 Juillet aujourd'hui !",
+				"text2":"J'ai adoré voir les chevaux passer !"
+              }
+            },
+            {
+              "time": "21h",
+			  "planning":"",
+              "pj": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "",
+				"text2":""
+              },
+              "ex": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "Anna était bourrée.",
+				"text2":"Je crois qu'au fond, ça me rassure de savoir qu'elle va mal elle aussi."
+              },
+              "ami": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "",
+				"text2":""
+              },
+              "maman": {
+                "selfEsteem": "-15",
+                "attention": "-20",
+                "text": "Maman regardait son émission 'Question pour un chaton', je me suis assis avec elle.",
+				"text2":" Ils étaient tellement perchés... Comme des chats. C'était sympa."
+              },
+              "centreVille": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "C'est le 29 Juillet aujourd'hui !",
+				"text2":"Whoua, les feux d'artifice !"
+              }
+            }
+          ]
+        },
+        {
+          "hour": [
+            {
+              "time": "9h",
+			  "planning":"",
+              "pj": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "",
+				"text2":""
+              },
+              "ex": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "Je suis passé voir Anna, visiblement elle dormait encore.",
+				"text2":"J'aurais mieux fait de ne pas venir."
+              },
+              "ami": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "",
+				"text2":""
+              },
+              "maman": {
+                "selfEsteem": "-5",
+                "attention": "-10",
+                "text": "Maman a invité son amie à la maison aujourd'hui.",
+				"text2":"J'ai du rester avec elle et Margaux, que je n'aime pas du tout."
+              },
+              "centreVille": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "Il y a eu un tremblement de terre aujourd'hui en ville.",
+				"text2":"Ca a secoué."
+              }
+            },
+            {
+              "time": "12h",
+			  "planning":"",
+              "pj": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "Rien ne vaut une bonne glace devant la télé.",
+				"text2":"La glace à la bière, la base."
+              },
+              "ex": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "Je suis passé voir Anna, visiblement elle dormait encore.",
+				"text2":"J'aurais mieux fait de ne pas venir."
+              },
+              "ami": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "",
+				"text2":""
+              },
+              "maman": {
+                "selfEsteem": "5",
+                "attention": "10",
+                "text": "Maman avait l'air radieuse aujourd'hui.",
+				"text2":"J'adore la voir comme ça."
+              },
+              "centreVille": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "Il y a eu un tremblement de terre aujourd'hui en ville.",
+				"text2":"On ressent encore des secousses."
+              }
+            },
+            {
+              "time": "15h",
+			  "planning":"COURSES PIAULE",
+              "pj": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "Il ne restait plus grand chose dans mes placards, j'ai du aller faire les courses.",
+				"text2":"Ca coûte cher tout ça."
+              },
+              "ex": {
+                "selfEsteem": "15",
+                "attention": "10",
+                "text": "Anna n'était pas du tout de bonne humeur aujourd'hui.",
+				"text2":"J'avais vraiment envie de la voir, mais ce n'était visiblement pas réciproque."
+              },
+              "ami": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "",
+				"text2":""
+              },
+              "maman": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "",
+				"text2":""
+              },
+              "centreVille": {
+                "selfEsteem": "1",
+                "attention": "1",
+                "text": "",
 				"text2":""
               }
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "15",
+                "attention": "10",
+                "text": "Anna n'était pas du tout de bonne humeur aujourd'hui.",
+				"text2":"J'avais vraiment envie de la voir, mais vu comme elle m'a reçu..."
               },
               "ami": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-15",
+                "attention": "-20",
+                "text": "Maman regardait son émission 'Porc épic unité spéciale', je me suis assis avec elle.",
+				"text2":" Ca avait du piquant. C'était sympa."
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               }
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "15",
+                "attention": "10",
+                "text": "Anna n'était pas du tout de bonne humeur aujourd'hui.",
+				"text2":"J'avais vraiment envie de la voir, mais ce n'était visiblement pas réciproque."
               },
               "ami": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "maman": {
+                "selfEsteem": "-15",
+                "attention": "-20",
+                "text": "Maman regardait son émission 'Le jus te prie', je me suis assis avec elle.",
+				"text2":" Ils étaient tellement perchés... Comme des chats. C'était sympa."
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               }
             }
@@ -4908,505 +5228,172 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"SEB BOSSE (PAS CHEZ LUI)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "Anna m'a quitté",
+                "text": "",
 				"text2":""
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "0",
+                "text": "Je suis passé voir Anna, visiblement elle dormait encore.",
+				"text2":"Je ne vais pas la déranger."
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "-3",
+                "text": "Je voulais sortir avec Seb aujourd'hui mais il bosse.",
+				"text2":"Combien de temps va-t-il garder son boulot ?"
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-10",
+                "attention": "-20",
+                "text": "Maman est malade aujourd'hui.",
+				"text2":"J'espère qu'elle va vite se remettre."
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "J'étais sorti faire un tour en ville et il s'est mis à pleuvoir des cordes.",
+				"text2":"Evidemment, j'avais oublié mon parapluie."
               }
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "0",
+                "text": "Je suis allé chez Anna, puis je me suis souvenu qu'elle était chez sa mère.",
+				"text2":"Je n'ai plus qu'à trouver autre chose."
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "-3",
+                "text": "Je voulais sortir avec Seb aujourd'hui mais il bosse.",
+				"text2":"Combien de temps va-t-il garder son boulot ?"
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-10",
+                "attention": "-20",
+                "text": "Maman est malade aujourd'hui.",
+				"text2":"J'espère qu'elle va vite se remettre."
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "J'étais sorti faire un tour en ville et il s'est mis à pleuvoir des cordes.",
+				"text2":"Evidemment, j'avais oublié mon parapluie."
               }
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "0",
+                "text": "Je suis allé chez Anna, puis je me suis souvenu qu'elle était chez sa mère.",
+				"text2":"Je n'ai plus qu'à trouver autre chose."
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "-3",
+                "text": "Je voulais sortir avec Seb aujourd'hui mais il bosse.",
+				"text2":"Combien de temps va-t-il garder son boulot ?"
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-10",
+                "attention": "-20",
+                "text": "Maman est malade aujourd'hui.",
+				"text2":"J'espère qu'elle va vite se remettre."
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "J'étais sorti faire un tour en ville et il s'est mis à pleuvoir des cordes.",
+				"text2":"Evidemment, j'avais oublié mon parapluie."
               }
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "0",
+                "text": "Je suis allé chez Anna, puis je me suis souvenu qu'elle était chez sa mère.",
+				"text2":"Je n'ai plus qu'à trouver autre chose."
               },
               "ami": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-10",
+                "attention": "-20",
+                "text": "Maman est malade aujourd'hui.",
+				"text2":"J'espère qu'elle va vite se remettre."
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               }
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ex": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ami": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              }
-            }
-          ]
-        },
-        {
-          "hour": [
-            {
-              "time": "9h",
-              "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "Anna m'a quitté",
-				"text2":""
-              },
-              "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              }
-            },
-            {
-              "time": "12h",
-              "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              }
-            },
-            {
-              "time": "15h",
-              "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              }
-            },
-            {
-              "time": "18h",
-              "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              }
-            },
-            {
-              "time": "21h",
-              "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-10",
+                "attention": "-20",
+                "text": "Maman est malade aujourd'hui.",
+				"text2":"J'espère qu'elle va vite se remettre."
               },
               "centreVille": {
                 "attention": "1",
                 "selfEsteem": "1",
-                "text": "rien",
-				"text2":""
-              }
-            }
-          ]
-        },
-		{
-          "hour": [
-            {
-              "time": "9h",
-              "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "Anna m'a quitté",
-				"text2":""
-              },
-              "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              }
-            },
-            {
-              "time": "12h",
-              "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              }
-            },
-            {
-              "time": "15h",
-              "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              }
-            },
-            {
-              "time": "18h",
-              "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              }
-            },
-            {
-              "time": "21h",
-              "pj": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
-              },
-              "centreVille": {
-                "attention": "1",
-                "selfEsteem": "1",
-                "text": "rien",
-				"text2":""
+                "text": "J'ai parlé avec un mec super cool au bar.",
+				"text2":"On va se donner rendez-vous."
               }
             }
           ]
@@ -5419,6 +5406,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"IMPOTS",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -5452,6 +5440,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -5485,6 +5474,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -5518,6 +5508,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -5551,6 +5542,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -5588,6 +5580,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"DEBUT EVENT E-SPORT (SEB ? PIAULE ?)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -5621,6 +5614,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -5654,6 +5648,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -5687,6 +5682,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -5720,6 +5716,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -5757,6 +5754,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -5790,6 +5788,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -5823,6 +5822,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -5856,6 +5856,7 @@
             },
             {
               "time": "18h",
+			  "planning":"FIN EVENT E-SPORT (SEB ? PIAULE ?)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -5889,6 +5890,7 @@
             },
             {
               "time": "21h",
+			  "planning":"REPAS CHEZ MAMAN",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -5926,6 +5928,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -5959,6 +5962,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -5992,6 +5996,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -6025,6 +6030,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -6058,6 +6064,7 @@
             },
             {
               "time": "21h",
+			  "planning":"REPAS CHEZ MAMAN",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -6095,6 +6102,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -6128,6 +6136,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -6161,6 +6170,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -6194,6 +6204,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -6227,6 +6238,7 @@
             },
             {
               "time": "21h",
+			  "planning":"SORTIE DERNIER ACE ASS IN CREED",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -6264,6 +6276,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -6297,6 +6310,7 @@
             },
             {
               "time": "12h",
+			  "planning":"APRES-MIDI FAMILLE",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -6330,6 +6344,7 @@
             },
             {
               "time": "15h",
+			  "planning":"APRES-MIDI FAMILLE",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -6363,6 +6378,7 @@
             },
             {
               "time": "18h",
+			  "planning":"APRES-MIDI FAMILLE",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -6396,6 +6412,7 @@
             },
             {
               "time": "21h",
+			  "planning":"APRES-MIDI FAMILLE",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -6433,6 +6450,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"SEB BOSSE (PAS CHEZ LUI)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -6466,6 +6484,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -6499,6 +6518,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -6532,6 +6552,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -6565,6 +6586,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -6602,6 +6624,7 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -6635,6 +6658,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -6668,6 +6692,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -6701,6 +6726,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -6734,6 +6760,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -6771,10 +6798,11 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"SEB BOSSE (PAS CHEZ LUI)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "Anna m'a quitté",
+                "text": "",
 				"text2":""
               },
               "ex": {
@@ -6804,6 +6832,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -6837,6 +6866,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -6870,6 +6900,7 @@
             },
             {
               "time": "18h",
+			  "planning":"DEBUT GAMEJAM (PIAULE)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -6903,6 +6934,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -6940,10 +6972,11 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "Anna m'a quitté",
+                "text": "",
 				"text2":""
               },
               "ex": {
@@ -6973,6 +7006,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -7006,6 +7040,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -7039,6 +7074,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -7072,6 +7108,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -7109,10 +7146,11 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "Anna m'a quitté",
+                "text": "",
 				"text2":""
               },
               "ex": {
@@ -7142,6 +7180,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -7175,6 +7214,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -7208,6 +7248,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -7241,6 +7282,7 @@
             },
             {
               "time": "21h",
+			  "planning":"FIN GAMEJAM (PIAULE)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -7278,10 +7320,11 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"ANNA RDV PRO (PAS CHEZ ELLE)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "Anna m'a quitté",
+                "text": "",
 				"text2":""
               },
               "ex": {
@@ -7311,6 +7354,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -7344,6 +7388,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -7377,6 +7422,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -7410,6 +7456,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -7447,10 +7494,11 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "Anna m'a quitté",
+                "text": "",
 				"text2":""
               },
               "ex": {
@@ -7480,6 +7528,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -7513,6 +7562,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -7546,6 +7596,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -7579,6 +7630,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -7616,10 +7668,11 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"SEB BOSSE (PAS CHEZ LUI)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "Anna m'a quitté",
+                "text": "",
 				"text2":""
               },
               "ex": {
@@ -7649,6 +7702,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -7682,6 +7736,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -7715,6 +7770,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -7748,6 +7804,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -7785,10 +7842,12 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "Anna m'a quitté",
+                "text": "",
 				"text2":""
               },
               "ex": {
@@ -7818,6 +7877,8 @@
             },
             {
               "time": "12h",
+			  "planning":"",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -7851,6 +7912,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -7884,6 +7946,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -7917,6 +7980,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -7954,10 +8018,11 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"SEB ARRETE DE BOSSER",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "Anna m'a quitté",
+                "text": "",
 				"text2":""
               },
               "ex": {
@@ -7987,6 +8052,7 @@
             },
             {
               "time": "12h",
+			  "planning":"J'AI BESOIN DE TOI BORDEL",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -8020,6 +8086,7 @@
             },
             {
               "time": "15h",
+			  "planning":"TU SAOULES",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -8053,6 +8120,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -8086,6 +8154,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -8123,10 +8192,11 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "Anna m'a quitté",
+                "text": "",
 				"text2":""
               },
               "ex": {
@@ -8156,6 +8226,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -8189,6 +8260,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -8222,6 +8294,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -8255,6 +8328,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -8292,10 +8366,11 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "Anna m'a quitté",
+                "text": "",
 				"text2":""
               },
               "ex": {
@@ -8325,6 +8400,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -8358,6 +8434,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -8391,6 +8468,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -8424,6 +8502,7 @@
             },
             {
               "time": "21h",
+			  "planning":"DINNER AVEC MAMAN",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -8461,10 +8540,11 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "Anna m'a quitté",
+                "text": "",
 				"text2":""
               },
               "ex": {
@@ -8494,6 +8574,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -8527,6 +8608,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -8560,6 +8642,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -8593,6 +8676,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -8630,10 +8714,11 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "Anna m'a quitté",
+                "text": "",
 				"text2":""
               },
               "ex": {
@@ -8663,6 +8748,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -8696,6 +8782,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -8729,6 +8816,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -8762,6 +8850,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -8799,10 +8888,11 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"SEB BOSSE (ENCORE)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "Anna m'a quitté",
+                "text": "",
 				"text2":""
               },
               "ex": {
@@ -8832,6 +8922,7 @@
             },
             {
               "time": "12h",
+			  "planning":"FAIRE COURSES (PIAULES)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -8865,6 +8956,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -8898,6 +8990,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -8931,6 +9024,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -8968,10 +9062,11 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "Anna m'a quitté",
+                "text": "",
 				"text2":""
               },
               "ex": {
@@ -9001,6 +9096,7 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -9034,6 +9130,7 @@
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -9067,6 +9164,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -9100,6 +9198,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -9137,10 +9236,11 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"MAMAN PART EN VOYAGE",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "Anna m'a quitté",
+                "text": "",
 				"text2":""
               },
               "ex": {
@@ -9170,6 +9270,7 @@
             },
             {
               "time": "12h",
+			  "planning":"SEB BOSSE",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -9203,6 +9304,7 @@
             },
             {
               "time": "15h",
+			  "planning":"JE DEVRAIS PEUT-ETRE BOSSER AUSSI",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -9236,6 +9338,7 @@
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -9269,6 +9372,7 @@
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -9306,29 +9410,30 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"DEBUT EVENT E-SPORT (PIAULE ? SEB ?)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "Anna m'a quitté",
-				"text2":""
+                "text": "J'ai fait l'Event à la maison",
+				"text2":"Seb s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
               },
               "ex": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "15",
+                "attention": "25",
+                "text": "On a fait la LAN chez Seb",
+				"text2":"On a bu des bières et on a ragé, mais je suis bien content d'être avec lui."
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-20",
+                "attention": "-30",
+                "text": "Maman part en voyage aujourd'hui",
+				"text2":"de nuages en marécages, de vent d'Espagne en pluie d'équateur."
               },
               "centreVille": {
                 "selfEsteem": "1",
@@ -9339,134 +9444,138 @@
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "J'ai fait l'Event à la maison",
+				"text2":"Seb s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-20",
+                "attention": "-22",
+                "text": "Je suis passé voir Anna aujoud'hui, je mse suis souvenu trop tard qu'elle etait partie faire du shopping",
+				"text2":"Ce sera pour une autre fois"
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "15",
+                "attention": "25",
+                "text": "On a fait la LAN chez Seb",
+				"text2":"On a bu des bières et on a ragé, mais je suis bien content d'être avec lui."
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-20",
+                "attention": "-30",
+                "text": "Maman part en voyage aujourd'hui",
+				"text2":"de nuages en marécages, de vent d'Espagne en pluie d'équateur."
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Impossible de se déplacer en ville avec tous ces gens dehors",
+				"text2":"Tout ça pour avoir le droit de jeter leurs détritus par terre. "
               }
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "J'ai fait l'Event à la maison",
+				"text2":"Seb s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-20",
+                "attention": "-22",
+                "text": "Je suis passé voir Anna aujoud'hui, je mse suis souvenu trop tard qu'elle etait partie faire du shopping",
+				"text2":"Ce sera pour une autre fois"
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "15",
+                "attention": "25",
+                "text": "On a fait la LAN chez Seb",
+				"text2":"On a bu des bières et on a ragé, mais je suis bien content d'être avec lui."
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-20",
+                "attention": "-30",
+                "text": "Maman part en voyage aujourd'hui",
+				"text2":"de nuages en marécages, de vent d'Espagne en pluie d'équateur."
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Impossible de se déplacer en ville avec tous ces gens dehors",
+				"text2":"Tout ça pour avoir le droit de jeter leurs détritus par terre. "
               }
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "J'ai fait l'Event à la maison",
+				"text2":"Seb s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-20",
+                "attention": "-22",
+                "text": "Je suis passé voir Anna aujoud'hui, je mse suis souvenu trop tard qu'elle etait partie faire du shopping",
+				"text2":"Ce sera pour une autre fois"
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "15",
+                "attention": "25",
+                "text": "On a fait la LAN chez Seb",
+				"text2":"On a bu des bières et on a ragé, mais je suis bien content d'être avec lui."
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-20",
+                "attention": "-30",
+                "text": "Maman part en voyage aujourd'hui",
+				"text2":"de nuages en marécages, de vent d'Espagne en pluie d'équateur."
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Impossible de se déplacer en ville avec tous ces gens dehors",
+				"text2":"Tout ça pour avoir le droit de jeter leurs détritus par terre. "
               }
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "J'ai fait l'Event à la maison",
+				"text2":"Seb s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-20",
+                "attention": "-22",
+                "text": "Je suis passé voir Anna aujoud'hui, je mse suis souvenu trop tard qu'elle etait partie faire du shopping",
+				"text2":"Ce sera pour une autre fois"
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "15",
+                "attention": "25",
+                "text": "On a fait la LAN chez Seb",
+				"text2":"On a bu des bières et on a ragé, mais je suis bien content d'être avec lui."
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-20",
+                "attention": "-30",
+                "text": "Maman part en voyage aujourd'hui",
+				"text2":"de nuages en marécages, de vent d'Espagne en pluie d'équateur."
               },
               "centreVille": {
                 "attention": "1",
                 "selfEsteem": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Je pars faire un peu la fête en boîte",
+				"text2":"Vas-y DJ fais péter le son !"
               }
             }
           ]
@@ -9475,77 +9584,80 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "Anna m'a quitté",
-				"text2":""
+                "text": "J'ai fait l'Event à la maison",
+				"text2":"Seb s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "0",
+                "text": "Je suis passé voir Anna, visiblement elle dormait encore",
+				"text2":"Maintenant qu'elle n'est plus dans mes bras, elle est dans ceux de Morphée."
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "15",
+                "attention": "25",
+                "text": "On a fait la LAN chez Seb",
+				"text2":"On a bu des bières et on a ragé, mais je suis bien content d'être avec lui."
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-20",
+                "attention": "-30",
+                "text": "Maman part en voyage aujourd'hui",
+				"text2":"de nuages en marécages, de vent d'Espagne en pluie d'équateur."
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               }
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "J'ai fait l'Event à la maison",
+				"text2":"Seb s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "0",
+                "text": "Je suis passé voir Anna, visiblement elle dormait encore",
+				"text2":"Maintenant qu'elle n'est plus dans mes bras, elle est dans ceux de Morphée."
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "15",
+                "attention": "25",
+                "text": "On a fait la LAN chez Seb",
+				"text2":"On a bu des bières et on a ragé, mais je suis bien content d'être avec lui."
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-20",
+                "attention": "-30",
+                "text": "Maman part en voyage aujourd'hui",
+				"text2":"de nuages en marécages, de vent d'Espagne en pluie d'équateur."
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Encore un déjeuner passé seul",
+				"text2":"Je m'habitue à manger en tête à tête avec moi-même."
               }
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "J'ai fait l'Event à la maison",
+				"text2":"Seb s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
               },
               "ex": {
                 "selfEsteem": "1",
@@ -9554,88 +9666,90 @@
 				"text2":""
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "15",
+                "attention": "25",
+                "text": "On a fait la LAN chez Seb",
+				"text2":"On a bu des bières et on a ragé, mais je suis bien content d'être avec lui."
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-20",
+                "attention": "-30",
+                "text": "Maman part en voyage aujourd'hui",
+				"text2":"de nuages en marécages, de vent d'Espagne en pluie d'équateur."
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               }
             },
             {
               "time": "18h",
+			  "planning":"FIN EVENT E-SPORT (PIAULE, SEB)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "J'ai fait l'Event à la maison",
+				"text2":"Seb s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
               },
               "ex": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "15",
+                "attention": "25",
+                "text": "On a fait la LAN chez Seb",
+				"text2":"On a bu des bières et on a ragé, mais je suis bien content d'être avec lui."
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-20",
+                "attention": "-30",
+                "text": "Maman part en voyage aujourd'hui",
+				"text2":"de nuages en marécages, de vent d'Espagne en pluie d'équateur."
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "J'ai revu mec super cool au bar",
+				"text2":"C'était sympa"
               }
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ex": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ami": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-20",
+                "attention": "-30",
+                "text": "Maman part en voyage aujourd'hui",
+				"text2":"de nuages en marécages, de vent d'Espagne en pluie d'équateur."
               },
               "centreVille": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-5",
+                "attention": "-10",
+                "text": "J'ai revu la fille de la dernière fois",
+				"text2":"Elle m'a totalement ignoré"
               }
             }
           ]
@@ -9644,167 +9758,172 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "Anna m'a quitté",
-				"text2":""
+                "text": "Ce matin j'ai renversé mon café ..",
+				"text2":"Super, la journée commence de la meilleure des manières .."
               },
               "ex": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "-35",
+                "text": "Seb a perdu sa mère aujourd'hui",
+				"text2":"Il est inconsolable et ça m'affecte beaucoup aussi..."
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-20",
+                "attention": "-30",
+                "text": "Maman part en voyage aujourd'hui",
+				"text2":"de nuages en marécages, de vent d'Espagne en pluie d'équateur."
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               }
             },
             {
               "time": "12h",
+			  "planning":"ANNA RDV PRO (PAS CHEZ ELLE)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-5",
+                "attention": "-15",
+                "text": "Anna a son entretien pour un job aujourd'hui",
+				"text2":"J'espère que ça ira pour elle. Je crois. Ou pas. Je suis devant chez elle, comme un con."
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "-35",
+                "text": "Seb a perdu sa mère aujourd'hui",
+				"text2":"Il est inconsolable et ça m'affecte beaucoup aussi..."
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-20",
+                "attention": "-30",
+                "text": "Maman part en voyage aujourd'hui",
+				"text2":"de nuages en marécages, de vent d'Espagne en pluie d'équateur."
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Encore un déjeuner passé seul",
+				"text2":"Je m'habitue à manger en tête à tête avec moi-même."
               }
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ex": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "-35",
+                "text": "Seb a perdu sa mère aujourd'hui",
+				"text2":"Il est inconsolable et ça m'affecte beaucoup aussi..."
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-20",
+                "attention": "-30",
+                "text": "Maman part en voyage aujourd'hui",
+				"text2":"de nuages en marécages, de vent d'Espagne en pluie d'équateur."
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "J'aime cette fille, sur talons-aiguilles qui se déhanche. Ça met un peu de chaleur au fond de mon coeur",
 				"text2":""
               }
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ex": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "-35",
+                "text": "Seb a perdu sa mère aujourd'hui",
+				"text2":"Il est inconsolable et ça m'affecte beaucoup aussi..."
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-20",
+                "attention": "-30",
+                "text": "Maman part en voyage aujourd'hui",
+				"text2":"de nuages en marécages, de vent d'Espagne en pluie d'équateur."
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               }
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ex": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "-35",
+                "text": "Seb a perdu sa mère aujourd'hui",
+				"text2":"Il est inconsolable et ça m'affecte beaucoup aussi..."
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-15",
+                "attention": "-20",
+                "text": "Maman regardait son émission 'Question pour un chaton', je me suis assis avec elle.",
+				"text2":"Ils étaient tellement perchés... Comme des chats. C'était sympa. "
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Je pars faire un peu la fête en boîte",
+				"text2":"Vas-y DJ fais péter le son !"
               }
             }
           ]
@@ -9813,122 +9932,126 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"MAMAN REVIENT DE VOYAGE",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "Anna m'a quitté",
-				"text2":""
+                "text": "Il y a eu une coupure de courant aujourd'hui",
+				"text2":"Toute la ville est dans le noir, on dirait la fin du monde."
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "10",
+                "attention": "10",
+                "text": "Il y a eu une coupure de courant aujourd'hui",
+				"text2":"Et j'étais chez Anna. C'était un peu bizarre, mais plaisant."
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "-10",
+                "text": "Il y a eu une coupure de courant aujourd'hui",
+				"text2":"Yavait rien à faire avec Seb."
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "15",
+                "text": "Il y a eu une coupure de courant aujourd'hui",
+				"text2":"Maman a pété les plombs, j'ai du la rassurer."
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               }
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Il y a eu une coupure de courant aujourd'hui",
+				"text2":"Toute la ville est dans le noir, on dirait la fin du monde."
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "10",
+                "attention": "10",
+                "text": "Il y a eu une coupure de courant aujourd'hui",
+				"text2":"Et j'étais chez Anna. C'était un peu bizarre, mais plaisant."
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "-10",
+                "text": "Il y a eu une coupure de courant aujourd'hui",
+				"text2":"Yavait rien à faire avec Seb."
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "15",
+                "text": "Il y a eu une coupure de courant aujourd'hui",
+				"text2":"Maman a pété les plombs, j'ai du la rassurer."
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Encore un déjeuner passé seul",
+				"text2":"Je m'habitue à manger en tête à tête avec moi-même."
               }
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Il y a eu une coupure de courant aujourd'hui",
+				"text2":"Toute la ville est dans le noir, on dirait la fin du monde."
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "10",
+                "attention": "10",
+                "text": "Il y a eu une coupure de courant aujourd'hui",
+				"text2":"Et j'étais chez Anna. C'était un peu bizarre, mais plaisant."
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "-10",
+                "text": "Il y a eu une coupure de courant aujourd'hui",
+				"text2":"Yavait rien à faire avec Seb."
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "15",
+                "text": "Il y a eu une coupure de courant aujourd'hui",
+				"text2":"Maman a pété les plombs, j'ai du la rassurer."
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               }
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ex": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "-15",
+                "text": "Seb n'est vraiment pas dans son assiette",
+				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat."
               },
               "maman": {
                 "selfEsteem": "1",
@@ -9939,41 +10062,42 @@
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Le nouveau film de Makoto Shinkai est enfin sorti !",
+				"text2":"Je ne sais pas qui c'est, mais qu'importe !"
               }
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Rien ne vaut une bonne glace devant la télé",
+				"text2":"Elle a bien failli finir liquide avec cette coupure"
               },
               "ex": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "-15",
+                "text": "Seb n'est vraiment pas dans son assiette",
+				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat."
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-15",
+                "attention": "-20",
+                "text": "Maman regardait son émission 'Question pour un chaton', je me suis assis avec elle.",
+				"text2":"Ils étaient tellement perchés... Comme des chats. C'était sympa."
               },
               "centreVille": {
                 "attention": "1",
                 "selfEsteem": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Je pars faire un peu la fête en boîte",
+				"text2":"Vas-y DJ fais péter le son !"
               }
             }
           ]
@@ -9982,167 +10106,172 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "Anna m'a quitté",
-				"text2":""
+                "text": "Je ne me sens pas de me lever aujourd'hui",
+				"text2":"Je suis resté au lit sous la couette."
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "0",
+                "text": "Je suis passé voir Anna, visiblement elle dormait encore",
+				"text2":"Maintenant qu'elle n'est plus dans mes bras, elle est dans ceux de Morphée. "
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "-15",
+                "text": "Seb n'est vraiment pas dans son assiette",
+				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat."
               },
               "maman": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               }
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "10",
+                "attention": "-15",
+                "text": "Anna était déprimée. J'ai essayé de la réconforter, ça m'a touché.",
+				"text2":"J'arrive pas à croire que je m'inquiète encore pour elle."
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "-15",
+                "text": "Seb n'est vraiment pas dans son assiette",
+				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat."
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-5",
+                "attention": "-10",
+                "text": "Maman a invité son amie à la maison aujourd'hui",
+				"text2":"Ca faisait longtemps que je n'avais pas vu Francine."
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Encore un déjeuner passé seul",
+				"text2":"Je m'habitue à manger en tête à tête avec moi-même. "
               }
             },
             {
               "time": "15h",
+			  "planning":"REPARER EVIER (PIAULE)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Il y avait une fuite dans l'évier aujourd'hui",
+				"text2":"Ca m'a pris des heures à réparer, journée gâchée."
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "10",
+                "attention": "-15",
+                "text": "Anna était déprimée. J'ai essayé de la réconforter, ça m'a touché.",
+				"text2":"J'arrive pas à croire que je m'inquiète encore pour elle."
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "-15",
+                "text": "Seb n'est vraiment pas dans son assiette",
+				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat."
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-5",
+                "attention": "-10",
+                "text": "Maman a invité son amie à la maison aujourd'hui",
+				"text2":"Ca faisait longtemps que je n'avais pas vu Francine."
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               }
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "10",
+                "attention": "-15",
+                "text": "Anna était déprimée. J'ai essayé de la réconforter, ça m'a touché.",
+				"text2":"J'arrive pas à croire que je m'inquiète encore pour elle."
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "-15",
+                "text": "Seb n'est vraiment pas dans son assiette",
+				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat."
               },
               "maman": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Il a fait grand soleil, je me suis arrêté dans un parc.",
+				"text2":"C'est étrange ce calme. Cette liberté... Cette solitude."
               }
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "10",
+                "attention": "-15",
+                "text": "Anna était déprimée. J'ai essayé de la réconforter, ça m'a touché.",
+				"text2":"J'arrive pas à croire que je m'inquiète encore pour elle."
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "-15",
+                "text": "Seb n'est vraiment pas dans son assiette",
+				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat."
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-15",
+                "attention": "-20",
+                "text": "Maman regardait son émission 'Question pour un chaton', je me suis assis avec elle.",
+				"text2":"Ils étaient tellement perchés... Comme des chats. C'était sympa. "
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Je pars faire un peu la fête en boîte",
+				"text2":"Vas-y DJ fais péter le son !"
               }
             }
           ]
@@ -10151,167 +10280,172 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "Anna m'a quitté",
+                "text": "",
 				"text2":""
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "0",
+                "text": "Je suis passé voir Anna, visiblement elle dormait encore",
+				"text2":"Maintenant qu'elle n'est plus dans mes bras, elle est dans ceux de Morphée. "
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "-15",
+                "text": "Seb n'est vraiment pas dans son assiette",
+				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat."
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-5",
+                "attention": "5",
+                "text": "Maman m'a recruté pour faire le jardin.",
+				"text2":"Je ne voulais pas au début, mais finalement ça m'a détendu."
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Il a fait grand soleil, je me suis arrêté dans un parc.",
+				"text2":"C'est étrange ce clame. Cette liberté... Cette solitude."
               }
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ex": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "-15",
+                "text": "Seb n'est vraiment pas dans son assiette",
+				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat."
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
+                "selfEsteem": "5",
+                "attention": "0",
+                "text": "Ce n'est pas le quartier qui me quitte, c'est moi qui quitte le quartier",
 				"text2":""
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Encore un déjeuner passé seul",
+				"text2":"Je m'habitue à manger en tête à tête avec moi-même. "
               }
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "J'aime tellement le chocolat",
+				"text2":"Je me suis enfilé une tablette entière."
               },
               "ex": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "-15",
+                "text": "Seb n'est vraiment pas dans son assiette",
+				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat."
               },
               "maman": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               }
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ex": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "-15",
+                "text": "Seb n'est vraiment pas dans son assiette",
+				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat."
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-15",
+                "attention": "-20",
+                "text": "Maman regardait son émission 'Question pour un chaton', je me suis assis avec elle.",
+				"text2":"Ils étaient tellement perchés... Comme des chats. C'était sympa. "
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               }
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ex": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "-15",
+                "text": "Seb n'est vraiment pas dans son assiette",
+				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat."
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-15",
+                "attention": "-20",
+                "text": "Maman regardait son émission 'Question pour un chaton', je me suis assis avec elle.",
+				"text2":"Ils étaient tellement perchés... Comme des chats. C'était sympa. "
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Encore un déjeuner passé seul",
+				"text2":"Je m'habitue à manger en tête à tête avec moi-même."
               }
             }
           ]
@@ -10320,167 +10454,172 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "Anna m'a quitté",
+                "text": "",
 				"text2":""
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "0",
+                "text": "Je suis passé voir Anna, visiblement elle dormait encore",
+				"text2":"Maintenant qu'elle n'est plus dans mes bras, elle est dans ceux de Morphée."
               },
               "ami": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "maman": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               }
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ex": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ami": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "7",
+                "text": "Maman écoutait de la musique, je me suis assis avec elle.",
+				"text2":"La musique adoucit les moeurs. "
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Encore un déjeuner passé seul",
+				"text2":"Je m'habitue à manger en tête à tête avec moi-même."
               }
             },
             {
               "time": "15h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Rien ne vaut une bonne glace devant la télé",
+				"text2":"J'ai presque fini le pot de glace au charbon."
               },
               "ex": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ami": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-5",
+                "attention": "-10",
+                "text": "Maman m'a recruté pour faire sa déco.",
+				"text2":"Ca m'a soulé au début, mais en fait c'était marrant de la voir bouger le même meuble pendant 2 heures."
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Le cinéma était fermé aujourd'hui ..",
+				"text2":"e suis dégouté, j'avais hâte de voir Henry Cover et le Prisme doré d'Ace Caban."
               }
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ex": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ami": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "maman": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Le cinéma était fermé aujourd'hui ..",
+				"text2":"e suis dégouté, j'avais hâte de voir Henry Cover et le Prisme doré d'Ace Caban."
               }
             },
             {
               "time": "21h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "J'ai bouffé toute la glace",
+				"text2":"Ca me saoule mais je dois aller en racheter."
               },
               "ex": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ami": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "-15",
+                "attention": "-20",
+                "text": "Maman regardait son émission 'Question pour un chaton', je me suis assis avec elle.",
+				"text2":"Ils étaient tellement perchés... Comme des chats. C'était sympa."
               },
               "centreVille": {
                 "attention": "1",
                 "selfEsteem": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Je pars faire un peu la fête en boîte",
+				"text2":"Vas-y DJ fais péter le son !"
               }
             }
           ]
@@ -10489,167 +10628,172 @@
           "hour": [
             {
               "time": "9h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "Anna m'a quitté",
+                "text": "",
 				"text2":""
               },
               "ex": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ami": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "5",
+                "attention": "10",
+                "text": "Maman avait l'air radieuse aujourd'hui",
+				"text2":"J'adore quand elle est comme ça"
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "J'étais sorti faire un tour en ville et il s'est mis à pleuvoir des cordes",
+				"text2":"En avril ne te découvre pas d'un fil. Mais on est en été, pas en avril."
               }
             },
             {
               "time": "12h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "0",
+                "text": "Je suis allé chez Anna, puis je me suis souvenu qu'elle était chez sa mère",
+				"text2":"Une autre fois."
               },
               "ami": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "5",
+                "attention": "10",
+                "text": "Maman avait l'air radieuse aujourd'hui",
+				"text2":"J'adore quand elle est comme ça"
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Encore un déjeuner passé seul",
+				"text2":"Je m'habitue à manger en tête à tête avec moi-même. "
               }
             },
             {
               "time": "15h",
+			  "planning":"COURSES (PIAULE)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "Il restait plus grand chose dans mes placards, j'ai du aller faire les courses",
+				"text2":"Une bonne chose de faite."
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "0",
+                "text": "Je suis allé chez Anna, puis je me suis souvenu qu'elle était chez sa mère",
+				"text2":"Une autre fois."
               },
               "ami": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "5",
+                "attention": "10",
+                "text": "Maman avait l'air radieuse aujourd'hui",
+				"text2":"J'adore quand elle est comme ça"
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "J'étais sorti faire un tour en ville et il s'est mis à pleuvoir des cordes",
+				"text2":"En avril ne te découvre pas d'un fil. Mais on est en été, pas en avril."
               }
             },
             {
               "time": "18h",
+			  "planning":"",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "0",
+                "text": "Je suis allé chez Anna, puis je me suis souvenu qu'elle était chez sa mère",
+				"text2":"Une autre fois."
               },
               "ami": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "maman": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
+                "text": "",
 				"text2":""
               },
               "centreVille": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "J'étais sorti faire un tour en ville et il s'est mis à pleuvoir des cordes",
+				"text2":"En avril ne te découvre pas d'un fil. Mais on est en été, pas en avril."
               }
             },
             {
               "time": "21h",
+			  "planning":"MEGA TEUF SA RACE A LA MAISON",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "rien",
-				"text2":""
+                "text": "PARTY HAAAAAAARD",
+				"text2":"Tous les potos sont venus et ça a fait grave du bien."
               },
               "ex": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "0",
+                "text": "Je suis allé chez Anna, parce que ça me fait chier d'en rester là.",
+				"text2":"Apparement on va y réfléchir."
               },
               "ami": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "5",
+                "attention": "10",
+                "text": "Je fais une fête à la maison",
+				"text2":"Faut que je passe chercher Seb, ca lui changera les idées"
               },
               "maman": {
-                "selfEsteem": "1",
-                "attention": "1",
-                "text": "rien",
-				"text2":""
+                "selfEsteem": "0",
+                "attention": "0",
+                "text": "J'avais pas envie de faire la fête, alors je suis allé voir maman.",
+				"text2":"Je l'ai trouvé devant la téloche, et je lui ai demandé de sortir."
               },
               "centreVille": {
-                "attention": "1",
                 "selfEsteem": "1",
-                "text": "rien",
-				"text2":""
+                "attention": "1",
+                "text": "Je pars faire un peu la fête en boîte",
+				"text2":"Vas-y DJ fais péter le son !"
               }
             }
           ]
@@ -10819,7 +10963,7 @@
         "selfEsteem": "20",
         "attention": "20",
         "text": "Je suis allé chez maman",
-		"text2": "A peine étais-je rentré que ses premiers mots furent : "Mon fils, tu t'es enfin repris". C'est vrai."
+		"text2": "A peine étais-je rentré que ses premiers mots furent : 'Mon fils, tu t'es enfin repris'. C'est vrai."
       },
       {
         "selfEsteem": "-10",
