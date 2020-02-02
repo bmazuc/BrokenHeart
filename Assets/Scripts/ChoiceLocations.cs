@@ -25,6 +25,7 @@ public class ChoiceLocations : MonoBehaviour
     int time;
     string infoTime;
     string textDisplay;
+    string reaction;
     string imHere;
 
     public Button buttonMaison;
@@ -40,6 +41,17 @@ public class ChoiceLocations : MonoBehaviour
     public Text EventFour;
     public Text EventFive;
     public Text EventBilan;
+
+    [SerializeField] private Text ReactionOne;
+    [SerializeField] private Text ReactionTwo;
+    [SerializeField] private Text ReactionThree;
+    [SerializeField] private Text ReactionFour;
+    [SerializeField] private Text ReactionFive;
+    [SerializeField] private Text ReactionBilan;
+
+    [SerializeField] private GameObject pin;
+
+    [SerializeField] private UIManager uiMgr;
 
     int month;
     int day;
@@ -78,7 +90,7 @@ public class ChoiceLocations : MonoBehaviour
 
     void LoadJson()
     {
-        TextAsset json = Resources.Load<TextAsset>("timelines");
+        TextAsset json = Resources.Load<TextAsset>("test");
         Debug.Log(json.text);
         loadedJson = JsonUtility.FromJson<LoadedJSON>(json.text);
 
@@ -123,6 +135,9 @@ public class ChoiceLocations : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //Touch touch = Input.GetTouch(0);
+        //pin.transform.position = touch.position;
+
         if (move)
         {
             textDisplay = infoTime;
@@ -131,23 +146,28 @@ public class ChoiceLocations : MonoBehaviour
             if (time==9)
             {
                 EventOne.text = textDisplay;
+                ReactionOne.text = reaction;
             }
             else if (time == 12)
             {
                 EventTwo.text = textDisplay;
+                ReactionTwo.text = reaction;
             }
             else if (time == 15)
             {
                 EventThree.text = textDisplay;
+                ReactionThree.text = reaction;
             }
             else if (time == 18)
             {
                 EventFour.text = textDisplay;
+                ReactionFour.text = reaction;
 
             }
             else if (time == 21)
             {
                 EventFive.text = textDisplay;
+                ReactionFive.text = reaction;
                 EventBilan.text = "23 h : Bilan de la journée";
             }        
             
@@ -177,7 +197,16 @@ public class ChoiceLocations : MonoBehaviour
                 month++;
             }
 
+            if (month > 2)
+            {
+                EndGame();
+            }
             move = false;
+        }
+
+        if (month > 1)
+        {
+            EndGame();
         }
     }
 
@@ -196,6 +225,7 @@ public class ChoiceLocations : MonoBehaviour
         {
             infoTime = "je suis chez moi, " + ev.text;
         }
+        reaction = ev.text2;
         move = true;
         imHere = "chez moi";
 
@@ -219,6 +249,7 @@ public class ChoiceLocations : MonoBehaviour
             infoTime = "je suis allée chez maman, " + ev.text;
         }
         imHere = "je suis chez maman";
+        reaction = ev.text2;
         move = true;
         selfEsteem.Value += ev.selfEsteem;
         attention.Value += ev.attention;
@@ -240,6 +271,7 @@ public class ChoiceLocations : MonoBehaviour
             infoTime = "je suis allée chez mon ex, " + ev.text;
         }
         imHere = "je suis chez mon ex";
+        reaction = ev.text2;
         move = true;
 
         selfEsteem.Value += ev.selfEsteem;
@@ -262,6 +294,7 @@ public class ChoiceLocations : MonoBehaviour
             infoTime = "je suis chez mon ami, " + ev.text;
         }
         imHere = "je suis chez mon ami";
+        reaction = ev.text2;
         move = true;
 
         selfEsteem.Value += ev.selfEsteem;
@@ -271,7 +304,8 @@ public class ChoiceLocations : MonoBehaviour
 
     void ActionVille()
     {
-        Event ev = months[month].days[day].hour[hour].events["centreVille"];
+        uiMgr.End();
+        /*Event ev = months[month].days[day].hour[hour].events["centreVille"];
 
         if (ev.text == "" || ev.text == "rien")
             ev = GetDefaultEvent("centreVille");
@@ -285,12 +319,12 @@ public class ChoiceLocations : MonoBehaviour
             infoTime = "je suis partie en ville, " + ev.text;
         }
         imHere = "je suis en ville";
+        reaction = ev.text2;
         move = true;
 
         selfEsteem.Value += ev.selfEsteem;
-        attention.Value += ev.attention;
+        attention.Value += ev.attention;*/
     }
-
 
     void endDay()
     {
@@ -314,7 +348,18 @@ public class ChoiceLocations : MonoBehaviour
         EventFour.text = "";
         EventFive.text = ""; 
         EventBilan.text = "";
+        ReactionOne.text = "";
+        ReactionTwo.text = "";
+        ReactionThree.text = "";
+        ReactionFour.text = "";
+        ReactionFive.text = "";
+        ReactionBilan.text = "";
 
+    }
+
+    void EndGame()
+    {
+        uiMgr.End();
     }
 
     private Event GetDefaultEvent(string key)

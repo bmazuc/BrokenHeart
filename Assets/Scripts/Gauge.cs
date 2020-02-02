@@ -7,6 +7,7 @@ using UnityEngine;
 public class Gauge : ScriptableObject
 {
     [SerializeField]
+    private int savedValue;
     private int currentValue;
     public int Value
     {
@@ -24,6 +25,7 @@ public class Gauge : ScriptableObject
     }
     [SerializeField]
     private int maxValue;
+    public int Max { get { return maxValue; } }
     [SerializeField]
     private int minValue;
     [SerializeField]
@@ -32,6 +34,11 @@ public class Gauge : ScriptableObject
     private int highValue;
     public delegate void ValueChange();
     public ValueChange OnValueChange;
+
+    public void Init()
+    {
+        currentValue = savedValue;
+    }
 
     public int GetDefaultEventId()
     {
