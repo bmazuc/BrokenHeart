@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 1d193bf055db7f34e847c9069bf85c39
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: theraphiest
+  fontNames:
+  - theraphiest
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 061fe24c4d4d5fe4689d84c2a4451536, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
