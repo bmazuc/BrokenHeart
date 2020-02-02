@@ -41,6 +41,8 @@ public class ChoiceLocations : MonoBehaviour
     public Text EventFive;
     public Text EventBilan;
 
+    [SerializeField] private UIManager uiMgr;
+
     int month;
     int day;
     int hour;
@@ -78,7 +80,7 @@ public class ChoiceLocations : MonoBehaviour
 
     void LoadJson()
     {
-        TextAsset json = Resources.Load<TextAsset>("timelines");
+        TextAsset json = Resources.Load<TextAsset>("test");
         Debug.Log(json.text);
         loadedJson = JsonUtility.FromJson<LoadedJSON>(json.text);
 
@@ -123,6 +125,7 @@ public class ChoiceLocations : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
         if (move)
         {
             textDisplay = infoTime;
@@ -177,7 +180,19 @@ public class ChoiceLocations : MonoBehaviour
                 month++;
             }
 
+            if (month > 2)
+            {
+                EndGame();
+            }
             move = false;
+        }
+
+        if (Input.GetKeyDown(KeyCode.A))
+            month = 3;
+
+        if (month > 1)
+        {
+            EndGame();
         }
     }
 
@@ -271,7 +286,8 @@ public class ChoiceLocations : MonoBehaviour
 
     void ActionVille()
     {
-        Event ev = months[month].days[day].hour[hour].events["centreVille"];
+        uiMgr.End();
+        /*Event ev = months[month].days[day].hour[hour].events["centreVille"];
 
         if (ev.text == "" || ev.text == "rien")
             ev = GetDefaultEvent("centreVille");
@@ -288,9 +304,8 @@ public class ChoiceLocations : MonoBehaviour
         move = true;
 
         selfEsteem.Value += ev.selfEsteem;
-        attention.Value += ev.attention;
+        attention.Value += ev.attention;*/
     }
-
 
     void endDay()
     {
@@ -315,6 +330,11 @@ public class ChoiceLocations : MonoBehaviour
         EventFive.text = ""; 
         EventBilan.text = "";
 
+    }
+
+    void EndGame()
+    {
+        uiMgr.End();
     }
 
     private Event GetDefaultEvent(string key)
