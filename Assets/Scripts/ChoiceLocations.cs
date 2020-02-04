@@ -97,7 +97,7 @@ public class ChoiceLocations : MonoBehaviour
 
     void LoadJson()
     {
-        TextAsset json = Resources.Load<TextAsset>("test");
+        TextAsset json = Resources.Load<TextAsset>("timelines_definitif");
         loadedJson = JsonUtility.FromJson<LoadedJSON>(json.text);
 
         defaultEvent = new Dictionary<string, Event[]>();
@@ -222,6 +222,9 @@ public class ChoiceLocations : MonoBehaviour
     void ActionMaison()
     {
         pin.transform.position = buttonMaison.transform.position;
+        Debug.Log(month);
+        Debug.Log(day);
+        Debug.Log(hour);
         Event ev = months[month].days[day].hour[hour].events["pj"];
 
         if (ev.text == "" || ev.text == "rien")
@@ -353,6 +356,7 @@ public class ChoiceLocations : MonoBehaviour
 
         }
         time = 9;
+        hour = 0;
         jour++;
         
         EventOne.text = "";
