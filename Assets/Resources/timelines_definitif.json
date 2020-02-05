@@ -10,19 +10,19 @@
               "pj": {
                 "selfEsteem": "-50",
                 "attention": "-50",
-                "text": "Avec Anna on s'est mis d'accord pour tout arréter",
+                "text": "avec Anna on s'est mis d'accord pour tout arréter",
 				"text2":"Mais elle était quand même plus d'accord que moi."
               },
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
                 "selfEsteem": "10",
                 "attention": "20",
-                "text": "Je suis allé chez Seb, et on a fait de la musique.",
+                "text": "et on a fait de la musique.",
 				"text2":"Lui à l'accordéon, moi au triangle, on a tout déchiré."
               },
               "maman": {
@@ -50,13 +50,13 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
                 "selfEsteem": "5",
                 "attention": "10",
-                "text": "Seb m'a emmené au grec aujourd'hui.",
+                "text": "il m'a emmené au grec aujourd'hui.",
 				"text2":"Il m'a offert le repas, du coup c'était encore meilleur !"
               },
               "maman": {
@@ -84,7 +84,7 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
@@ -118,7 +118,7 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
@@ -190,7 +190,7 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
@@ -224,7 +224,7 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
@@ -258,7 +258,7 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
@@ -292,7 +292,7 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
@@ -326,7 +326,7 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
@@ -354,7 +354,7 @@
           "hour": [
             {
               "time": "9h",
-			  "planning":"ANNIV DE SEB (CHEZ SEB)",
+			  "planning":"ANNIVE DE SEB (CHEZ SEB)",
               "pj": {
                 "selfEsteem": "-20",
                 "attention": "-10",
@@ -364,7 +364,7 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
@@ -388,7 +388,7 @@
             },
             {
               "time": "12h",
-			  "planning":"ANNIV DE SEB (CHEZ SEB)",
+			  "planning":"ANNIVE DE SEB (CHEZ SEB)",
               "pj": {
                 "selfEsteem": "-15",
                 "attention": "10",
@@ -398,7 +398,7 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
@@ -422,7 +422,7 @@
             },
             {
               "time": "15h",
-			  "planning":"ANNIV DE SEB (CHEZ SEB)",
+			  "planning":"ANNIVE DE SEB (CHEZ SEB)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -432,7 +432,7 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
@@ -456,7 +456,7 @@
             },
             {
               "time": "18h",
-			  "planning":"ANNIV DE SEB (CHEZ SEB)",
+			  "planning":"ANNIVE DE SEB (CHEZ SEB)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -466,13 +466,13 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
                 "selfEsteem": "5",
                 "attention": "15",
-                "text": "Anniv de Seb aujourd'hui",
+                "text": "anniv de Seb aujourd'hui",
 				"text2":"C'était... Génial? J'avais oublié comme il est génial."
               },
               "maman": {
@@ -490,17 +490,17 @@
             },
             {
               "time": "21h",
-			  "planning":"ANNIV DE SEB (CHEZ SEB)",
+			  "planning":"ANNIVE DE SEB (CHEZ SEB)",
               "pj": {
                 "selfEsteem": "10",
                 "attention": "10",
                 "text": "Rien ne vaut une bonne glace devant la télé.",
-                "text2": "J'ai envoyé la photo avec du riban cadeau à Seb."
+                "text2": "J'ai envoyé la photo avec du riban cadeau à il."
               },
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je Je devrais être chez Seb."
               },
               "ami": {
@@ -538,7 +538,7 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
@@ -562,7 +562,7 @@
             },
             {
               "time": "12h",
-			  "planning":"BBQ (CHEZ SEB)",
+			  "planning":"BBQ (chez Seb)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -572,13 +572,13 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
                 "selfEsteem": "8",
                 "attention": "25",
-                "text": "Seb organise un barbecue aujourd'hui avec tout le monde",
+                "text": "il organise un barbecue aujourd'hui avec tout le monde",
 				"text2":"Il invite les voisins. Je me sens pas de m'intégrer."
               },
               "maman": {
@@ -596,7 +596,7 @@
             },
             {
               "time": "15h",
-			  "planning":"BBQ (CHEZ SEB)",
+			  "planning":"BBQ (chez Seb)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -606,13 +606,13 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
                 "selfEsteem": "8",
                 "attention": "25",
-                "text": "Seb, son barbecue, avec tout le monde",
+                "text": "il, son barbecue, avec tout le monde",
 				"text2":"Trop de monde, mais au fond pas si mal. Il y a des gens sympa."
               },
               "maman": {
@@ -630,7 +630,7 @@
             },
             {
               "time": "18h",
-			  "planning":"BBQ (CHEZ SEB)",
+			  "planning":"BBQ (chez Seb)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -640,13 +640,13 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
                 "selfEsteem": "8",
                 "attention": "25",
-                "text": "Le barbecue de Seb s'allonge.",
+                "text": "le barbecue de Seb s'allonge.",
 				"text2":"Je sais pas si c'est l'alcool, mais les gens m'ont presque paru agréables."
               },
               "maman": {
@@ -664,7 +664,7 @@
             },
             {
               "time": "21h",
-			  "planning":"BBQ (CHEZ SEB)",
+			  "planning":"BBQ (chez Seb)",
               "pj": {
                 "selfEsteem": "-10",
                 "attention": "5",
@@ -674,13 +674,13 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
                 "selfEsteem": "8",
                 "attention": "25",
-                "text": "Le barbecue de Seb a pris fin",
+                "text": "le barbecue de Seb a pris fin",
 				"text2":"J'ai gagné quelques numéros, et un câlin de bro. Et une bière. Et le droit de ranger."
               },
               "maman": {
@@ -712,7 +712,7 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
@@ -746,7 +746,7 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
@@ -780,13 +780,13 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
                 "selfEsteem": "10",
                 "attention": "20",
-                "text": "Je suis allé chez Seb, et on a fait de la musique.",
+                "text": "et on a fait de la musique.",
 				"text2":"Lui à l'accordéon, moi au triangle, on a tout déchiré."
               },
               "maman": {
@@ -814,7 +814,7 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
@@ -848,7 +848,7 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
@@ -886,7 +886,7 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
@@ -920,7 +920,7 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
@@ -954,7 +954,7 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
@@ -988,7 +988,7 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
@@ -1022,13 +1022,13 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
                 "selfEsteem": "15",
                 "attention": "25",
-                "text": "Seb m'a sorti en boite ce soir",
+                "text": "il m'a sorti en boite ce soir",
 				"text2":"J'ai revu la fille de l'autre fois. Et j'ai un peu abusé de la bibine."
               },
               "maman": {
@@ -1060,7 +1060,7 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
@@ -1094,7 +1094,7 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
@@ -1128,13 +1128,13 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
                 "selfEsteem": "10",
                 "attention": "20",
-                "text": "Je suis allé chez Seb, et on a fait de la musique.",
+                "text": "et on a fait de la musique.",
 				"text2":"Lui à l'accordéon, moi au triangle, on a tout déchiré."
               },
               "maman": {
@@ -1162,7 +1162,7 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
@@ -1258,7 +1258,7 @@
             },
             {
               "time": "12h",
-			  "planning":"DEJ CHEZ SEB",
+			  "planning":"DEJ chez Seb",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -1274,7 +1274,7 @@
               "ami": {
                 "selfEsteem": "15",
                 "attention": "20",
-                "text": "On a bouffé ensemble aujourd'hui avec Seb",
+                "text": "On a bouffé ensemble aujourd'hui avec il",
 				"text2":" J'avais grave la dalle, c'était inoui. Puis on a discuté un peu, ça fait du bien."
               },
               "maman": {
@@ -1414,7 +1414,7 @@
               "ami": {
                 "selfEsteem": "-5",
                 "attention": "-10",
-                "text": "Le poisson rouge de Seb est mort.",
+                "text": "le poisson rouge de Seb est mort.",
 				"text2":"Il était triste, mais j'ai pas trop réussi à l'être avec lui. Adieu Némo."
               },
               "maman": {
@@ -1448,7 +1448,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat."
               },
               "maman": {
@@ -1482,7 +1482,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat."
               },
               "maman": {
@@ -1516,7 +1516,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat."
               },
               "maman": {
@@ -1550,7 +1550,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat."
               },
               "maman": {
@@ -1588,7 +1588,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais j'ai pas la force de les pieds dans le plat."
               },
               "maman": {
@@ -1622,7 +1622,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais j'ai pas la force de les pieds dans le plat."
               },
               "maman": {
@@ -1656,7 +1656,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais j'ai pas la force de les pieds dans le plat."
               },
               "maman": {
@@ -1690,7 +1690,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais j'ai pas la force de les pieds dans le plat."
               },
               "maman": {
@@ -1724,7 +1724,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais j'ai pas la force de les pieds dans le plat."
               },
               "maman": {
@@ -1762,7 +1762,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais j'ai pas la force de les pieds dans le plat."
               },
               "maman": {
@@ -1796,7 +1796,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais j'ai pas la force de les pieds dans le plat."
               },
               "maman": {
@@ -1830,7 +1830,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais j'ai pas la force de les pieds dans le plat."
               },
               "maman": {
@@ -1864,7 +1864,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais j'ai pas la force de les pieds dans le plat."
               },
               "maman": {
@@ -1898,7 +1898,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais j'ai pas la force de les pieds dans le plat."
               },
               "maman": {
@@ -2004,7 +2004,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Je suis venu chercher Seb aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
+                "text": "je suis venu le chercher aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
 				"text2":"J'aurai aimé qu'il me previenne au moins."
               },
               "maman": {
@@ -2038,7 +2038,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Je suis venu chercher Seb aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
+                "text": "je suis venu le chercher aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
 				"text2":"J'aurai aimé qu'il me previenne au moins."
               },
               "maman": {
@@ -2072,7 +2072,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Je suis venu chercher Seb aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
+                "text": "je suis venu le chercher aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
 				"text2":"J'aurai aimé qu'il me previenne au moins."
               },
               "maman": {
@@ -2110,7 +2110,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Je suis venu chercher Seb aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
+                "text": "je suis venu le chercher aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
 				"text2":"J'aurai aimé qu'il me previenne au moins. Il revient quand bordel ?"
               },
               "maman": {
@@ -2122,7 +2122,7 @@
               "centreVille": {
                 "selfEsteem": "0",
                 "attention": "-3",
-                "text": "Je suis allé en ville et j'ai regardé l'orage.",
+                "text": "et j'ai regardé l'orage.",
 				"text2":"J'ai sursauté aux tonnère. Les elcairs donnent envie de faire des photos."
               }
             },
@@ -2144,7 +2144,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Je suis venu chercher Seb aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
+                "text": "je suis venu le chercher aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
 				"text2":"J'aurai aimé qu'il me previenne au moins. Il revient quand bordel ?"
               },
               "maman": {
@@ -2156,7 +2156,7 @@
               "centreVille": {
                 "selfEsteem": "0",
                 "attention": "-3",
-                "text": "Je suis allé en ville et j'ai regardé l'orage.",
+                "text": "et j'ai regardé l'orage.",
 				"text2":"J'ai sursauté aux tonnère. Les elcairs donnent envie de faire des photos."
               }
             },
@@ -2178,7 +2178,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Je suis venu chercher Seb aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
+                "text": "je suis venu le chercher aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
 				"text2":"J'aurai aimé qu'il me previenne au moins. Il revient quand bordel ?"
               },
               "maman": {
@@ -2190,7 +2190,7 @@
               "centreVille": {
                 "selfEsteem": "0",
                 "attention": "-3",
-                "text": "Je suis allé en ville et j'ai regardé l'orage.",
+                "text": "et j'ai regardé l'orage.",
 				"text2":"J'ai sursauté aux tonnère. Les elcairs donnent envie de faire des photos."
               }
             },
@@ -2212,7 +2212,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Je suis venu chercher Seb aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
+                "text": "je suis venu le chercher aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
 				"text2":"J'aurai aimé qu'il me previenne au moins. Il revient quand bordel ?"
               },
               "maman": {
@@ -2258,7 +2258,7 @@
               "centreVille": {
                 "selfEsteem": "0",
                 "attention": "-3",
-                "text": "Je suis allé en ville et j'ai regardé l'orage.",
+                "text": "et j'ai regardé l'orage.",
 				"text2":"J'ai sursauté aux tonnère. Les elcairs donnent envie de faire des photos."
               }
 
@@ -2285,7 +2285,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Je suis venu chercher Seb aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
+                "text": "je suis venu le chercher aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
 				"text2":"J'aurai aimé qu'il me previenne au moins. Il revient quand bordel ?"
               },
               "maman": {
@@ -2319,7 +2319,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Je suis venu chercher Seb aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
+                "text": "je suis venu le chercher aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
 				"text2":"J'aurai aimé qu'il me previenne au moins. Il revient quand bordel ?"
               },
               "maman": {
@@ -2353,7 +2353,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Je suis venu chercher Seb aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
+                "text": "je suis venu le chercher aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
 				"text2":"J'aurai aimé qu'il me previenne au moins. Il revient quand bordel ?"
               },
               "maman": {
@@ -2387,7 +2387,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Je suis venu chercher Seb aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
+                "text": "je suis venu le chercher aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
 				"text2":"J'aurai aimé qu'il me previenne au moins. Il revient quand bordel ?"
               },
               "maman": {
@@ -2399,7 +2399,7 @@
               "centreVille": {
                 "selfEsteem": "0",
                 "attention": "-3",
-                "text": "Je suis allé en ville et j'ai regardé l'orage.",
+                "text": "et j'ai regardé l'orage.",
 				"text2":"J'ai sursauté aux tonnère. Les elcairs donnent envie de faire des photos."
               }
             },
@@ -2421,7 +2421,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Je suis venu chercher Seb aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
+                "text": "je suis venu le chercher aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
 				"text2":"J'aurai aimé qu'il me previenne au moins. Il revient quand bordel ?"
               },
               "maman": {
@@ -2433,7 +2433,7 @@
               "centreVille": {
                 "selfEsteem": "0",
                 "attention": "-3",
-                "text": "Je suis allé en ville et j'ai regardé l'orage.",
+                "text": "et j'ai regardé l'orage.",
 				"text2":"J'ai sursauté aux tonnère. Les elcairs donnent envie de faire des photos."
               }
             }
@@ -2459,7 +2459,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Je suis venu chercher Seb aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
+                "text": "je suis venu le chercher aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
 				"text2":"J'aurai aimé qu'il me previenne au moins. Il revient quand bordel ?"
               },
               "maman": {
@@ -2493,7 +2493,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Je suis venu chercher Seb aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
+                "text": "je suis venu le chercher aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
 				"text2":"J'aurai aimé qu'il me previenne au moins. Il revient quand bordel ?"
               },
               "maman": {
@@ -2505,7 +2505,7 @@
               "centreVille": {
                 "selfEsteem": "0",
                 "attention": "-3",
-                "text": "Je suis allé en ville et j'ai regardé l'orage.",
+                "text": "et j'ai regardé l'orage.",
 				"text2":"Personnellement j'adore. Les municipaux qui doivent organiser le 14, moins..."
               }
             },
@@ -2527,7 +2527,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Je suis venu chercher Seb aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
+                "text": "je suis venu le chercher aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
 				"text2":"J'aurai aimé qu'il me previenne au moins. Il revient quand bordel ?"
               },
               "maman": {
@@ -2539,7 +2539,7 @@
               "centreVille": {
                 "selfEsteem": "0",
                 "attention": "-3",
-                "text": "Je suis allé en ville et j'ai regardé l'orage.",
+                "text": "et j'ai regardé l'orage.",
 				"text2":"Personnellement j'adore. Les municipaux qui doivent organiser le 14, moins..."
               }
             },
@@ -2561,7 +2561,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Je suis venu chercher Seb aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
+                "text": "je suis venu le chercher aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
 				"text2":"J'aurai aimé qu'il me previenne au moins. Il revient quand bordel ?"
               },
               "maman": {
@@ -2573,7 +2573,7 @@
               "centreVille": {
                 "selfEsteem": "0",
                 "attention": "-3",
-                "text": "Je suis allé en ville et j'ai regardé l'orage.",
+                "text": "et j'ai regardé l'orage.",
 				"text2":"Personnellement j'adore. Les municipaux qui doivent organiser le 14, moins..."
               }
             },
@@ -2595,7 +2595,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Je suis venu chercher Seb aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
+                "text": "je suis venu le chercher aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
 				"text2":"J'aurai aimé qu'il me previenne au moins. Il revient quand bordel ?"
               },
               "maman": {
@@ -2607,7 +2607,7 @@
               "centreVille": {
                 "selfEsteem": "0",
                 "attention": "-3",
-                "text": "Je suis allé en ville et j'ai regardé l'orage.",
+                "text": "et j'ai regardé l'orage.",
 				"text2":"Pas de feux d'artifices ! Reporté en août du coup."
               }
             }
@@ -2633,7 +2633,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Je suis venu chercher Seb aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
+                "text": "je suis venu le chercher aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
 				"text2":"J'aurai aimé qu'il me previenne au moins. Il revient quand bordel ?"
               },
               "maman": {
@@ -2667,7 +2667,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Je suis venu chercher Seb aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
+                "text": "je suis venu le chercher aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
 				"text2":"J'aurai aimé qu'il me previenne au moins. Il revient quand bordel ?"
               },
               "maman": {
@@ -2701,7 +2701,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Je suis venu chercher Seb aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
+                "text": "je suis venu le chercher aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
 				"text2":"J'aurai aimé qu'il me previenne au moins. Il revient quand bordel ?"
               },
               "maman": {
@@ -2735,7 +2735,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Je suis venu chercher Seb aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
+                "text": "je suis venu le chercher aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
 				"text2":"J'aurai aimé qu'il me previenne au moins. Il revient quand bordel ?"
               },
               "maman": {
@@ -2769,7 +2769,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Je suis venu chercher Seb aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
+                "text": "je suis venu le chercher aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
 				"text2":"J'aurai aimé qu'il me previenne au moins. Il revient quand bordel ?"
               },
               "maman": {
@@ -2808,7 +2808,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Seb est toujours en virée avec ses autres amis",
+                "text": "il est toujours en virée avec ses autres amis",
 				"text2":"J'aurai aimé qu'il soit là pour l'anniv d'Anna. Je suis vraiment pas bien."
               },
               "maman": {
@@ -2842,7 +2842,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Seb est toujours en virée avec ses autres amis",
+                "text": "il est toujours en virée avec ses autres amis",
 				"text2":"J'aurai aimé qu'il soit là pour l'anniv d'Anna. Je suis vraiment pas bien."
               },
               "maman": {
@@ -2876,7 +2876,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Seb est toujours en virée avec ses autres amis",
+                "text": "il est toujours en virée avec ses autres amis",
 				"text2":"J'aurai aimé qu'il soit là pour l'anniv d'Anna. Je suis vraiment pas bien."
               },
               "maman": {
@@ -2910,7 +2910,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Seb est toujours en virée avec ses autres amis",
+                "text": "il est toujours en virée avec ses autres amis",
 				"text2":"J'aurai aimé qu'il soit là pour l'anniv d'Anna. Je suis vraiment pas bien."
               },
               "maman": {
@@ -2944,7 +2944,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Seb est toujours en virée avec ses autres amis",
+                "text": "il est toujours en virée avec ses autres amis",
 				"text2":"Et moi je reste là comme un con plutôt que d'aller voir Anna."
               },
               "maman": {
@@ -2956,7 +2956,7 @@
               "centreVille": {
                 "selfEsteem": "-10",
                 "attention": "5",
-                "text": "Pas envie de voir Anna, pas de Seb, donc boîte ce soir.",
+                "text": "Pas envie de voir Anna, pas de il, donc boîte ce soir.",
 				"text2":"J'ai vu une femme resplendissante.Je n'ai pas osé l'aborder. J'espère la revoir."
               }
             }
@@ -3016,7 +3016,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-5",
-                "text": "Je suis venu chercher Seb aujourd'hui et sa mère m'a dit qu'il était sorti manger.",
+                "text": "je suis venu le chercher aujourd'hui et sa mère m'a dit qu'il était sorti manger.",
 				"text2":"Bon appétit."
               },
               "maman": {
@@ -3050,7 +3050,7 @@
               "ami": {
                 "selfEsteem": "10",
                 "attention": "20",
-                "text": "Je suis allé chez Seb, et on a fait de la musique.",
+                "text": "et on a fait de la musique.",
 				"text2":"Lui à l'accordéon, moi au triangle, on a tout déchiré."
               },
               "maman": {
@@ -3084,7 +3084,7 @@
               "ami": {
                 "selfEsteem": "10",
                 "attention": "20",
-                "text": "Je suis allé chez Seb, et on a fait de la musique.",
+                "text": "et on a fait de la musique.",
 				"text2":"On a joué du tuba et de l'orgue de barbarie"
               },
               "maman": {
@@ -3224,7 +3224,7 @@
               "ami": {
                 "selfEsteem": "10",
                 "attention": "20",
-                "text": "Je suis allé chez Seb, et on a fait de la musique.",
+                "text": "et on a fait de la musique.",
 				"text2":"Lui au djambé, moi au clavecin, on a tout déchiré."
               },
               "maman": {
@@ -3258,7 +3258,7 @@
               "ami": {
                 "selfEsteem": "10",
                 "attention": "20",
-                "text": "Je suis allé chez Seb, et on a fait de la musique.",
+                "text": "et on a fait de la musique.",
 				"text2":"On a fait chauffé les amplis jusqu'au bout."
               },
               "maman": {
@@ -3364,7 +3364,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-5",
-                "text": "Seb m'a parlé d'une rencontre qu'il a faite aujourd'hui.",
+                "text": "il m'a parlé d'une rencontre qu'il a faite aujourd'hui.",
 				"text2":"En espérant pour lui qu'il ne passe pas trop vite de Casanova à Quasimodo."
               },
               "maman": {
@@ -3398,7 +3398,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-5",
-                "text": "Seb m'a parlé d'une rencontre qu'il a faite aujourd'hui.",
+                "text": "il m'a parlé d'une rencontre qu'il a faite aujourd'hui.",
 				"text2":"En espérant pour lui que ça ne casse pas trop vite."
               },
               "maman": {
@@ -3432,7 +3432,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-5",
-                "text": "Seb m'a parlé d'une rencontre qu'il a faite aujourd'hui.",
+                "text": "il m'a parlé d'une rencontre qu'il a faite aujourd'hui.",
 				"text2":"En espérant pour lui que ça ne casse pas trop vite."
               },
               "maman": {
@@ -3466,7 +3466,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-5",
-                "text": "Seb m'a parlé d'une rencontre qu'il a faite aujourd'hui.",
+                "text": "il m'a parlé d'une rencontre qu'il a faite aujourd'hui.",
 				"text2":"Ca a déjà tenu plus longtemps que d'habitude."
               },
               "maman": {
@@ -3499,12 +3499,12 @@
                 "selfEsteem": "15",
                 "attention": "10",
                 "text": "Anna n'était pas du tout de bonne humeur aujourd'hui.",
-				"text2":"Une sale histoire de nains."
+				"text2":"Je lui ai fait un blague, elle l'a très mal prise."
               },
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-5",
-                "text": "Seb m'a parlé d'une rencontre qu'il a faite.",
+                "text": "il m'a parlé d'une rencontre qu'il a faite.",
 				"text2":"Ca colle bien entre eux."
               },
               "maman": {
@@ -3538,7 +3538,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-5",
-                "text": "Seb m'a parlé d'une rencontre qu'il a faite.",
+                "text": "il m'a parlé d'une rencontre qu'il a faite.",
 				"text2":"Ca colle bien entre eux."
               },
               "maman": {
@@ -3572,7 +3572,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-5",
-                "text": "Seb m'a parlé d'une rencontre qu'il a faite.",
+                "text": "il m'a parlé d'une rencontre qu'il a faite.",
 				"text2":"Ils se sont un peu disputés. J'espère que ça va aller."
               },
               "maman": {
@@ -3606,7 +3606,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-5",
-                "text": "Seb m'a parlé d'une rencontre qu'il a faite.",
+                "text": "il m'a parlé d'une rencontre qu'il a faite.",
 				"text2":"Je ne pense pas qu'ils vont rester ensemble."
               },
               "maman": {
@@ -3640,7 +3640,7 @@
               "ami": {
                 "selfEsteem": "15",
                 "attention": "25",
-                "text": "Seb m'a sorti en boite ce soir.",
+                "text": "il m'a sorti en boite ce soir.",
 				"text2":"On a dansé la macaque rena."
               },
               "maman": {
@@ -3712,7 +3712,7 @@
               "ami": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "On a bouffé ensemble aujourd'hui avec Seb.",
+                "text": "On a bouffé ensemble aujourd'hui avec il.",
 				"text2":"On a bien rigolé. C'était sympa."
               },
               "maman": {
@@ -3840,7 +3840,7 @@
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "Seb aurait dû venir, il m'a posé un lapin.",
+                "text": "il aurait dû venir, il m'a posé un lapin.",
 				"text2":"J'aurais bien dormi un peu plus."
               },
               "ex": {
@@ -3880,7 +3880,7 @@
               "ex": {
                 "selfEsteem": "1",
                 "attention": "10",
-                "text": "J'ai été chez Anna. Sa tortue luth est morte.",
+                "text": "Sa tortue luth est morte.",
 				"text2":"Elle y tenait vachement, ça m'a déprimé. Mais au moins elle s'est battue. Parce que la tortue lutte."
               },
               "ami": {
@@ -4038,8 +4038,8 @@
               "centreVille": {
                 "selfEsteem": "15",
                 "attention": "10",
-                "text": "Aujourd'hui je me suis rendu à l'expo.",
-				"text2":"J'ai appris plein de choses sur les nains qui vont à la mine !"
+                "text": "Aujourd'hui je me suis rendu à l'expo des recueil de blagues.",
+				"text2":"J'ai pas reussi à appécier. Mais ça faisait au moins du bien de sortir."
               }
             },
             {
@@ -4060,7 +4060,7 @@
               "ami": {
                 "selfEsteem": "8",
                 "attention": "25",
-                "text": "Seb organise un barbecue aujourd'hui avec tout le monde.",
+                "text": "il organise un barbecue aujourd'hui avec tout le monde.",
 				"text2":"C'est la foire aux merguez et aux chipolatas !"
               },
               "maman": {
@@ -4094,8 +4094,8 @@
               "ami": {
                 "selfEsteem": "8",
                 "attention": "25",
-                "text": "Seb organise un barbecue aujourd'hui avec tout le monde.",
-				"text2":"Seb, le roi de la merguez !"
+                "text": "il organise un barbecue aujourd'hui avec tout le monde.",
+				"text2":"il, le roi de la merguez !"
               },
               "maman": {
                 "selfEsteem": "-5",
@@ -4128,7 +4128,7 @@
               "ami": {
                 "selfEsteem": "8",
                 "attention": "25",
-                "text": "Seb organise un barbecue aujourd'hui avec tout le monde.",
+                "text": "il organise un barbecue aujourd'hui avec tout le monde.",
 				"text2":"Le monde qu'il y a, c'est impressionnant."
               },
               "maman": {
@@ -4162,7 +4162,7 @@
               "ami": {
                 "selfEsteem": "8",
                 "attention": "25",
-                "text": "Seb organise un barbecue aujourd'hui avec tout le monde.",
+                "text": "il organise un barbecue aujourd'hui avec tout le monde.",
 				"text2":"C'était tellement incroyable que tout le monde a voulu prolonger."
               },
               "maman": {
@@ -4234,7 +4234,7 @@
               "ami": {
                 "selfEsteem": "5",
                 "attention": "10",
-                "text": "Seb m'a emmené au grec aujourd'hui.",
+                "text": "il m'a emmené au grec aujourd'hui.",
 				"text2":"Il m'a encore offert le repas."
               },
               "maman": {
@@ -4408,7 +4408,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Je suis venu chercher Seb aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis.",
+                "text": "je suis venu le chercher aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis.",
 				"text2":"J'aurais aimé qu'il me prévienne au moins."
               },
               "maman": {
@@ -4442,7 +4442,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Je suis venu chercher Seb aujourd'hui, et il est encore avec d'autres amis.",
+                "text": "je suis venu le chercher aujourd'hui, et il est encore avec d'autres amis.",
 				"text2":"J'aurais aimé le voir."
               },
               "maman": {
@@ -4476,7 +4476,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Je suis venu chercher Seb aujourd'hui, et il est encore avec d'autres amis.",
+                "text": "je suis venu le chercher aujourd'hui, et il est encore avec d'autres amis.",
 				"text2":"J'aurais aimé le voir."
               },
               "maman": {
@@ -4684,7 +4684,7 @@
               "ami": {
                 "selfEsteem": "1",
                 "attention": "1",
-                "text": "Seb m'a sorti en boite ce soir.",
+                "text": "il m'a sorti en boite ce soir.",
 				"text2":"J'ai revu la fille de la dernière fois."
               },
               "maman": {
@@ -4790,7 +4790,7 @@
               "ami": {
                 "selfEsteem": "10",
                 "attention": "20",
-                "text": "Je suis allé chez Seb, et on a fait de la musique.",
+                "text": "et on a fait de la musique.",
 				"text2":"On a fait de la transe avec de la harpe et du violoncelle."
               },
               "maman": {
@@ -4824,7 +4824,7 @@
               "ami": {
                 "selfEsteem": "10",
                 "attention": "20",
-                "text": "Je suis allé chez Seb, et on a fait de la musique.",
+                "text": "et on a fait de la musique.",
 				"text2":"On a fait de la musique classique avec de la basse et une accoustique."
               },
               "maman": {
@@ -5228,7 +5228,7 @@
           "hour": [
             {
               "time": "9h",
-			  "planning":"SEB BOSSE (PAS CHEZ LUI)",
+			  "planning":"il BOSSE (PAS CHEZ LUI)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -5244,7 +5244,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-3",
-                "text": "Je voulais sortir avec Seb aujourd'hui mais il bosse.",
+                "text": "Je voulais sortir avec il aujourd'hui mais il bosse.",
 				"text2":"Combien de temps va-t-il garder son boulot ?"
               },
               "maman": {
@@ -5278,7 +5278,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-3",
-                "text": "Je voulais sortir avec Seb aujourd'hui mais il bosse.",
+                "text": "Je voulais sortir avec il aujourd'hui mais il bosse.",
 				"text2":"Combien de temps va-t-il garder son boulot ?"
               },
               "maman": {
@@ -5312,7 +5312,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-3",
-                "text": "Je voulais sortir avec Seb aujourd'hui mais il bosse.",
+                "text": "Je voulais sortir avec il aujourd'hui mais il bosse.",
 				"text2":"Combien de temps va-t-il garder son boulot ?"
               },
               "maman": {
@@ -5450,7 +5450,7 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
@@ -5484,13 +5484,13 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Je suis venu chercher Seb aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
+                "text": "je suis venu le chercher aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
 				"text2":"J'aurai aimé qu'il me previenne au moins"
               },
               "maman": {
@@ -5518,13 +5518,13 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Je suis venu chercher Seb aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
+                "text": "je suis venu le chercher aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
 				"text2":"J'aurai aimé qu'il me previenne au moins"
               },
               "maman": {
@@ -5552,13 +5552,13 @@
               "ex": {
                 "selfEsteem": "-35",
                 "attention": "-35",
-                "text": "J'ai été chez Anna, et je l'ai entendue m'ignorer.",
+                "text": "et je l'ai entendue m'ignorer.",
 				"text2":"Je me suis fait ghoster. Mais en vrai."
               },
               "ami": {
                 "selfEsteem": "10",
                 "attention": "20",
-                "text": "Je suis allé chez Seb, et on a fait de la musique",
+                "text": "et on a fait de la musique",
 				"text2":"Lui à l'accordéon, moi au triangle, on a tout déchiré. "
               },
               "maman": {
@@ -5580,12 +5580,12 @@
           "hour": [
             {
               "time": "9h",
-			  "planning":"DEBUT EVENT E-SPORT (SEB ? PIAULE ?)",
+			  "planning":"DEBUT EVENT E-SPORT (il ? PIAULE ?)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
                 "text": "J'ai fait l'Event à la maison.",
-				"text2":"Seb s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
+				"text2":"il s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
               },
               "ex": {
                 "selfEsteem": "1",
@@ -5619,7 +5619,7 @@
                 "selfEsteem": "1",
                 "attention": "1",
                 "text": "J'ai fait l'Event à la maison.",
-				"text2":"Seb s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
+				"text2":"il s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
               },
               "ex": {
                 "selfEsteem": "-20",
@@ -5653,7 +5653,7 @@
                 "selfEsteem": "1",
                 "attention": "1",
                 "text": "J'ai fait l'Event à la maison.",
-				"text2":"Seb s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
+				"text2":"il s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
               },
               "ex": {
                 "selfEsteem": "-20",
@@ -5687,7 +5687,7 @@
                 "selfEsteem": "1",
                 "attention": "1",
                 "text": "J'ai fait l'Event à la maison.",
-				"text2":"Seb s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
+				"text2":"il s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
               },
               "ex": {
                 "selfEsteem": "-20",
@@ -5721,7 +5721,7 @@
                 "selfEsteem": "1",
                 "attention": "1",
                 "text": "J'ai fait l'Event à la maison.",
-				"text2":"Seb s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
+				"text2":"il s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
               },
               "ex": {
                 "selfEsteem": "-20",
@@ -5759,7 +5759,7 @@
                 "selfEsteem": "1",
                 "attention": "1",
                 "text": "J'ai fait l'Event à la maison.",
-				"text2":"Seb s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
+				"text2":"il s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
               },
               "ex": {
                 "selfEsteem": "1",
@@ -5793,7 +5793,7 @@
                 "selfEsteem": "1",
                 "attention": "1",
                 "text": "J'ai fait l'Event à la maison.",
-				"text2":"Seb s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
+				"text2":"il s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
               },
               "ex": {
                 "selfEsteem": "-20",
@@ -5827,7 +5827,7 @@
                 "selfEsteem": "1",
                 "attention": "1",
                 "text": "J'ai fait l'Event à la maison.",
-				"text2":"Seb s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
+				"text2":"il s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
               },
               "ex": {
                 "selfEsteem": "-20",
@@ -5856,12 +5856,12 @@
             },
             {
               "time": "18h",
-			  "planning":"FIN EVENT E-SPORT (SEB ? PIAULE ?)",
+			  "planning":"FIN EVENT E-SPORT (il ? PIAULE ?)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
                 "text": "J'ai fait l'Event à la maison.",
-				"text2":"Seb s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
+				"text2":"il s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
               },
               "ex": {
                 "selfEsteem": "-20",
@@ -5978,7 +5978,7 @@
               "ami": {
                 "selfEsteem": "8",
                 "attention": "25",
-                "text": "Seb organise un barbecue aujourd'hui avec tout le monde",
+                "text": "il organise un barbecue aujourd'hui avec tout le monde",
 				"text2":"Il invite les voisins. Je me sens pas de m'intégrer."
               },
               "maman": {
@@ -6012,7 +6012,7 @@
               "ami": {
                 "selfEsteem": "8",
                 "attention": "25",
-                "text": "Seb organise un barbecue aujourd'hui avec tout le monde",
+                "text": "il organise un barbecue aujourd'hui avec tout le monde",
 				"text2":"Il invite les voisins. Je me sens pas de m'intégrer."
               },
               "maman": {
@@ -6080,7 +6080,7 @@
               "ami": {
                 "selfEsteem": "15",
                 "attention": "25",
-                "text": "Seb m'a sorti en boite ce soir",
+                "text": "il m'a sorti en boite ce soir",
 				"text2":"J'ai revu la fille de l'autre fois. Et j'ai un peu abusé de la bibine."
               },
               "maman": {
@@ -6118,7 +6118,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-35",
-                "text": "Seb a perdu sa mère aujourd'hui",
+                "text": "il a perdu sa mère aujourd'hui",
 				"text2":"Il est inconsolable et ça m'affecte beaucoup aussi..."
               },
               "maman": {
@@ -6152,7 +6152,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-35",
-                "text": "Seb a perdu sa mère aujourd'hui",
+                "text": "il a perdu sa mère aujourd'hui",
 				"text2":"Il est inconsolable et ça m'affecte beaucoup aussi..."
               },
               "maman": {
@@ -6186,7 +6186,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-35",
-                "text": "Seb a perdu sa mère aujourd'hui",
+                "text": "il a perdu sa mère aujourd'hui",
 				"text2":"Il est inconsolable et ça m'affecte beaucoup aussi..."
               },
               "maman": {
@@ -6220,7 +6220,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-35",
-                "text": "Seb a perdu sa mère aujourd'hui",
+                "text": "il a perdu sa mère aujourd'hui",
 				"text2":"Il est inconsolable et ça m'affecte beaucoup aussi..."
               },
               "maman": {
@@ -6243,7 +6243,7 @@
                 "selfEsteem": "1",
                 "attention": "1",
                 "text": "J'ai insta buy le jeu.",
-				"text2":"Seb aussi d'ailleurs. On est resté un peu au téléphone. C'était cool."
+				"text2":"il aussi d'ailleurs. On est resté un peu au téléphone. C'était cool."
               },
               "ex": {
                 "selfEsteem": "15",
@@ -6254,7 +6254,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-35",
-                "text": "Seb a perdu sa mère aujourd'hui",
+                "text": "il a perdu sa mère aujourd'hui",
 				"text2":"Il est inconsolable et ça m'affecte beaucoup aussi..."
               },
               "maman": {
@@ -6292,7 +6292,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat. "
               },
               "maman": {
@@ -6326,7 +6326,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat. "
               },
               "maman": {
@@ -6360,7 +6360,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat. "
               },
               "maman": {
@@ -6394,7 +6394,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat. "
               },
               "maman": {
@@ -6428,7 +6428,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat. "
               },
               "maman": {
@@ -6450,7 +6450,7 @@
           "hour": [
             {
               "time": "9h",
-			  "planning":"SEB BOSSE (PAS CHEZ LUI)",
+			  "planning":"il BOSSE (PAS CHEZ LUI)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -6466,7 +6466,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-3",
-                "text": "Je voulais sortir avec Seb aujourd'hui mais il bosse",
+                "text": "Je voulais sortir avec il aujourd'hui mais il bosse",
 				"text2":"S'il arrive à garder son boulot plus de deux mois je mange mon chapeau."
               },
               "maman": {
@@ -6500,7 +6500,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-3",
-                "text": "Je voulais sortir avec Seb aujourd'hui mais il bosse",
+                "text": "Je voulais sortir avec il aujourd'hui mais il bosse",
 				"text2":"S'il arrive à garder son boulot plus de deux mois je mange mon chapeau."
               },
               "maman": {
@@ -6534,7 +6534,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-3",
-                "text": "Je voulais sortir avec Seb aujourd'hui mais il bosse",
+                "text": "Je voulais sortir avec il aujourd'hui mais il bosse",
 				"text2":"S'il arrive à garder son boulot plus de deux mois je mange mon chapeau."
               },
               "maman": {
@@ -6568,7 +6568,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-5",
-                "text": "Je suis venu chercher Seb aujourd'hui et sa mère m'a dit qu'il était sorti manger",
+                "text": "je suis venu le chercher aujourd'hui et sa mère m'a dit qu'il était sorti manger",
 				"text2":"Bon appétit."
               },
               "maman": {
@@ -6602,7 +6602,7 @@
               "ami": {
                 "selfEsteem": "15",
                 "attention": "25",
-                "text": "Seb m'a sorti en boite ce soir",
+                "text": "il m'a sorti en boite ce soir",
 				"text2":"J'ai revu la fille de l'autre fois. Et j'ai un peu abusé de la bibine."
               },
               "maman": {
@@ -6674,7 +6674,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Je suis venu chercher Seb aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
+                "text": "je suis venu le chercher aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
 				"text2":"J'aurai aimé qu'il me previenne au moins"
               },
               "maman": {
@@ -6708,7 +6708,7 @@
               "ami": {
                 "selfEsteem": "-10",
                 "attention": "-15",
-                "text": "Je suis venu chercher Seb aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
+                "text": "je suis venu le chercher aujourd'hui et sa mère m'a dit qu'il était avec d'autres amis",
 				"text2":"J'aurai aimé qu'il me previenne au moins"
               },
               "maman": {
@@ -6776,7 +6776,7 @@
               "ami": {
                 "selfEsteem": "15",
                 "attention": "25",
-                "text": "Seb m'a sorti en boite ce soir",
+                "text": "il m'a sorti en boite ce soir",
 				"text2":"J'ai revu la fille de l'autre fois. Et j'ai un peu abusé de la bibine."
               },
               "maman": {
@@ -6798,7 +6798,7 @@
           "hour": [
             {
               "time": "9h",
-			  "planning":"SEB BOSSE (PAS CHEZ LUI)",
+			  "planning":"il BOSSE (PAS CHEZ LUI)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -7668,7 +7668,7 @@
           "hour": [
             {
               "time": "9h",
-			  "planning":"SEB BOSSE (PAS CHEZ LUI)",
+			  "planning":"il BOSSE (PAS CHEZ LUI)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -8016,7 +8016,7 @@
           "hour": [
             {
               "time": "9h",
-			  "planning":"SEB ARRETE DE BOSSER",
+			  "planning":"il ARRETE DE BOSSER",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -8886,7 +8886,7 @@
           "hour": [
             {
               "time": "9h",
-			  "planning":"SEB BOSSE (ENCORE)",
+			  "planning":"il BOSSE (ENCORE)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -9268,7 +9268,7 @@
             },
             {
               "time": "12h",
-			  "planning":"SEB BOSSE",
+			  "planning":"il BOSSE",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
@@ -9408,12 +9408,12 @@
           "hour": [
             {
               "time": "9h",
-			  "planning":"DEBUT EVENT E-SPORT (PIAULE ? SEB ?)",
+			  "planning":"DEBUT EVENT E-SPORT (PIAULE ? il ?)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
                 "text": "J'ai fait l'Event à la maison",
-				"text2":"Seb s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
+				"text2":"il s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
               },
               "ex": {
                 "selfEsteem": "1",
@@ -9447,7 +9447,7 @@
                 "selfEsteem": "1",
                 "attention": "1",
                 "text": "J'ai fait l'Event à la maison",
-				"text2":"Seb s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
+				"text2":"il s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
               },
               "ex": {
                 "selfEsteem": "-20",
@@ -9481,7 +9481,7 @@
                 "selfEsteem": "1",
                 "attention": "1",
                 "text": "J'ai fait l'Event à la maison",
-				"text2":"Seb s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
+				"text2":"il s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
               },
               "ex": {
                 "selfEsteem": "-20",
@@ -9515,7 +9515,7 @@
                 "selfEsteem": "1",
                 "attention": "1",
                 "text": "J'ai fait l'Event à la maison",
-				"text2":"Seb s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
+				"text2":"il s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
               },
               "ex": {
                 "selfEsteem": "-20",
@@ -9549,7 +9549,7 @@
                 "selfEsteem": "1",
                 "attention": "1",
                 "text": "J'ai fait l'Event à la maison",
-				"text2":"Seb s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
+				"text2":"il s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
               },
               "ex": {
                 "selfEsteem": "-20",
@@ -9587,7 +9587,7 @@
                 "selfEsteem": "1",
                 "attention": "1",
                 "text": "J'ai fait l'Event à la maison",
-				"text2":"Seb s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
+				"text2":"il s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
               },
               "ex": {
                 "selfEsteem": "0",
@@ -9621,7 +9621,7 @@
                 "selfEsteem": "1",
                 "attention": "1",
                 "text": "J'ai fait l'Event à la maison",
-				"text2":"Seb s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
+				"text2":"il s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
               },
               "ex": {
                 "selfEsteem": "0",
@@ -9655,7 +9655,7 @@
                 "selfEsteem": "1",
                 "attention": "1",
                 "text": "J'ai fait l'Event à la maison",
-				"text2":"Seb s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
+				"text2":"il s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
               },
               "ex": {
                 "selfEsteem": "1",
@@ -9684,12 +9684,12 @@
             },
             {
               "time": "18h",
-			  "planning":"FIN EVENT E-SPORT (PIAULE, SEB)",
+			  "planning":"FIN EVENT E-SPORT (PIAULE, il)",
               "pj": {
                 "selfEsteem": "1",
                 "attention": "1",
                 "text": "J'ai fait l'Event à la maison",
-				"text2":"Seb s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
+				"text2":"il s'est mis en ligne avec d'autres potes, on les as DE-FON-CEY."
               },
               "ex": {
                 "selfEsteem": "1",
@@ -9772,7 +9772,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-35",
-                "text": "Seb a perdu sa mère aujourd'hui",
+                "text": "il a perdu sa mère aujourd'hui",
 				"text2":"Il est inconsolable et ça m'affecte beaucoup aussi..."
               },
               "maman": {
@@ -9806,7 +9806,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-35",
-                "text": "Seb a perdu sa mère aujourd'hui",
+                "text": "il a perdu sa mère aujourd'hui",
 				"text2":"Il est inconsolable et ça m'affecte beaucoup aussi..."
               },
               "maman": {
@@ -9840,7 +9840,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-35",
-                "text": "Seb a perdu sa mère aujourd'hui",
+                "text": "il a perdu sa mère aujourd'hui",
 				"text2":"Il est inconsolable et ça m'affecte beaucoup aussi..."
               },
               "maman": {
@@ -9874,7 +9874,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-35",
-                "text": "Seb a perdu sa mère aujourd'hui",
+                "text": "il a perdu sa mère aujourd'hui",
 				"text2":"Il est inconsolable et ça m'affecte beaucoup aussi..."
               },
               "maman": {
@@ -9908,7 +9908,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-35",
-                "text": "Seb a perdu sa mère aujourd'hui",
+                "text": "il a perdu sa mère aujourd'hui",
 				"text2":"Il est inconsolable et ça m'affecte beaucoup aussi..."
               },
               "maman": {
@@ -9947,7 +9947,7 @@
                 "selfEsteem": "0",
                 "attention": "-10",
                 "text": "Il y a eu une coupure de courant aujourd'hui",
-				"text2":"Yavait rien à faire avec Seb."
+				"text2":"Yavait rien à faire avec il."
               },
               "maman": {
                 "selfEsteem": "0",
@@ -9981,7 +9981,7 @@
                 "selfEsteem": "0",
                 "attention": "-10",
                 "text": "Il y a eu une coupure de courant aujourd'hui",
-				"text2":"Yavait rien à faire avec Seb."
+				"text2":"Yavait rien à faire avec il."
               },
               "maman": {
                 "selfEsteem": "0",
@@ -10015,7 +10015,7 @@
                 "selfEsteem": "0",
                 "attention": "-10",
                 "text": "Il y a eu une coupure de courant aujourd'hui",
-				"text2":"Yavait rien à faire avec Seb."
+				"text2":"Yavait rien à faire avec il."
               },
               "maman": {
                 "selfEsteem": "0",
@@ -10048,7 +10048,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat."
               },
               "maman": {
@@ -10082,7 +10082,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat."
               },
               "maman": {
@@ -10120,7 +10120,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat."
               },
               "maman": {
@@ -10154,7 +10154,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat."
               },
               "maman": {
@@ -10188,7 +10188,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat."
               },
               "maman": {
@@ -10222,7 +10222,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat."
               },
               "maman": {
@@ -10256,7 +10256,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat."
               },
               "maman": {
@@ -10294,7 +10294,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat."
               },
               "maman": {
@@ -10328,7 +10328,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat."
               },
               "maman": {
@@ -10362,7 +10362,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat."
               },
               "maman": {
@@ -10396,7 +10396,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat."
               },
               "maman": {
@@ -10430,7 +10430,7 @@
               "ami": {
                 "selfEsteem": "0",
                 "attention": "-15",
-                "text": "Seb n'est vraiment pas dans son assiette",
+                "text": "il n'est vraiment pas dans son assiette",
 				"text2":"Je déteste le voir comme ça. Mais je ne vais pas mettre plus les pieds dans le plat."
               },
               "maman": {
@@ -10779,7 +10779,7 @@
                 "selfEsteem": "5",
                 "attention": "10",
                 "text": "Je fais une fête à la maison",
-				"text2":"Faut que je passe chercher Seb, ca lui changera les idées"
+				"text2":"Faut que je passe chercher il, ca lui changera les idées"
               },
               "maman": {
                 "selfEsteem": "0",
@@ -10804,250 +10804,250 @@
       {
         "selfEsteem": "20",
         "attention": "5",
-        "text": "Je suis resté à la maison",
-		"text2": "Je devrais sortir pour embellir le quartier."
+        "text": "et j'ai joué à la console avec il en ligne.",
+		"text2": "Il faut que je sortes. Que je fasse des trucs."
       },
       {
         "selfEsteem": "10",
         "attention": "0",
-        "text": "Je suis resté à la maison",
+        "text": "et j'ai fait un peu de ménage.",
 		"text2": "La vie ne se passe pas trop mal, je pense que je vais faire un tour."
       },
       {
         "selfEsteem": "-15",
         "attention": "-5",
-        "text": "Je suis resté à la maison",
+        "text": "et j'ai absoluement rien fait.",
 		"text2": "Pourquoi sortir pour échouer alors que je peux rester à l'intérieur pour le même résultat."
       },
       {
         "selfEsteem": "0",
         "attention": "5",
-        "text": "Je suis resté à la maison",
-		"text2": "Je devrais sortir pour qu'on me voie."
+        "text": "et j'ai dormi.",
+		"text2": "Je devrais sortir. Pour qu'on me voie, au moins."
       },
       {
         "selfEsteem": "0",
         "attention": "0",
-        "text": "Je suis resté à la maison",
+        "text": "et j'ai tenté de pas m'endormir.",
 		"text2": "Il faut que je suive le planning."
       },
       {
         "selfEsteem": "0",
         "attention": "-10",
-        "text": "Je suis resté à la maison",
+        "text": "et c'est tout.",
 		"text2": "Que le temps est long lorsqu'on s'ennuie."
       },
       {
         "selfEsteem": "0",
         "attention": "0",
-        "text": "Je suis resté à la maison",
+        "text": "et j'ai pleuré un peu.",
 		"text2": "Etre ou ne pas être ? Ne pas être, très certainement. Mais chez moi au moins."
       },
       {
         "selfEsteem": "1",
         "attention": "1",
-        "text": "Je suis resté à la maison",
-		"text2": "Je devrais sortir pour embellir le quartier."
+        "text": "un eu comme si je me cachais.",
+		"text2": "Je sais pas ce qui me rend le plus dingue : être seul, ou être entouré."
       }
     ],
     "ex": [
       {
         "selfEsteem": "10",
         "attention": "10",
-        "text": "Je suis allé chez Anna",
+        "text": "et on s'est engueulés.",
 		"text2": "Je lui ai expliqué à quel point sa vie sera insipide sans moi, elle m'a giflé." 
       },
 	  {
         "selfEsteem": "10",
         "attention": "10",
-        "text": "Je suis allé chez Anna",
+        "text": "pour récupérer des affaires, et on s'est à peine adressée la parole.",
 		"text2": "Peut-être que finalement, un silence vaut bien cent mots."
       },
       {
         "selfEsteem": "-10",
         "attention": "-20",
-        "text": "Je suis allé chez Anna",
+        "text": "lui prêter un CD, et je me suis foutu la honte.",
 		"text2": "Elle m'a trouvé si sombre qu'elle m'a foutu dehors."
       },
       {
         "selfEsteem": "15",
         "attention": "0",
-        "text": "Je suis allé chez Anna",
-		"text2": "Tout ce temps perdu avec elle. Mais ne lui faisons pas plus de mal, elle est déjà si fragile."
+        "text": "après un coup de téléphone. Je comprends pas ce qu'elle cherche.",
+		"text2": "Rester amis ? Je sais pas si je peux. Elle me manque, et je crois que je lui en veux."
       },
       {
         "selfEsteem": "10",
         "attention": "10",
-        "text": "Je suis allé chez Anna",
-		"text2": "On s'est remémorés quelques souvenirs. Ca fait bizarre. J'ai souri et je suis parti. Le coeur lourd, l'âme légère ? Ou bien est-ce le contraire ?"
+        "text": "On s'est remémorés quelques souvenirs. Ca fait bizarre.",
+		"text2": "J'ai souri et je suis parti. Le coeur lourd, l'âme légère ? Ou bien est-ce le contraire ?"
       },
       {
         "selfEsteem": "-10",
         "attention": "-10",
-        "text": "Je suis allé chez Anna",
-		"text2": "J'ai voulu lui raconter toutes mes misères, mais ça ne valait pas le coup, alors je m'en suis allé."
+        "text": "et j'ai commencé à lui raconter toutes mes misères,",
+		"text2": "mais ça ne valait pas le coup, alors je m'en suis allé."
       },
       {
         "selfEsteem": "-10",
         "attention": "-25",
-        "text": "Je suis allé chez Anna",
-		"text2": "Aucun mot n'a pu sortir. J'ai plus de cafards en moi qu'Oggy. Ca doit se voir, puisqu'elle a prétexté un rendez-vous urgent pour sortir."
+        "text": "et... Aucun mot n'a pu sortir. J'ai plus de cafards en moi qu'Oggy.",
+		"text2": " Ca doit se voir, puisqu'elle a prétexté un rendez-vous urgent pour sortir."
       },
       {
         "selfEsteem": "1",
         "attention": "1",
-        "text": "Je suis allé chez Anna",
-		"text2": "Je devrais sortir pour embellir le quartier."
+        "text": "et on s'est fait un film.",
+		"text2": "Je sais pas à quoi je m'attends. C'est fini."
       }
     ],
     "ami": [
       {
         "selfEsteem": "-10",
         "attention": "5",
-        "text": "Je suis allé chez Seb",
+        "text": "on s'est engueulés.",
 		"text2": "Je lui ai expliqué comment gérer sa vie, il m'a envoyé bouler."
       },
       {
         "selfEsteem": "15",
         "attention": "5",
-        "text": "Je suis allé chez Seb",
-		"text2": "Sébastien devait s'entraîner pour le concours de commissaire, avec ses questions à répétition. C'était limite gênant."
+        "text": "et... Sébastien, il devait s'entraîner pour le concours de commissaire,",
+		"text2": "avec ses questions à répétition. C'était limite gênant."
       },
       {
         "selfEsteem": "10",
         "attention": "15",
-        "text": "Je suis allé chez Seb",
-		"text2": "Il n'a suffit que de quelques mots pour que Seb me prenne dans les bras."
+        "text": "parce que j'allais pas très bien.",
+		"text2": "Il n'a suffit que de quelques mots pour que il me prenne dans les bras."
       },
       {
         "selfEsteem": "-15",
         "attention": "0",
-        "text": "Je suis allé chez Seb",
-		"text2": "On s'est disputés. Mais ai-je perdu quelque chose ?"
+        "text": "on s'est engueulés.",
+		"text2": "Mais ai-je perdu quelque chose ?"
       },
       {
         "selfEsteem": "10",
         "attention": "20",
-        "text": "Je suis allé chez Seb",
+        "text": "Et on a fait de la musique.",
 		"text2": "Jouer de la contrebasse avec son ami, c'est le feu. Bon, peut-être pas. Mais ça change quand même les idées."
       },
       {
         "selfEsteem": "-10",
         "attention": "-10",
-        "text": "Je suis allé chez Seb",
-		"text2": "Les secondes passent lentement. J'ai l'impression d'être là depuis 5 heures, mais ça ne fait que 30 secondes. Aie. Si seulement je pouvais lui dire."
+        "text": "les secondes passent lentement. J'ai l'impression d'être là depuis 5 heures,",
+		"text2": " mais ça ne fait que 30 secondes. Aie. Si seulement je pouvais lui dire."
       },
       {
         "selfEsteem": "10",
         "attention": "15",
-        "text": "Je suis allé chez Seb",
-		"text2": "Sébastien m'a parlé de tout et de rien. Comme je ne répondais pas, il m'a regardé longuement, et on est restés comme ça."
+        "text": "il m'a parlé de tout et de rien.",
+		"text2": " Comme je ne répondais pas, il m'a regardé longuement, et on est restés comme ça."
       },
       {
         "selfEsteem": "1",
         "attention": "1",
-        "text": "Je suis allé chez Seb",
-		"text2": "Je devrais sortir pour embellir le quartier."
+        "text": "Jcomme ça.",
+		"text2": "Il fallait que je sortes."
       }
     ],
     "maman": [
       {
         "selfEsteem": "-10",
         "attention": "-15",
-        "text": "Je suis allé chez maman",
-		"text2": "J'ai tenté de lui montrer ma perfection, elle a pleuré."
+        "text": "sur un coup de tête.",
+		"text2": "J'ai tenté de lui montrer que j'allais bien, elle a pleuré."
       },
       {
         "selfEsteem": "20",
         "attention": "20",
-        "text": "Je suis allé chez maman",
+        "text": "pour lui faire une bise.",
 		"text2": "A peine étais-je rentré que ses premiers mots furent : 'Mon fils, tu t'es enfin repris'. C'est vrai."
       },
       {
         "selfEsteem": "-10",
         "attention": "10",
-        "text": "Je suis allé chez maman",
+        "text": "prendre des fringues.",
 		"text2": "Elle a tenté de me remonter le moral, mais il n'y a plus rien à réparer. Et voilà qu'elle pleure."
       },
       {
         "selfEsteem": "-20",
         "attention": "-20",
-        "text": "Je suis allé chez maman",
+        "text": "Alors que j'étais bien, mais sans lui dire comment je me sens.",
 		"text2": "Maman pleure. Comme d'habitude. Elle se complaît dans sa tristesse."
       },
       {
         "selfEsteem": "10",
         "attention": "15",
-        "text": "Je suis allé chez maman",
+        "text": "pour lui demander de me faire des brownies.",
 		"text2": "Avec elle, je me sens si fragile, et paradoxalement si fort. J'ose à peine y penser."
       },
       {
         "selfEsteem": "-20",
         "attention": "-10",
-        "text": "Je suis allé chez maman",
-		"text2": "Je n'ai rien dit, mais mes yeux parlaient tant pour moi que maman a tout compris. Et je m'en veux tellement de la voir pleurer par ma faute."
+        "text": "et je n'ai rien dit, mais mes yeux parlaieont parlé et elle a tout compris.",
+		"text2": "Et je m'en veux tellement de la voir pleurer par ma faute."
       },
       {
         "selfEsteem": "-30",
         "attention": "-25",
-        "text": "Je suis allé chez maman",
+        "text": "c'était vraiment étrange.",
 		"text2": "Si papa était là, je suis sûr qu'il pleurait avec maman en me voyant."
       },
       {
-        "selfEsteem": "1",
-        "attention": "1",
-        "text": "Je suis allé au centre ville",
-		"text2": "Je devrais sortir pour embellir le quartier."
+        "selfEsteem": "5",
+        "attention": "10",
+        "text": "pour squatter et elle m'a un peu laissé faire.",
+		"text2": "J'ai pensé qe ce serait bien de lui rendre visite."
       }
     ],
     "centreville": [
       {
-        "selfEsteem": "1",
-        "attention": "1",
-        "text": "Je suis allé au centre ville",
-		"text2": "Cette rue est bien trop sale pour que je me risque à l'emprunter."
+        "selfEsteem": "-6",
+        "attention": "0",
+        "text": "et je me sentais d'aller en boîte",
+		"text2": "mais cette rue est bien trop sale pour que je me risque à l'emprunter. Tout me parrait sale."
       },
       {
-        "selfEsteem": "1",
-        "attention": "1",
-        "text": "Je suis allé au centre ville",
+        "selfEsteem": "4",
+        "attention": "-3",
+        "text": "seul.",
 		"text2": "C'est toujours si plaisant de me promener ici."
       },
       {
-        "selfEsteem": "1",
-        "attention": "1",
-        "text": "Je suis allé au centre ville",
+        "selfEsteem": "-5",
+        "attention": "-10",
+        "text": "pour me ballader dans les rues",
 		"text2": "Tous ces rats qui grouillent... J'y suis bien à ma place."
       },
       {
-        "selfEsteem": "1",
-        "attention": "1",
-        "text": "Je suis allé au centre ville",
+        "selfEsteem": "-5",
+        "attention": "-4",
+        "text": "pour marcher.",
 		"text2": "Ces rues risquent de me saborder mon moral."
       },
       {
-        "selfEsteem": "1",
-        "attention": "1",
-        "text": "Je suis allé au centre ville",
-		"text2": "Je ressens un tel sentiment de bonheur en ces lieux."
+        "selfEsteem": "9",
+        "attention": "-6",
+        "text": "Vraiment seul.",
+		"text2": "Je ressens un tel sentiment de liberté en ces lieux... de solitude aussi."
       },
       {
-        "selfEsteem": "1",
-        "attention": "1",
-        "text": "Je suis allé au centre ville",
+        "selfEsteem": "-5",
+        "attention": "10",
+        "text": "avec Seb.",
 		"text2": "Tout le monde me regarde. Ils voient la misère en moi."
       },
       {
-        "selfEsteem": "1",
-        "attention": "1",
-        "text": "Je suis allé au centre ville",
+        "selfEsteem": "-5",
+        "attention": "20",
+        "text": "seul.",
 		"text2": "Pourquoi suis-je ici ?"
       },
       {
-        "selfEsteem": "1",
-        "attention": "1",
-        "text": "Je suis allé au centre ville",
-		"text2": "Je devrais sortir pour embellir le quartier." 
+        "selfEsteem": "-2",
+        "attention": "30",
+        "text": "avec Seb et des potes.",
+		"text2": "Je me sens un peu... Etrange... En décalage." 
       }
     ]
   }

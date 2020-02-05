@@ -177,9 +177,14 @@ public class ChoiceLocations : MonoBehaviour
             {
                 EventFive.text = textDisplay;
                 ReactionFive.text = reaction;
-                EventBilan.text = "23 h : Bilan de la journée";
-            }        
-            
+
+                StartCoroutine("EndOfADay");
+            }
+            if (time > 22)
+            {
+                EventBilan.text = "23 h : Bilan de la journée 22";
+            }
+
             if (mois < 10)
             {
                 date.text = jour + "/0" + mois;
@@ -199,6 +204,7 @@ public class ChoiceLocations : MonoBehaviour
                 day++;
                 endDay();
             }
+
             if (jour > 31)
             {
                 jour = 1;
@@ -219,6 +225,13 @@ public class ChoiceLocations : MonoBehaviour
         }
     }
 
+    IEnumerator EndOfADay()
+    {
+        yield return new WaitForSeconds(0.2f);
+        EventBilan.text = "23 h : Bilan de la journée IEnum";
+        yield return new WaitForSeconds(3.5f);
+    }
+
     void ActionMaison()
     {
         pin.transform.position = buttonMaison.transform.position;
@@ -230,17 +243,17 @@ public class ChoiceLocations : MonoBehaviour
         if (ev.text == "" || ev.text == "rien")
             ev = GetDefaultEvent("pj");
 
-        if (imHere == "chez moi")
+        if (imHere == "Chez moi")
         {
-            infoTime = "je reste en un peu chez moi, " + ev.text ; 
+            infoTime = "Je reste en un peu à la piaule, " + ev.text ; 
         }
         else
         {
-            infoTime = "je suis chez moi, " + ev.text;
+            infoTime = "Je suis resté à la maison, " + ev.text;
         }
         reaction = ev.text2;
         move = true;
-        imHere = "chez moi";
+        imHere = "Chez moi";
 
         selfEsteem.Value += ev.selfEsteem;
         attention.Value += ev.attention;
@@ -254,15 +267,15 @@ public class ChoiceLocations : MonoBehaviour
         if (ev.text == "" || ev.text == "rien")
             ev = GetDefaultEvent("maman");
 
-        if (imHere == "je suis chez maman")
+        if (imHere == "Je suis chez Maman, ")
         {
-            infoTime = "je reste encore un peu chez maman, " + ev.text;
+            infoTime = "Je reste encore un peu chez Maman, " + ev.text;
         }
         else
         {
-            infoTime = "je suis allée chez maman, " + ev.text;
+            infoTime = "Je suis allée chez Maman, " + ev.text;
         }
-        imHere = "je suis chez maman";
+        imHere = "Je suis chez Maman, ";
         reaction = ev.text2;
         move = true;
         selfEsteem.Value += ev.selfEsteem;
@@ -277,15 +290,15 @@ public class ChoiceLocations : MonoBehaviour
         if (ev.text == "" || ev.text == "rien")
             ev = GetDefaultEvent("ex");
 
-        if (imHere == "je suis chez mon ex")
+        if (imHere == "Je suis chez Anna, ")
         {
-            infoTime = "je suis toujours chez mon ex, " + ev.text;
+            infoTime = "Je suis toujours chez Anna, " + ev.text;
         }
         else
         {
-            infoTime = "je suis allée chez mon ex, " + ev.text;
+            infoTime = "Je suis allée chez Anna, " + ev.text;
         }
-        imHere = "je suis chez mon ex";
+        imHere = "Je suis chez Anna, ";
         reaction = ev.text2;
         move = true;
 
@@ -301,15 +314,15 @@ public class ChoiceLocations : MonoBehaviour
         if (ev.text == "" || ev.text == "rien")
             ev = GetDefaultEvent("ami");
 
-        if (imHere == "je suis chez mon ami")
+        if (imHere == "Je suis chez Seb, ")
         {
-            infoTime = "je suis toujours chez mon ami, " + ev.text;
+            infoTime = "je suis toujours chez Seb, " + ev.text;
         }
         else
         {
-            infoTime = "je suis chez mon ami, " + ev.text;
+            infoTime = "Je suis chez Seb, " + ev.text;
         }
-        imHere = "je suis chez mon ami";
+        imHere = "Je suis chez Seb, ";
         reaction = ev.text2;
         move = true;
 
@@ -326,15 +339,15 @@ public class ChoiceLocations : MonoBehaviour
         if (ev.text == "" || ev.text == "rien")
             ev = GetDefaultEvent("centreVille");
 
-        if (imHere == "je suis en ville")
+        if (imHere == "Je suis en ville ")
         {
-            infoTime = "je suis toujours en ville, " + ev.text;
+            infoTime = "Je suis toujours en ville, " + ev.text;
         }
         else
         {
-            infoTime = "je suis partie en ville, " + ev.text;
+            infoTime = "Je suis partie en ville, " + ev.text;
         }
-        imHere = "je suis en ville";
+        imHere = "Je suis en ville ";
         reaction = ev.text2;
         move = true;
 
